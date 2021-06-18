@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: spain/islas-baleares/menorca/2020-04-30/visualisations/listings.csv</li>
+<li>RequestId: 5T62YMGWTH0E9BZ2</li>
+<li>HostId: 10xpIs1Qs142dTVQfPv1r3P5gSvCi4hDP86u7uQJbO30MrtLy6bdYO0dPDUfS8rvrry4VYhxdsw=</li>
+</ul>
+<hr/>
+</body>
+</html>

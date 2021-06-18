@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: france/ile-de-france/paris/2020-05-10/visualisations/listings.csv</li>
+<li>RequestId: WWF4T75X0WHSX2S5</li>
+<li>HostId: Zj58BESY1+URnTy6somWHeywoSzO61nx9r+9f2puVfTpW/2vgBKBh1D7OvrECVi+Vjqbs8Qb91A=</li>
+</ul>
+<hr/>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: switzerland/vd/vaud/2020-05-19/visualisations/listings.csv</li>
+<li>RequestId: XEAQPPQXTVZP92E8</li>
+<li>HostId: rwxXBqG7Zunn+621R/0opZSGYAoZSEnVB8f+CeLyBARlj7/sk1c6BVsWjWvAaj4bxywW0O+dgDQ=</li>
+</ul>
+<hr/>
+</body>
+</html>

@@ -1,0 +1,695 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+8521,SunsplashedSerenity walk to Harvard & Fresh Pond,306681,Janet,,West Cambridge,42.38329,-71.13617,Entire home/apt,150,3,36,2020-07-11,0.26,2,164
+11169,"Lovely Studio Room: Thu-Mons, Near Universities",40965,Judy,,North Cambridge,42.39469,-71.13223,Private room,112,2,145,2020-01-17,1.13,3,364
+11945,Near Harvard: Safe & Lovely Room,40965,Judy,,North Cambridge,42.39454,-71.13431,Private room,82,3,34,2020-02-26,0.26,3,363
+19581,"Furnished suite, Windsor",74249,Marc And Patty,,The Port,42.36276,-71.09765,Private room,101,4,6,2018-08-04,0.05,3,336
+22006,B & B near Harvard's Quad Houses,84280,Blue,,Neighborhood Nine,42.3867,-71.12387,Private room,139,2,86,2020-03-15,0.84,1,246
+24063,Riverbend Bed and Breakfast,96414,Polly,,West Cambridge,42.37606,-71.14041,Private room,110,2,178,2020-01-08,1.40,1,365
+26531,CENTRAL LOCATION IN HEART OF CAMBRIDGE,87398,Ari,,Riverside,42.3719,-71.11569,Entire home/apt,200,91,4,2018-11-04,0.03,2,365
+27498,Furnished suite 2 @ the Windsor,74249,Marc And Patty,,The Port,42.36381,-71.09754,Private room,118,5,11,2019-09-15,0.09,3,365
+79762,Cambridge Getaway @ Harvard & MIT,430015,Kevin,,The Port,42.3695,-71.09921,Entire home/apt,250,3,351,2020-09-05,3.04,2,347
+106474,large furnished suite in Central sq,74249,Marc And Patty,,The Port,42.3627,-71.09645,Private room,138,5,15,2019-08-24,0.13,3,365
+108898,"""The Treehouse"" :  Elegant living near Harvard",306681,Janet,,West Cambridge,42.38377,-71.13543,Entire home/apt,180,1,20,2020-08-15,0.17,2,164
+219471,"A+ Clean & Safe 1Br @ MIT, Kendall, Back Bay",444945,Lisa,,Cambridgeport,42.36109,-71.10425,Entire home/apt,200,10,59,2019-11-10,0.54,1,350
+326170,Two-room suite near Harvard Univ. with parking,1665697,Nadine And Bernd,,Agassiz,42.38247,-71.11403,Entire home/apt,80,1,224,2019-12-26,2.11,1,0
+405144,Apartment in Harvard's Backyard,2018955,Nicole,,Mid-Cambridge,42.37125,-71.11105,Entire home/apt,165,31,54,2020-03-01,0.52,1,339
+456429,Elegant Airy Comfort. Workspace. Private Entrance.,2244099,Rebecca & Richard,,North Cambridge,42.39475,-71.12548,Entire home/apt,300,60,255,2020-09-09,2.50,1,291
+675441,Waterfront-1 Bed Room Luxury Condo,3423245,Elaine,,East Cambridge,42.37074,-71.07722,Private room,180,91,20,2019-10-10,0.23,1,0
+742574,See Yourself in Central Square,1152305,Greg,,Cambridgeport,42.36486,-71.10328,Entire home/apt,150,30,126,2020-05-16,1.32,3,147
+860634,Home on quiet street near Harvard,4507945,Deborah,,Agassiz,42.38391,-71.11449,Private room,70,1,437,2020-03-11,4.76,1,0
+910408,Full Term Housing in Mid Cambridge MA!,4883794,Melissa,,Mid-Cambridge,42.37039,-71.10645,Entire home/apt,100,250,6,2019-05-03,0.07,1,363
+1054635,"Sunny, lg 1-br, heart of Cambridge",3087212,Eleanor,,Mid-Cambridge,42.37254,-71.1126,Entire home/apt,125,91,10,2017-05-29,0.11,1,364
+1067104,Harvard Tufts MIT: Artist's Home,5871398,Beverly,,North Cambridge,42.39177,-71.13116,Private room,79,180,17,2020-03-21,0.22,2,365
+1141088,MIT/Harvard/Inman- 2 Bedroom Apt.,2530211,Erin,,Wellington-Harrington,42.37117,-71.09685,Entire home/apt,179,2,420,2020-09-13,4.63,1,149
+1143701,Beautiful Light-Filled Bedroom/Best Location,6203069,Michael,,North Cambridge,42.38884,-71.12048,Private room,125,91,82,2019-10-21,0.91,1,365
+1154298,Quiet private room in N. Cambridge,6325607,John,,North Cambridge,42.40021,-71.13643,Private room,65,1,366,2020-09-01,4.12,1,0
+1193875,Large Downstairs Room,229956,Adam,,The Port,42.36433,-71.09911,Private room,32,16,170,2020-08-31,1.91,1,30
+1215512,Minutes to Harvard Square,2066283,Roger,,Strawberry Hill,42.37824,-71.14915,Entire home/apt,166,91,16,2019-12-12,0.24,1,117
+1216161,"Spacious townhouse in Cambridge, MA",6636728,Nomeda,,Mid-Cambridge,42.3762,-71.10919,Entire home/apt,135,91,3,2018-08-30,0.06,1,0
+1225831,Victorian Charm MIT/Harvard/Kendall/Central-1BR,3380576,Paul,,The Port,42.36458,-71.09845,Entire home/apt,118,3,432,2020-05-15,4.81,1,146
+1276962,"Cambridge Apt, walk to MIT, Harvard",6122485,Wendy,,The Port,42.3678,-71.10175,Entire home/apt,200,3,119,2020-03-13,1.86,1,144
+1330779,Huron Village Lower Unit Harvard Sq,4642626,Amy,,Neighborhood Nine,42.38905,-71.12425,Entire home/apt,200,7,65,2020-05-31,0.74,5,335
+1341022,"Long term only, Modern Entire Condo MIT/MGH $3600",6619766,C,,The Port,42.36821,-71.09436,Entire home/apt,134,91,41,2019-12-22,0.46,1,334
+1404377,Renovated Brownstone - MIT/Kendall,7579202,Jenny,,East Cambridge,42.36743,-71.08458,Private room,140,2,307,2020-03-08,3.49,2,203
+1406416,City living at its finest!,7579202,Jenny,,East Cambridge,42.37143,-71.07881,Private room,140,2,199,2020-02-28,2.37,2,205
+1609674,HARVARD SQUARE APT MIT/BOSTON CLOSE,8572951,Saam,,Neighborhood Nine,42.37599,-71.11792,Entire home/apt,375,91,55,2019-06-07,0.64,1,364
+1619471,Charming Room Near Harvard Square,8530114,Colleen,,Mid-Cambridge,42.37384,-71.10719,Private room,140,2,104,2020-03-13,1.21,3,10
+1619859,Entire 1BR Harvard Sq / Porter Sq,23078,Eric,,Neighborhood Nine,42.38848,-71.12592,Entire home/apt,143,91,1,2014-08-16,0.01,2,365
+1632003,2 Cozy Rooms Near Harvard Square,8530114,Colleen,,Mid-Cambridge,42.37209,-71.10328,Private room,173,2,43,2020-03-19,0.50,3,143
+1711476,"Serene & cozy 1BR oasis, walk to  Harvard Square!",3402394,Case,,Mid-Cambridge,42.37485,-71.10563,Entire home/apt,94,32,59,2020-08-30,1.05,2,221
+1799157,Cambridge Large Room available Long term.,7757356,Alan,,Strawberry Hill,42.37617,-71.1544,Private room,69,32,32,2020-08-22,0.37,1,171
+1840256,Lux 1 Bedroom Cambridge Apt by MIT,9419684,Churchill,,Area 2/MIT,42.36183,-71.0846,Entire home/apt,135,21,18,2018-08-26,0.23,16,365
+1855969,Lux 2 Bedroom Cambridge Apt by MIT,9419684,Churchill,,East Cambridge,42.36342,-71.08281,Entire home/apt,199,21,31,2017-10-20,0.37,16,365
+1881771,"It's home, Cambridge! (2BD/2BT)",9796499,Marisa,,Cambridgeport,42.35564,-71.11298,Entire home/apt,180,3,61,2020-08-29,0.74,1,301
+1893287,Bright Convenient Apt Harvard / MIT,9553483,Jookun,,The Port,42.36563,-71.10043,Entire home/apt,145,2,159,2020-03-19,1.89,1,199
+1935343,"Cute, clean & it’s all yours-1 bed- great location",10014448,Lucia,,Cambridgeport,42.35698,-71.10859,Entire home/apt,145,2,187,2020-10-25,2.29,1,353
+1984737,Charming Harvard Victorian,8824696,Steve,,West Cambridge,42.38116,-71.13326,Entire home/apt,344,3,301,2020-10-12,3.86,2,0
+2030680,Cozy Room in a Charming Townhouse,10427720,Gosia,,Strawberry Hill,42.37852,-71.15249,Private room,125,1,26,2019-10-14,0.33,2,365
+2038283,Stay Across from Harvard's Campus!,4521987,Kris,,Mid-Cambridge,42.37217,-71.11453,Entire home/apt,124,3,134,2020-09-13,1.63,1,18
+2176599,Lux 1 Bedroom Cambridge Apt by MIT,9419684,Churchill,,East Cambridge,42.36322,-71.08456,Entire home/apt,149,21,5,2016-01-17,0.06,16,365
+2223447,HarvardSq. Bright&Quiet 1 BdrApt MONTHLY/LONG TERM,7421025,Doriana,,Mid-Cambridge,42.37109,-71.11066,Entire home/apt,95,91,34,2018-09-01,0.50,3,298
+2451591,Large Master Bedroom + Full Private Bath,12535522,Mona,,Cambridgeport,42.36151,-71.1048,Private room,159,5,19,2019-12-04,0.24,1,362
+2538983,Spacious 2 bedrooms Apt-Roof deck NO Cleaning fee,13000172,Dan,,Cambridgeport,42.35704,-71.10909,Entire home/apt,221,1,370,2020-08-08,5.80,1,55
+2580942,Cambridge Getaway @ MIT and Harvard,430015,Kevin,,The Port,42.3695,-71.09921,Entire home/apt,250,3,261,2020-10-18,3.33,2,309
+2642323,Huron Village Upper Unit Harvard Sq,4642626,Amy,,Cambridge Highlands,42.38817,-71.14601,Entire home/apt,200,7,43,2019-12-01,0.54,5,317
+2879039,Lux 1 Bedroom Cambridge Apt by MIT,9419684,Churchill,,Area 2/MIT,42.36198,-71.08437,Entire home/apt,135,21,14,2018-01-13,0.18,16,365
+2914111,Friendly Pleasant Place,14883738,Minga & Jonathan,,Cambridgeport,42.36397,-71.10712,Private room,108,3,245,2020-03-15,3.11,1,190
+3100411,Harvard MIT Boston Convention Perfect Location,3668535,S,,Mid-Cambridge,42.37114,-71.11273,Entire home/apt,179,2,48,2020-09-16,0.62,2,56
+3209676,"Lovely 2BR Apartment, Excellent location",6839881,Lisan,,Neighborhood Nine,42.38835,-71.1276,Entire home/apt,147,250,1,2014-08-13,0.01,6,365
+3234995,"Lovely, large 3 room apartment",10470174,Maria,,West Cambridge,42.37764,-71.12601,Entire home/apt,300,2,53,2020-03-08,1.30,1,180
+3247833,Lovely East Cambridge Apartment,2212429,Jimmy,,Wellington-Harrington,42.36981,-71.09263,Entire home/apt,138,2,352,2020-03-10,5.13,1,253
+3316734,"Quiet 3rd fl, lovely light, lofted full mattress",9939488,Dan,,Neighborhood Nine,42.38957,-71.12755,Private room,57,91,5,2019-09-01,0.08,3,365
+3334098,"WELL-APPOINTED, BRIGHT AND SPACIOUS",5331227,/We Are Kai & Nina,,East Cambridge,42.36902,-71.0857,Entire home/apt,265,3,46,2020-09-28,0.61,2,268
+3352446,"Near Harvard/MIT/Tufts: Pet OK, backyard, lovely!",3842820,Chris,,Strawberry Hill,42.37778,-71.14997,Entire home/apt,189,5,1,2020-06-28,0.25,1,282
+3375100,"21 - Near Harvard,Sun-filled,Queen bed",17028791,M,,West Cambridge,42.38274,-71.13631,Private room,43,91,36,2020-01-02,0.48,5,264
+3434822,Harvard MIT: Artist's Home,5871398,Beverly,,North Cambridge,42.39403,-71.13094,Private room,84,180,30,2020-04-16,0.39,2,365
+3474824,"Quiet Studio near MIT, Harvard & BU",5074009,Jeff&Liz,,Cambridgeport,42.35903,-71.10812,Entire home/apt,147,2,221,2020-10-15,2.88,2,144
+3475883,Queen Bed (Liz) at Waterbridge,1152305,Greg,,Strawberry Hill,42.37514,-71.15054,Private room,65,3,45,2020-10-01,0.59,3,360
+3510127,Harvard/MIT/Single/Private 1/2 Bath,9270106,Nanette,,The Port,42.36825,-71.0992,Private room,55,1,586,2020-10-24,7.65,1,337
+3554581,Nice light lofted 3rd floor corner room.,9939488,Dan,,Neighborhood Nine,42.38975,-71.12746,Private room,55,175,5,2019-08-12,0.07,3,365
+3610778,Private Room with Bunk Bed near Harvard/MIT,4297079,Charlton & Theresa,,East Cambridge,42.36903,-71.08794,Private room,93,4,28,2020-09-25,0.37,1,36
+3649162,Walk to MIT or Harvard!  Perfect for a family,18446559,Meredith,,Cambridgeport,42.36357,-71.10297,Entire home/apt,210,60,11,2019-08-14,0.16,1,169
+3652550,#34-2 Charming Apt in Porter Sq!,1461240,Monica,,Neighborhood Nine,42.38768,-71.1248,Entire home/apt,185,3,39,2020-08-21,0.52,2,233
+3684345,Lux 2 Bedroom Cambridge Apt by MIT,9419684,Churchill,,East Cambridge,42.36338,-71.08365,Entire home/apt,199,21,10,2018-10-05,0.13,16,365
+3740822,Lux 2BR Cambridge Apt by MIT,9419684,Churchill,,East Cambridge,42.36366,-71.08329,Entire home/apt,199,21,15,2016-07-18,0.20,16,365
+3774900,City Oasis |Deck & Yard |Walk To Harvard MIT Train,6823717,Juan Carlos,,Cambridgeport,42.36079,-71.11365,Entire home/apt,167,2,261,2020-04-06,3.52,1,162
+3796979,#34-1 Great apartment in Cambridge!,1461240,Monica,,Neighborhood Nine,42.38768,-71.1248,Entire home/apt,150,3,36,2020-10-04,0.49,2,210
+3894437,Lovely Studio in Cambridge -- Great Location,6839881,Lisan,,Neighborhood Nine,42.38856,-71.12594,Entire home/apt,122,200,3,2018-01-01,0.04,6,365
+3945567,Peaceful One-Bedroom Apartment,20446189,Mary,,North Cambridge,42.39511,-71.13134,Entire home/apt,140,2,62,2016-10-25,0.92,1,33
+3966829,Sunny Base close to MIT,20414167,Sandra,,The Port,42.36693,-71.09921,Entire home/apt,160,91,34,2019-08-02,0.45,1,90
+4112094,Cambridge Studio Apartment,404360,Victor,,West Cambridge,42.37869,-71.14482,Entire home/apt,120,2,212,2020-10-21,2.86,2,338
+4116478,Great House in Central Square,4578066,Lindsey,,Cambridgeport,42.36312,-71.10284,Entire home/apt,350,2,156,2020-10-06,2.14,1,339
+4168303,Transformable bedroom A with bath,21631889,Ling Yi,,The Port,42.369,-71.09653,Private room,95,45,18,2020-10-04,0.25,16,218
+4209359,1B PRIVATE STUDIO APT! HARVARD/MIT+REDUCED,81038,Louisa,,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,98,1,181,2020-10-03,2.68,9,345
+4216908,"Quiet home near Porter, Harvard. On Red Line",21885217,Catherine,,North Cambridge,42.38954,-71.11806,Entire home/apt,225,29,18,2020-01-09,0.47,1,35
+4235636,Cozy Room in a Charming Townhouse,10427720,Gosia,,Strawberry Hill,42.37711,-71.15168,Private room,125,1,7,2019-10-20,0.24,2,365
+4338244,"Lux Kendall Square 1 Bedroom w/gym, WiFi",9419684,Churchill,,East Cambridge,42.36442,-71.08211,Entire home/apt,179,21,2,2015-08-23,0.03,16,365
+4363059,"3BR Private Apt, 1 Mile To Harvard, Walk To Stores",17028791,M,,West Cambridge,42.38157,-71.13658,Entire home/apt,99,91,29,2019-09-30,0.40,5,179
+4422473,Two quiet rooms in a lovely house,2063272,"Sam, Jesse, And Kaia",,Agassiz,42.38665,-71.11129,Private room,99,91,2,2015-10-04,0.03,1,179
+4437529,Lux 2BR Cambridge Apt by MIT,9419684,Churchill,,East Cambridge,42.36366,-71.08329,Entire home/apt,199,21,9,2016-04-09,0.13,16,365
+4437789,Lux 1 Bedroom Cambridge Apt by MIT,9419684,Churchill,,East Cambridge,42.36478,-71.08217,Entire home/apt,149,21,4,2016-01-18,0.06,16,365
+4455298,Family Friendly 3 Bedroom,21631889,Ling Yi,,The Port,42.36852,-71.09723,Entire home/apt,299,90,104,2019-06-04,1.45,16,150
+4489577,Lux 1 Bedroom Cambridge Apt by MIT,9419684,Churchill,,East Cambridge,42.36388,-71.08309,Entire home/apt,149,21,2,2018-09-24,0.03,16,0
+4736800,Harvard & MIT- Sweet Retreat in Coolest Cambridge!,10732627,Suz,,Mid-Cambridge,42.37066,-71.10431,Entire home/apt,138,2,168,2020-10-24,3.97,1,285
+4738463,Sunny corner living room/bedroom B,21631889,Ling Yi,,The Port,42.36913,-71.09772,Private room,85,45,0,,,16,127
+4753390,Live Large in Transformable Studio,21631889,Ling Yi,,The Port,42.3686,-71.09652,Entire home/apt,153,32,65,2020-03-17,0.95,16,152
+4759313,Private Apartment - enjoy the space,24302173,Laurie,,Strawberry Hill,42.37826,-71.15506,Entire home/apt,179,91,44,2018-06-14,0.62,2,365
+4824130,Cambridge Modern Living,1800647,Saba,,West Cambridge,42.37524,-71.14744,Shared room,76,91,0,,,1,364
+4841421,Huge classy 3BR Apt w/parking,8618392,Bertha,,Cambridgeport,42.35792,-71.11119,Entire home/apt,250,3,47,2020-01-05,0.70,1,12
+4894617,"Large, cozy 1BD in awesome location",25187338,Anshul,,Cambridgeport,42.35961,-71.10742,Private room,86,91,0,,,1,365
+4921626,Private apartment,24302173,Laurie,,Strawberry Hill,42.37934,-71.15508,Private room,170,91,0,,,2,365
+4954584,Elegant contemporary 2Br,21631889,Ling Yi,,The Port,42.36931,-71.09781,Entire home/apt,248,45,96,2019-09-16,1.38,16,113
+4956321,Charming Third Floor Apartment,25547444,Susan,,Agassiz,42.38412,-71.11484,Entire home/apt,145,14,123,2020-10-12,1.76,1,0
+4958294,HOLIDAY IN HARVARD SQUARE. EASY COMMUTE TO BOSTON,87398,Ari,,Neighborhood Nine,42.3798,-71.12124,Entire home/apt,179,91,17,2018-08-28,0.24,2,365
+5016234,"Bright, Beautiful 2 Bed 2 Bath near Kendall/MIT",7388427,Upasana,,Wellington-Harrington,42.37342,-71.09148,Private room,108,180,1,2020-02-28,0.12,1,359
+5051452,Harvard-Central Studio loft with rooftop,22648706,Chiara,,Mid-Cambridge,42.37215,-71.10525,Entire home/apt,198,91,11,2019-07-29,0.16,1,363
+5365197,Cozy Bedroom nr Harvard/MIT/Kendall,2861941,Bronwyn,,Mid-Cambridge,42.37394,-71.10188,Private room,100,91,68,2019-09-30,1.02,1,298
+5666988,Sunny 3BD House near Harvard Square,19742431,Sarah,,West Cambridge,42.37453,-71.13276,Entire home/apt,410,7,30,2020-10-01,0.45,1,113
+5705842,Lux Corner 2Br near MIT/Kendall,21631889,Ling Yi,,The Port,42.36724,-71.0985,Entire home/apt,253,90,46,2020-07-24,0.70,16,153
+5791244,Sunny Huron Village Apt. w/ Terrace,30045286,James,,West Cambridge,42.38376,-71.13549,Entire home/apt,181,3,271,2020-10-13,4.12,1,137
+5811422,Studio-type space near Central Square,12576232,Thomas,,The Port,42.36899,-71.09849,Entire home/apt,70,32,50,2019-02-11,0.78,5,55
+5857136,Lovely apt easy walk to Harvard Sq,1260886,Mimi And Brian,,Neighborhood Nine,42.38358,-71.13028,Entire home/apt,178,2,145,2020-10-02,2.15,2,280
+5870441,Lux Furnished Cambridge 1-BR Apartment,30283594,Global Luxury Suites,,East Cambridge,42.36369,-71.08396,Entire home/apt,514,91,1,2015-10-19,0.02,15,364
+6106691,Luxury Harvard/MIT Victorian,8824696,Steve,,West Cambridge,42.38289,-71.13313,Entire home/apt,264,1,149,2019-11-22,2.27,2,290
+6185544,Sunny 3 bed/2 bath-5 min to T- Harvard/MIT/Boston,21745230,Jurek,,North Cambridge,42.39633,-71.13642,Entire home/apt,199,1,74,2020-07-02,1.16,6,156
+6185571,Room w/private bath+fridge+microwave-,21745230,Jurek,,North Cambridge,42.39604,-71.13515,Private room,59,3,73,2020-06-10,1.14,6,290
+6374780,"Big 2 bedroom, steps to Davis Sq",25354687,David,,North Cambridge,42.39523,-71.12897,Entire home/apt,171,120,5,2015-09-14,0.08,1,358
+6385215,2BRM  with Parking - near Harvard & Porter Sq,22200553,Andrew,,Neighborhood Nine,42.3831,-71.12946,Entire home/apt,111,30,18,2020-10-04,0.29,1,207
+6397721,"Lux Kendall Square 1 Bedroom w/gym, WiFi",9419684,Churchill,,East Cambridge,42.36462,-71.08318,Entire home/apt,179,21,10,2017-12-26,0.16,16,365
+6404336,Private Entrance Room in Cambridge,33401056,Dora,,Wellington-Harrington,42.37169,-71.09617,Private room,70,2,56,2020-03-01,0.88,1,65
+6432362,Top floor apt with deck-brand new kitchen!,294279,Helena,,Cambridgeport,42.357,-71.10758,Entire home/apt,310,91,5,2018-11-29,0.08,1,364
+6434394,2BR Walk to Harvard/MIT/Red Line T,24415419,David,,The Port,42.36814,-71.0989,Entire home/apt,242,1,290,2020-10-25,4.38,1,268
+6473781,Single family house / Cambridgeport,33820072,Mary,,Cambridgeport,42.36033,-71.10475,Entire home/apt,550,3,19,2018-10-21,0.29,1,214
+6556420,Nice room near Harvard Square,34289718,Sherry,,Cambridge Highlands,42.39178,-71.15617,Private room,70,2,131,2019-12-19,1.99,1,23
+6635782,Harvard Square: Historic & Cheerful,34732627,Hedy,,Agassiz,42.38058,-71.11711,Entire home/apt,289,4,27,2020-02-23,0.42,1,332
+6660580,Warm and welcoming,34862036,Purnima,,Mid-Cambridge,42.37302,-71.103,Private room,88,1,124,2019-11-16,1.93,2,23
+6662157,Sunny+Spacious +AC/walk to T Davis/Porter/Harvard,30719211,Zazy & Georges,,North Cambridge,42.39247,-71.132,Entire home/apt,385,2,139,2020-07-20,2.12,1,308
+6702823,Guest room @ Harvard/MIT Central Sq,25012699,Amanda,,Mid-Cambridge,42.36884,-71.10341,Private room,91,1,51,2018-09-30,0.78,1,117
+6759024,Modern Furnished 2-Bedroom Apt in Kendall Square,30283594,Global Luxury Suites,,East Cambridge,42.36299,-71.08356,Entire home/apt,686,91,5,2017-01-30,0.08,15,364
+6847242,Smack dab between Harvard+Porter 2,35879509,Connie,,Neighborhood Nine,42.38324,-71.12211,Private room,90,2,150,2020-03-01,2.37,2,174
+6947733,Smack dab between Harvard + Porter!,35879509,Connie,,Neighborhood Nine,42.38299,-71.12278,Private room,90,2,187,2020-03-08,2.89,2,174
+6949378,#Luxury Kendall Square Furnished 2BR Apartment,30283594,Global Luxury Suites,,East Cambridge,42.36469,-71.08274,Entire home/apt,686,91,17,2018-10-13,0.27,15,179
+7007117,Room near Alewife Red Line T stop.,21745230,Jurek,,North Cambridge,42.39634,-71.13683,Private room,60,1,29,2020-04-25,0.45,6,298
+7031423,Cambridge Cottage - Garden Room,34875728,Thadd,,Wellington-Harrington,42.37332,-71.09792,Private room,58,3,273,2020-09-28,4.22,1,23
+7080737,WALK EVERYWHERE Heart of Harvard-MIT Private Room,3668535,S,,Riverside,42.37161,-71.11577,Private room,149,2,25,2019-10-27,0.39,2,90
+7094503,"Steps away from Harvard, Inman Sq",34862036,Purnima,,Mid-Cambridge,42.37262,-71.10469,Private room,84,1,178,2019-11-15,2.77,2,23
+7401198,Convenient & Cozy in Cambridgeport,90117,Poppy,,Cambridgeport,42.35821,-71.10592,Private room,113,2,71,2019-10-25,1.14,1,19
+7522561,2Br Lux Apt near Fresh Pond/Harvard,21631889,Ling Yi,,Neighborhood Nine,42.38784,-71.14018,Entire home/apt,239,75,41,2020-09-25,0.64,16,177
+7573492,Harvard Cambridge Large room,6438360,John,,Neighborhood Nine,42.38387,-71.13316,Private room,78,1,348,2020-03-23,5.54,1,37
+7729257,Big sunny artist's 1BR near Harvard,3402394,Case,,Mid-Cambridge,42.37453,-71.10589,Entire home/apt,120,32,58,2020-03-12,0.92,2,202
+7774831,Charming house in Cambridge C33W,12576232,Thomas,,The Port,42.36946,-71.09899,Private room,45,32,10,2017-10-29,0.20,5,336
+7843046,"Your Own Private Bedroom, Bathroom AND Living Room",3917069,Karl,,North Cambridge,42.39409,-71.13035,Private room,129,1,156,2020-03-15,2.55,1,207
+7872594,Charming 1 bed loft-Walk to Harvard,40531643,Dawn,,Mid-Cambridge,42.37537,-71.10695,Entire home/apt,114,100,25,2020-06-14,0.40,5,149
+7881324,Bright Loft-Walk to Harvard,40531643,Dawn,,Mid-Cambridge,42.37344,-71.10484,Entire home/apt,183,90,20,2020-08-17,0.34,5,259
+7883909,Walk to Harvard- modern studio,40531643,Dawn,,Mid-Cambridge,42.37515,-71.10507,Entire home/apt,142,95,17,2020-08-28,0.29,5,331
+7884541,Stroll to Beautiful Harvard Square,40531643,Dawn,,Mid-Cambridge,42.37481,-71.10694,Entire home/apt,125,90,20,2019-09-01,0.34,5,157
+7886699,New Modern Studio-Walk to Harvard,40531643,Dawn,,Mid-Cambridge,42.37338,-71.10689,Entire home/apt,150,90,24,2019-06-16,0.41,5,298
+8059830,2Br Harvard/Fresh Pond Lux Apt,21631889,Ling Yi,,Neighborhood Nine,42.38694,-71.14058,Entire home/apt,234,32,40,2019-06-29,0.65,16,234
+8064641,Lux Furnished 1-Bedroom Kendall Square Apt.,30283594,Global Luxury Suites,,East Cambridge,42.3639,-71.08305,Entire home/apt,514,30,5,2018-10-10,0.08,15,89
+8100480,Mid-Cambridge Apt in Great location,16907229,Gina,,Mid-Cambridge,42.36964,-71.10745,Entire home/apt,109,29,60,2020-03-21,1.01,1,79
+8129338,7 minute walk to Boston & subway,42927628,Gema,,East Cambridge,42.36941,-71.0836,Private room,76,2,187,2020-03-09,3.00,4,361
+8151702,Top flr lux apt near MIT/Harvard,21631889,Ling Yi,,The Port,42.36922,-71.09638,Entire home/apt,261,60,66,2020-08-31,1.06,16,177
+8308492,4BR+3BA: MIT/Harvard/Fenway Park/Longwood Med/BU,17476640,John / Evelyn,,Cambridgeport,42.36054,-71.11055,Entire home/apt,320,7,80,2020-03-10,1.30,1,30
+8308744,"Private room and bath, walk to Harvard & MIT",43805765,Ruma,,Cambridgeport,42.36258,-71.11191,Private room,95,2,60,2020-10-03,1.12,1,262
+8425295,1 BR near Kendall/MIT,6706488,Alex,,East Cambridge,42.36943,-71.08605,Private room,89,91,30,2018-11-11,0.48,1,364
+8626316,Sunny Master Bedroom Walk to Harvard!,23564453,Aroosha,,Neighborhood Nine,42.38568,-71.1212,Private room,30,92,7,2016-04-18,0.11,1,320
+8703760,"Historic, Sunny & Updated By Harvard Square!",23983523,Aaron,,Mid-Cambridge,42.36984,-71.10185,Private room,50,1,52,2016-08-29,0.85,6,64
+8758789,Perfect  Location between Harvard and MIT.,22020193,Sharon,,The Port,42.36868,-71.09875,Entire home/apt,256,2,440,2020-10-18,7.20,1,333
+8866753,Lovely room: walk to  Harvard Square with parking,33317063,Hilary,,Mid-Cambridge,42.36919,-71.10927,Private room,85,2,227,2020-03-15,3.71,1,2
+8988749,Private bedroom/office in Cambridge,44173387,Jonah,,Cambridgeport,42.35767,-71.11046,Private room,110,91,9,2019-11-10,0.16,1,365
+9300963,"Tufts, MIT, Harvard, Davis & Porter Sq. Cambridge!",21103602,Mary Ann,,North Cambridge,42.39467,-71.1277,Entire home/apt,150,30,34,2020-07-29,0.58,1,31
+9341968,"1BR duplex, walking distance to Harvard Sq.",33963271,Alena,,Neighborhood Nine,42.38364,-71.129,Entire home/apt,130,2,240,2020-09-07,4.07,1,329
+9371115,ENJOY CAMBRIDGE THIS SUMMER AND BEYOND. SLEEPS 8+,42617851,Shahzad,,Agassiz,42.37826,-71.10929,Entire home/apt,528,91,2,2017-05-21,0.04,1,173
+9729190,"A Room at the Top-separate entrance, private bath",2158200,Joan,,Neighborhood Nine,42.38584,-71.12584,Private room,125,4,76,2020-10-08,1.46,1,159
+9790965,Cambridge Bed and Bath,50462187,Amy,,Neighborhood Nine,42.38701,-71.12753,Private room,91,1,166,2020-03-27,2.96,1,329
+9938323,One Bedroom Between Harvard & MIT (1562),51079261,Riverside,,Cambridgeport,42.36221,-71.09983,Private room,120,1,23,2019-05-23,0.41,17,67
+9975650,"Spacious 1 BR, 1.5 bath. Central Sq",6357472,Layla,,Mid-Cambridge,42.3684,-71.1082,Entire home/apt,120,31,90,2020-09-25,1.57,1,84
+10041951,Central Square Studio w Balcony,5331227,/We Are Kai & Nina,,Mid-Cambridge,42.36786,-71.1054,Entire home/apt,90,180,2,2019-05-31,0.04,2,364
+10052642,Lux Furnished 1-Bedroom Cambridge Apartment!,30283594,Global Luxury Suites,,East Cambridge,42.36438,-71.08302,Entire home/apt,514,91,1,2016-10-08,0.02,15,364
+10052826,Furnished LUX 1-Bedroom Cambridge Apartment!,30283594,Global Luxury Suites,,East Cambridge,42.36365,-71.08467,Entire home/apt,514,91,4,2018-04-28,0.08,15,364
+10068003,Luxury 2-Bedroom Kendall Square Apt. by MIT!,30283594,Global Luxury Suites,,East Cambridge,42.36399,-71.08431,Entire home/apt,686,91,5,2017-09-30,0.10,15,179
+10068220,Furnished 2BR Kendall Square Apt near MIT,30283594,Global Luxury Suites,,East Cambridge,42.36301,-71.08353,Entire home/apt,686,91,2,2017-12-09,0.04,15,364
+10068492,Lux Furnished Kendall Square 2-Bedroom Apt,30283594,Global Luxury Suites,,East Cambridge,42.3634,-71.08377,Entire home/apt,686,91,10,2018-11-24,0.20,15,364
+10138304,One Bedroom Close to MIT (1172),51079261,Riverside,,Cambridgeport,42.36208,-71.09963,Private room,100,1,34,2019-04-25,0.61,17,67
+10152514,One Subway Stop to Harvard Two Stops to MIT (A),51079261,Riverside,,North Cambridge,42.3927,-71.12688,Private room,101,1,28,2019-11-29,0.58,17,6
+10355885,3BR/3BA Home@Harvard&MIT w/Parking,51536389,Amy & Jon,,Mid-Cambridge,42.37015,-71.1016,Entire home/apt,346,5,106,2020-09-29,1.82,3,163
+10366230,2 BR/1 BA Apt between Harvard/MIT + Parking!,51536389,Amy & Jon,,Mid-Cambridge,42.37108,-71.10051,Entire home/apt,217,30,131,2019-12-30,2.32,3,113
+10413061,2BR+2 BA Home between Harvard/MIT & Onsite Parking,51536389,Amy & Jon,,Mid-Cambridge,42.37154,-71.10045,Entire home/apt,250,3,86,2020-03-25,1.50,3,164
+10545046,2 bedroom - 5 min walk to T stop,21745230,Jurek,,North Cambridge,42.39501,-71.13702,Entire home/apt,149,3,147,2020-08-02,2.67,6,161
+10675072,"Clean, bright, fully furnished apt",54525537,Anthony,,North Cambridge,42.39764,-71.13282,Entire home/apt,131,2,90,2020-09-03,1.60,1,333
+10808446,Semi-private room close to Harvard!,23983523,Aaron,,Mid-Cambridge,42.37123,-71.10182,Shared room,37,1,10,2016-08-27,0.17,6,353
+11084684,One BR near MIT/Kendall/Harvard,21631889,Ling Yi,,The Port,42.36795,-71.09861,Entire home/apt,198,45,45,2019-08-16,0.80,16,174
+11127214,Entire condo short term rental. June 24- August 7,24918048,Darko,,Riverside,42.36239,-71.11353,Entire home/apt,100,14,6,2019-08-02,0.11,1,147
+11172827,Cheerful 2 BR Grd Floor Apt June-August,13710243,Miriam,,North Cambridge,42.39059,-71.12419,Entire home/apt,160,30,29,2019-08-24,0.52,1,358
+11298634,Spacious 2-Bedroom - Ideal Location in Cambridge,39633488,Dee,,Mid-Cambridge,42.3692,-71.10864,Entire home/apt,299,91,11,2016-10-13,0.20,1,364
+11656940,sunny 2-level apt. near Harvard,61855782,Judy,,Agassiz,42.38558,-71.11735,Entire home/apt,199,3,58,2020-03-07,1.05,1,320
+11836087,1A CAMBRiDGE HARVARD MiT LOCATION SPOTLESS 1BR!,81038,Louisa,,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,153,1,109,2020-02-29,1.97,9,0
+11944852,3Bdr with parking in West Cambridge,21631889,Ling Yi,,Neighborhood Nine,42.38606,-71.1384,Entire home/apt,252,60,52,2020-09-18,0.94,16,304
+12038379,Charming apt easy walk to Harvard,1260886,Mimi And Brian,,Neighborhood Nine,42.38575,-71.1319,Entire home/apt,201,2,80,2020-07-07,1.45,2,261
+12220649,Nice Space near Harvard University,65735793,Sheldon,,Mid-Cambridge,42.37205,-71.10695,Private room,371,1,352,2020-03-06,6.36,2,89
+12231967,Elegant Apartment Harvard Square,65734941,Claudio,,Mid-Cambridge,42.37257,-71.10967,Entire home/apt,390,91,27,2019-06-02,0.50,1,25
+12248543,3Bdr Walkout Apartment near park,21631889,Ling Yi,,Neighborhood Nine,42.38647,-71.13994,Entire home/apt,290,90,26,2018-05-06,0.48,16,144
+12318450,Private studio by MIT/Harvard/BU/Fenway w/parking,66604416,Toby & Quinn,,Cambridgeport,42.35692,-71.10983,Entire home/apt,101,1,449,2020-10-23,8.38,4,79
+12432434,2 Bed w/ Parking Two Blocks from Harvard,43450256,Steve,,Mid-Cambridge,42.37315,-71.11181,Entire home/apt,175,21,104,2020-08-16,1.89,17,338
+12489082,Modern studio in Cambridge townhome,10069224,Daniel,,Cambridgeport,42.36234,-71.1105,Entire home/apt,70,2,288,2020-06-23,5.37,2,137
+12507244,1 Bedroom near Harvard Square Cambridge,67730125,Anila,,Mid-Cambridge,42.37298,-71.10821,Entire home/apt,130,91,3,2016-07-22,0.06,3,364
+12522168,Comfortable & Private 1 bed apt,67827905,Kay,,Mid-Cambridge,42.37205,-71.10033,Entire home/apt,115,91,3,2019-03-23,0.06,1,180
+12532155,Nice space near Harvard University 2,65735793,Sheldon,,Mid-Cambridge,42.37143,-71.10732,Private room,179,1,163,2020-03-08,5.95,2,84
+12655984,Spacious Harvard Sq Room,22591136,Ricardo,,Agassiz,42.38154,-71.11499,Private room,99,3,46,2020-01-22,0.84,2,90
+12678652,Spacious 3BR Apt near Harvard Sq & MIT,68892304,Kitty,,Strawberry Hill,42.37775,-71.1497,Entire home/apt,158,1,39,2020-10-18,0.71,4,147
+12683483,Newly renovated 2BR apartment near MIT,21631889,Ling Yi,,The Port,42.36904,-71.09719,Entire home/apt,248,75,39,2019-01-01,0.76,16,162
+12810652,Very close to Boston MIT Harvard MGH and subway,42927628,Gema,,East Cambridge,42.37185,-71.0836,Private room,72,2,101,2020-08-10,1.89,4,362
+12871772,Convenient Harvard Room,22591136,Ricardo,,Agassiz,42.38157,-71.11542,Private room,83,91,43,2019-12-31,0.84,2,90
+12903091,Comfortable Sunny Room in Cambridge,70690651,Ronald,,Strawberry Hill,42.38058,-71.15202,Private room,75,30,18,2020-03-19,0.43,3,364
+12985396,"Central Square Cambridge luxury 2 bed, 2 Bath",52660264,Timothy,,Cambridgeport,42.36079,-71.10242,Entire home/apt,200,30,63,2019-09-13,1.19,3,365
+13002717,Typically Cambridge: Harvard/Porter,24871385,Christine,,Agassiz,42.38467,-71.11679,Private room,75,3,27,2020-01-27,0.50,1,345
+13073921,Beautiful private RM near Harvard,68892304,Kitty,,Strawberry Hill,42.37779,-71.14975,Private room,62,1,24,2020-07-13,0.47,4,150
+13156403,Cozy private RM near Harvard SQ,68892304,Kitty,,Strawberry Hill,42.37781,-71.14974,Private room,60,1,17,2020-10-25,0.32,4,148
+13169945,Sunny private RM near Harvard SQ,68892304,Kitty,,Strawberry Hill,42.37752,-71.14935,Private room,64,1,10,2020-09-27,0.20,4,153
+13175406,Room with private bath/fridge/microwave 5 min to T,21745230,Jurek,,North Cambridge,42.39612,-71.13504,Private room,62,5,59,2019-08-23,1.11,6,234
+13203203,One Bedroom Close to MIT (1512),51079261,Riverside,,The Port,42.36245,-71.098,Private room,109,1,93,2020-01-09,1.80,17,67
+13281865,"3rd fl studio, excellent light, 1 stop to Harvard",9939488,Dan,,Neighborhood Nine,42.38838,-71.12579,Entire home/apt,60,175,3,2019-05-15,0.06,3,178
+13294153,"Close to the subway, MGH, Harvard, MIT & Boston",42927628,Gema,,East Cambridge,42.36962,-71.08284,Private room,74,2,148,2020-09-30,2.76,4,365
+13458825,1 bedroom apartment in Harvard Square Cambridge,67730125,Anila,,Mid-Cambridge,42.37072,-71.11076,Entire home/apt,130,91,1,2016-10-20,0.02,3,364
+13522694,❤ of Cambridge | Walk Score 94 | Parking | W/D,36621692,Norma,,Riverside,42.36548,-71.10706,Entire home/apt,278,2,187,2020-10-11,4.03,1,145
+13546773,Spacious Strawberry Hill Suite (West Cambridge),28611578,Jessica,,Strawberry Hill,42.38023,-71.15592,Entire home/apt,70,5,259,2020-10-06,5.18,1,7
+13586974,Beta Room @ CCVP in Harvard Square,78459716,Charles,,Riverside,42.36966,-71.11548,Private room,88,1,243,2020-10-03,4.62,4,349
+13600523,Sigma Room @ CCVP in Harvard Square,78459716,Charles,,Riverside,42.3711,-71.11424,Private room,88,1,209,2020-09-01,4.02,4,236
+13653574,9th Floor Luxury Corporate Suite with BostonView,52660264,Timothy,,Cambridgeport,42.35988,-71.10098,Entire home/apt,179,30,27,2019-08-24,0.52,3,365
+13683876,"Modern, spacious 1Bed/1Bath in Kendall Square!",30283594,Global Luxury Suites,,East Cambridge,42.36456,-71.0826,Entire home/apt,514,91,4,2017-08-25,0.08,15,364
+13893163,Large 1 BD Apartment near Harvard,1411717,Robbie,,Mid-Cambridge,42.37646,-71.10831,Entire home/apt,171,1,221,2020-10-18,4.27,1,148
+13953617,Studio-type room  w private bathroom CBM,12576232,Thomas,,The Port,42.36907,-71.09874,Entire home/apt,70,32,41,2020-07-31,0.82,5,345
+14088030,Harvard/MIT Luxury 2 Bed/2.5 Bath,10069224,Daniel,,Cambridgeport,42.36223,-71.11212,Entire home/apt,115,2,184,2020-09-01,3.58,2,134
+14117899,Large One Bedroom walk to Harvard Square,67730125,Anila,,Mid-Cambridge,42.37307,-71.10932,Entire home/apt,120,91,0,,,3,365
+14142611,"Best Location! MIT, MGH, Harvard, Boston and the T",42927628,Gema,,East Cambridge,42.37102,-71.08302,Private room,76,2,75,2020-07-03,1.45,4,318
+14213983,"Great Cambridge studio, great Harvard sq location",1473780,Bernardo,,Riverside,42.3666,-71.11397,Entire home/apt,99,3,10,2018-10-11,0.20,1,78
+14229298,Sophisticated 1Bed/1Bath on the Charles River bank,30283594,Global Luxury Suites,,East Cambridge,42.36408,-71.08281,Entire home/apt,514,91,2,2018-12-22,0.04,15,179
+14251369,NEW SPACIOUS 2 BDR APT.  HARVARD - CENTRAL SQ/MIT,50669996,Shallu,,Cambridgeport,42.36218,-71.1037,Entire home/apt,450,91,131,2020-02-05,2.55,1,365
+14313342,8th Floor Luxury One Bedroom with Fantastic View,52660264,Timothy,,Cambridgeport,42.36079,-71.10242,Entire home/apt,179,30,37,2019-08-30,0.75,3,89
+14359574,Cozy Room near Harvard Square,70690651,Ronald,,Strawberry Hill,42.37868,-71.15181,Private room,70,30,30,2019-09-12,0.59,3,89
+14436594,Charming 2 Bed/1.5 Bath located on Harvard Street!,79627,Greg,,Mid-Cambridge,42.36939,-71.1053,Entire home/apt,108,91,0,,,1,257
+14449525,"Convenience, Cozy, and Free Parking",3603745,Leyla,,West Cambridge,42.37852,-71.14526,Entire home/apt,131,2,179,2020-04-17,3.53,1,0
+14503389,Alpha Room @ CCVP in Harvard Square,78459716,Charles,,Riverside,42.3695,-71.11475,Private room,79,1,221,2020-09-02,4.39,4,365
+14521992,Harvard Square 1br,89743014,Samuel,,Riverside,42.3687,-71.11044,Shared room,395,91,1,2016-09-15,0.02,1,365
+14536322,Omega Room @ CCVP in Harvard Square,78459716,Charles,,Riverside,42.36953,-71.11492,Private room,79,1,206,2020-09-26,4.09,4,365
+14592916,Cambridge Vacation Rental Rooms M807 #1,32532791,Marie,,The Port,42.36953,-71.09969,Private room,160,2,7,2019-11-01,0.14,2,147
+14727253,Charming House in Cambridge C36W,12576232,Thomas,,The Port,42.36931,-71.0976,Private room,54,32,9,2019-05-08,0.18,5,340
+14754163,One Bedroom Close to MIT (1522),51079261,Riverside,,Cambridgeport,42.36192,-71.09959,Private room,109,1,68,2019-11-10,1.37,17,67
+14759578,"East Cambridge, MIT, Kendall & free parking!",92029664,Robert,,East Cambridge,42.37187,-71.08621,Entire home/apt,158,2,137,2020-03-10,2.71,1,82
+14841218,"Quiet 2 Bedroom Apartment near MIT, BU & HBS",5074009,Jeff&Liz,,Cambridgeport,42.3584,-71.10928,Entire home/apt,197,91,9,2017-07-31,0.18,2,133
+14847982,Beautiful 2 bed in Harvard Square,92925188,Genie,,Mid-Cambridge,42.37207,-71.1121,Entire home/apt,289,1,219,2020-09-23,4.37,2,313
+14858857,"Sunny, Modern Townhouse By Kendall Square!",23983523,Aaron,,East Cambridge,42.3688,-71.08811,Private room,50,3,101,2019-06-29,2.01,6,330
+14886335,Spacious room in a townhouse by Kendall Square!,23983523,Aaron,,East Cambridge,42.37027,-71.08703,Private room,44,2,75,2020-10-11,1.50,6,320
+14914342,Three-bedroom Harvard Square condo.,8944743,Philip,,Mid-Cambridge,42.37694,-71.11202,Entire home/apt,255,32,12,2020-10-12,0.26,1,329
+14974786,Phil's Apartment at Harvard - Harvard Room,6627353,Phil,,Mid-Cambridge,42.37464,-71.11383,Private room,143,1,174,2020-10-01,3.48,3,113
+15022874,Phil's Apartment at Harvard - MIT Room,6627353,Phil,,Mid-Cambridge,42.37428,-71.11125,Private room,143,1,175,2020-09-19,3.49,3,113
+15023471,Phil's Apartment at Harvard - Two Rooms,6627353,Phil,,Mid-Cambridge,42.37491,-71.11202,Private room,279,1,3,2017-10-07,0.07,3,113
+15056521,Cambridge Vacation Rental Rooms M807 #2,32532791,Marie,,The Port,42.37019,-71.09931,Private room,155,2,14,2019-10-22,0.29,2,147
+15125756,Prime location Harvard/Porter Sq,3381894,Serena,,Neighborhood Nine,42.3824,-71.11985,Private room,75,2,141,2020-10-19,2.85,1,90
+15235520,One Bedroom Close to MIT (1532),51079261,Riverside,,Cambridgeport,42.36112,-71.09986,Private room,100,1,57,2019-12-04,1.15,17,65
+15285943,Fully Furnished 1BR Apt | Gym | Panoramic views,95459395,Bluebird,,East Cambridge,42.36273,-71.08306,Entire home/apt,246,30,1,2017-01-27,0.02,9,364
+15295354,Luxury 1BR Apt | Washer/D | Gym | Cambridge MA,95459395,Bluebird,,East Cambridge,42.36451,-71.08422,Entire home/apt,889,30,1,2017-02-03,0.02,9,350
+15295836,Lavish 1BR Apt | Gym | Panoramic Views | Boston,95459395,Bluebird,,East Cambridge,42.3632,-71.08216,Entire home/apt,246,30,1,2017-01-27,0.02,9,364
+15295997,Spacious 2BR Apt | Washer/D | Panoramic Views,95459395,Bluebird,,East Cambridge,42.3645,-71.0838,Entire home/apt,318,30,3,2018-10-26,0.07,9,364
+15324620,"Near Harvard, Central  Square,  and Fenway Park",21647935,Ivan  / Sue,,Riverside,42.36492,-71.11297,Entire home/apt,360,91,32,2019-08-03,0.65,3,339
+15369556,Private & Clean 2BR Apt | Gym | East Cambridge,95459395,Bluebird,,Area 2/MIT,42.36252,-71.08428,Entire home/apt,318,30,1,2018-10-05,0.04,9,361
+15451457,1 Bedroom in the Heart of Kendall Square,43450256,Steve,,East Cambridge,42.36772,-71.0799,Entire home/apt,71,1,176,2020-10-11,3.59,17,299
+15512578,private studio near Harvard/MIT,11659356,Sue,,The Port,42.36683,-71.09938,Entire home/apt,150,2,178,2020-08-03,3.93,1,287
+15523233,On River/Harvard Sq. two blocks,87618246,Mike,,West Cambridge,42.37523,-71.12945,Entire home/apt,127,1,174,2020-09-01,3.56,3,193
+15534322,The Kendall Cottage,19863591,Alexander,,East Cambridge,42.36719,-71.08147,Entire home/apt,175,3,2,2019-12-12,0.19,1,54
+15645066,1 Bedroom in Kendall Square,43450256,Steve,,East Cambridge,42.36865,-71.07991,Entire home/apt,71,1,177,2020-09-06,3.65,17,319
+15788977,SPACIOUS 1 BED + DEN in HARVARD SQ,102134649,Cambridge,,Neighborhood Nine,42.3798,-71.12191,Entire home/apt,149,2,28,2020-10-11,0.59,1,291
+15789298,Private Rm near Tufts/Harvard/MIT/MGH**,70969915,Carla & Steve,,North Cambridge,42.39599,-71.13125,Private room,95,14,26,2019-10-23,0.67,2,113
+15826847,One Bedroom Short Walk to Harvard (Rm 3),51079261,Riverside,,Riverside,42.36719,-71.10802,Private room,110,1,1,2019-11-04,0.08,17,36
+15827795,One Bedroom Short Walk to Harvard (Rm 14),51079261,Riverside,,Riverside,42.36722,-71.10827,Private room,110,1,12,2020-02-27,0.25,17,36
+15881987,One Bedroom Short Walk to Harvard (Rm 2),51079261,Riverside,,Mid-Cambridge,42.36886,-71.10781,Private room,110,1,4,2019-08-31,0.15,17,36
+15929332,Harvard/MIT (Unit 1)- Brooklyn Ambiance w/ Parking,35489146,Ann,,Mid-Cambridge,42.36632,-71.10458,Entire home/apt,250,2,169,2020-08-30,3.55,2,70
+15930566,"Spacious 2BR 2 bath w/deck, walk to Harvard & MIT",6626676,Kjersti,,Mid-Cambridge,42.37709,-71.10732,Entire home/apt,296,4,115,2020-05-14,2.87,1,209
+16013157,One Bedroom Short Walk to Harvard (Rm 13),51079261,Riverside,,Riverside,42.36809,-71.10832,Private room,110,1,13,2019-06-28,0.30,17,36
+16013859,One Subway Stop to Harvard Two Stops to MIT (B),51079261,Riverside,,North Cambridge,42.39384,-71.12522,Private room,101,1,20,2020-10-01,0.82,17,6
+16019233,"Private Room, New Renovation, Central Location",44939469,Jennifer,,Cambridgeport,42.35856,-71.11309,Private room,100,90,15,2018-08-10,0.35,3,338
+16056199,Spacious one queen bedroom with parking(with fee),104567106,Sandra,,Wellington-Harrington,42.3688,-71.09362,Private room,85,1,110,2020-03-20,2.32,1,180
+16146887,A floor all to yourself in our historic home,1364642,Tito,,East Cambridge,42.36832,-71.08171,Private room,119,3,118,2020-03-02,2.49,1,17
+16238299,Big and Luminous Apartment at Cambridge Port,13866658,Marta,,Cambridgeport,42.35667,-71.10744,Entire home/apt,150,91,24,2019-09-29,0.55,1,179
+16353525,"Comfortable Cloud, Close to Everything... (3S)",229695597,Carol,,Wellington-Harrington,42.36818,-71.09174,Private room,63,3,279,2020-10-03,5.94,5,175
+16361055,Cambridge in Harvard Square - a spacious home.,107139150,Anne,,West Cambridge,42.37414,-71.12542,Entire home/apt,350,2,74,2020-10-12,1.65,1,293
+16436214,One Bedroom Short Walk to Harvard (Rm 5),51079261,Riverside,,Riverside,42.36759,-71.10786,Private room,103,1,3,2019-04-14,0.16,17,6
+16524430,LARGE quiet original Victorian 1BR 5min to Davis,9161433,Nels,,North Cambridge,42.39353,-71.12341,Entire home/apt,175,91,0,,,3,288
+16532655,Convenient & Comfortable (3K),229695597,Carol,,Wellington-Harrington,42.36952,-71.08967,Private room,100,2,232,2020-08-19,5.20,5,180
+16572261,"Cozy, Renovated Abode Between Harvard & MIT",45224133,Clare,,Mid-Cambridge,42.3707,-71.10068,Entire home/apt,99,91,75,2019-12-05,1.63,3,90
+16842241,2# Minutes to Boston -Basic Bedroom,20551003,May,,East Cambridge,42.37275,-71.07872,Private room,68,91,105,2019-10-27,2.38,2,90
+16843178,9# Minutes to Boston -Basic Bedroom,20551003,May,,East Cambridge,42.37252,-71.07832,Private room,68,91,109,2019-10-31,2.46,2,90
+17011428,Cambridge Basement Apartment over 90 day rental,404360,Victor,,West Cambridge,42.37836,-71.14474,Entire home/apt,125,91,41,2018-10-22,0.93,2,363
+17107558,Private room for 2 close to Harvard/MIT,6341616,Stephanie,,Mid-Cambridge,42.37182,-71.10229,Private room,175,2,9,2019-10-21,0.20,1,117
+17209703,West Cambridge 1 BR entire apartment near Harvard,115833412,Anatole,,Strawberry Hill,42.3758,-71.15354,Entire home/apt,156,28,24,2020-05-08,0.54,1,267
+17278589,A Large Sunny Room in a 2BD apartment (2B),229695597,Carol,,Wellington-Harrington,42.36814,-71.09023,Private room,150,1,146,2020-03-08,3.25,5,180
+17285749,"Private, quiet and clean studio in ideal location",116598782,Cinzia,,Agassiz,42.38292,-71.11832,Private room,119,1,282,2020-09-24,6.50,1,248
+17348129,2 Bed 2 Bath in Kendall Square,43450256,Steve,,East Cambridge,42.36778,-71.0801,Entire home/apt,469,1,2,2018-05-21,0.05,17,168
+17388503,Cozy Bedroom in a 2BD Apartment. (2K),229695597,Carol,,Wellington-Harrington,42.36845,-71.09152,Private room,100,1,326,2020-03-30,7.36,5,180
+17693766,2020 Grad Student or Professor!,40965,Judy,,North Cambridge,42.39426,-71.13327,Private room,85,3,11,2019-11-27,0.26,3,363
+17811602,Spacious 1 Bedroom w/ Free Parking Near MIT,43450256,Steve,,East Cambridge,42.36798,-71.08464,Entire home/apt,300,21,23,2020-05-16,0.54,17,336
+17942925,"Sunny, quiet Cambridge apartment near Davis Sq",13307006,Katrin,,North Cambridge,42.39367,-71.12673,Entire home/apt,67,4,148,2020-06-09,3.44,1,22
+18330818,Penthouse Room With Private Entrance,92004180,Huani,,North Cambridge,42.39009,-71.11796,Entire home/apt,108,2,157,2020-10-12,3.80,1,61
+18406874,Brand New 2BR Den | Full Kitchen |  East Cambridge,95459395,Bluebird,,East Cambridge,42.36454,-71.08387,Entire home/apt,332,30,0,,,9,361
+18613736,Long-term Renters Please! Harvard Walkable 1bdr,9161433,Nels,,Neighborhood Nine,42.38447,-71.13112,Entire home/apt,179,91,4,2019-07-28,0.10,3,365
+18614693,Luxurious - Walkable to Harvard Full 1bdrm + sofa,9161433,Nels,,Neighborhood Nine,42.38339,-71.1296,Entire home/apt,113,91,1,2017-08-31,0.03,3,105
+18676360,Walk to Harvard/MIT (unit 2) w/ parking,35489146,Ann,,Mid-Cambridge,42.36736,-71.10338,Entire home/apt,300,2,125,2020-03-08,3.03,2,77
+18682931,"^10min walk-Harvard, Suite-like/private entry/3fl",28283338,Rae&Jarrod,,Agassiz,42.38296,-71.11843,Private room,79,2,77,2020-10-04,2.10,3,46
+19183167,Contemporary 2BR in Central Sq! Harvard/MIT,112868041,Jamie,,Cambridgeport,42.3625,-71.10604,Entire home/apt,235,2,118,2020-08-07,2.99,1,62
+19251505,Harvard/MIT 2 Bed 2 Bath luxury apartment,75606953,Amelie,,The Port,42.36552,-71.09895,Entire home/apt,165,91,5,2018-05-25,0.14,1,138
+19295898,Cambridge  convenient location,135126696,Regina,,East Cambridge,42.37221,-71.08442,Private room,50,2,202,2020-10-22,5.07,3,164
+19344649,WALK to HARVARD&MIT with MEMORY BED 1,15154687,John,,Cambridgeport,42.36408,-71.1066,Private room,61,1,120,2020-09-29,2.97,13,344
+19345857,WALK to HARVARD&MIT with MEMORY BED 2,15154687,John,,Cambridgeport,42.36501,-71.10493,Private room,61,1,135,2020-09-25,3.34,13,207
+19346242,WALK to HARVARD&MIT with MEMORY BED 4,15154687,John,,Mid-Cambridge,42.36596,-71.1039,Private room,55,1,262,2020-10-08,6.51,13,357
+19346436,WALK to HARVARD&MIT with MEMORY BED 6,15154687,John,,Cambridgeport,42.3646,-71.10487,Private room,61,1,291,2020-09-21,7.21,13,307
+19376539,"Private room in Harvard square 3, good to sleep",82946167,Yuan,,West Cambridge,42.37302,-71.12286,Private room,30,30,4,2020-09-27,0.28,1,67
+19847550,*New Construction Luxury Kendall Square Townhouse*,111823791,Parker,,The Port,42.36595,-71.09309,Entire home/apt,800,91,0,,,1,178
+19911587,WALK to HARVARD&MIT with MEMORY BED 5,15154687,John,,Riverside,42.36551,-71.10851,Private room,55,1,174,2020-09-14,4.37,13,360
+19942644,3A *REDUCED*! HARVARD MiT LOCATION! SPOTLESS 1BR,81038,Louisa,,Mid-Cambridge,42.36765,-71.1059,Entire home/apt,110,1,82,2020-10-17,2.10,9,319
+20074456,Charles River/Harvard Square - free parking,87618246,Mike,,West Cambridge,42.37567,-71.12986,Entire home/apt,103,1,152,2020-09-01,3.86,3,252
+20153407,Private room in spacious home near Harvard Square,16849714,Rachel,,Mid-Cambridge,42.37131,-71.1096,Private room,72,91,14,2017-11-18,0.36,1,180
+20355928,4B HUGE AMAZING SPOTLESS CAMBRIDGE HARVARD/MiT,81038,Louisa,,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,136,1,71,2020-02-29,1.84,9,346
+20403672,Apt 2A Cambridge Harvard MIT. Amazing flat,81038,Louisa,,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,205,1,87,2020-02-29,2.27,9,319
+20419752,Spacious & Private 3BR walk to MIT/Harvard/Kendall,145655051,Karen,,The Port,42.365,-71.10213,Entire home/apt,197,4,132,2020-10-18,3.52,1,129
+20462256,"Quirky, Cozy 1 Bedroom in Kendall Square",43450256,Steve,,East Cambridge,42.36832,-71.08126,Entire home/apt,57,1,147,2020-08-29,3.79,17,356
+20504268,Beautiful 2 Bed 2 Private Bath near MIT/Harvard,40515595,Mo,,Wellington-Harrington,42.37315,-71.09964,Entire home/apt,275,91,0,,,1,90
+20572514,4A CAMBRIDGE HARVARD/MIT GORGEOUS 1BD *REDUCED*!,81038,Louisa,,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,135,2,58,2020-02-28,1.52,9,364
+20633588,M6/Walk to Harvard MIT Subway Priv BATH 走路到哈佛 LTR,93503221,Lynne,,Mid-Cambridge,42.37503,-71.10528,Private room,79,5,31,2020-08-06,0.81,4,90
+20671080,M3/HARVARD MIT Priv Bath SUBWAY FREE PARKING 走路到哈佛,93503221,Lynne,,Mid-Cambridge,42.37478,-71.10626,Private room,79,1,125,2020-10-06,3.25,4,90
+20756502,M7/ LTR HARVARD MIT SUBWAY 2 BEDS PRIVATE ROOM,93503221,Lynne,,Mid-Cambridge,42.37439,-71.10505,Private room,60,28,76,2020-06-05,1.98,4,174
+20769949,M4/NEAR HARVARD MIT SUBWAY FREE PARKING 走路到哈佛,93503221,Lynne,,Mid-Cambridge,42.37458,-71.10433,Private room,79,1,116,2020-08-12,3.04,4,180
+20797694,The Modica Estate #1,39361614,Jamal,,The Port,42.36572,-71.09756,Private room,49,1,151,2020-10-24,3.95,3,303
+20799027,"Modica Estate, Room #2",39361614,Jamal,,The Port,42.36578,-71.09729,Private room,50,1,195,2020-08-30,5.10,3,118
+20817892,A Cozy Large Bedroom - Stay at Home! (3B),229695597,Carol,,Wellington-Harrington,42.36806,-71.08988,Private room,150,1,106,2020-03-12,2.78,5,174
+20848838,Fabulous Flat Near Harvard Square,8530114,Colleen,,Mid-Cambridge,42.37306,-71.10653,Entire home/apt,199,4,30,2020-10-12,0.83,3,128
+20928592,Large 2 bed w/ Parking in Quiet Cambridge Home,43450256,Steve,,East Cambridge,42.36757,-71.08536,Entire home/apt,200,21,17,2020-09-15,0.45,17,194
+21012703,Harvard Sq Bright Designer 1BdrmApt-monthly rental,7421025,Doriana,,Mid-Cambridge,42.37072,-71.11256,Entire home/apt,108,91,1,2018-07-31,0.04,3,147
+21204503,4BR 3BA Cambridge Oasis - Harvard/MIT/Boston,26693600,Jenny,,Riverside,42.36666,-71.11339,Entire home/apt,352,3,81,2020-10-11,2.24,1,173
+21229815,A2 The Little Gray Room,136163630,Jenny,,Wellington-Harrington,42.37679,-71.09727,Private room,42,1,142,2020-08-15,3.84,1,0
+21248869,"*10min walk-Harvard, Suite-like/private entry/3fl",28283338,Rae&Jarrod,,Agassiz,42.38439,-71.11849,Private room,71,2,81,2020-10-04,2.21,3,57
+21275668,"Kendall Square, MIT, Biotech Center",41854028,David,,East Cambridge,42.36956,-71.08109,Entire home/apt,157,2,94,2020-08-30,2.97,1,144
+21362447,Cambridge Easy,135126696,Regina,,East Cambridge,42.3708,-71.08626,Private room,62,2,166,2020-10-25,4.59,3,168
+21385410,Comfy Private Bedroom in Cambridge,29313226,Rogelia,,Wellington-Harrington,42.3737,-71.09462,Private room,60,91,33,2019-06-01,0.90,1,90
+21389613,1FW（永不上架）,44086891,Mindy,,Wellington-Harrington,42.37203,-71.08993,Entire home/apt,540,91,5,2018-05-09,0.14,4,179
+21406532,Harvard Square Delight with Office Space,18694541,Nicholas,,Mid-Cambridge,42.37081,-71.11304,Entire home/apt,176,14,31,2020-01-24,1.01,1,85
+21460557,Modern Studio - Davis/Porter/Harvard,119102701,Isabelle,,North Cambridge,42.39177,-71.12189,Entire home/apt,177,1,135,2020-10-25,3.73,1,98
+21546255,Harvard/MIT/Lesley/Tufts Private Room & Bath,4274693,Vinit,,Agassiz,42.38629,-71.11723,Private room,95,3,72,2020-03-08,2.12,1,269
+21682941,Casa Paradiso - Top Floor 1bed/1bath in Cambridge,101409695,Alexandria,,Wellington-Harrington,42.37166,-71.09043,Entire home/apt,220,1,16,2020-10-25,1.51,1,6
+21738836,R1. Quiet private room near Kendall/MIT,119672800,Charlie,,Wellington-Harrington,42.36909,-71.0928,Private room,38,12,135,2020-10-03,3.90,6,78
+21885937,Forever Green,159674828,娟,,Wellington-Harrington,42.3688,-71.09087,Private room,56,91,2,2019-06-01,0.11,2,365
+22004690,Quiet room -5 min to T-access to Harvard/Boston,21745230,Jurek,,North Cambridge,42.39666,-71.13517,Private room,55,90,1,2018-01-13,0.03,6,7
+22008825,Harvard Square Private Floor,10825995,Mike,,Riverside,42.36461,-71.11532,Entire home/apt,99,91,2,2018-10-25,0.06,1,308
+22081464,Cambridge Executive Suites,161304675,Brian,,North Cambridge,42.39874,-71.13071,Entire home/apt,249,91,14,2018-08-09,0.40,1,310
+22099694,Modern House near Harvard. Luxury Master - Dogs Ok,159728840,Michael,,Riverside,42.36696,-71.11151,Entire home/apt,359,5,19,2020-10-15,0.61,1,55
+22142932,"R2, Private sunny room near Kendall/MIT",119672800,Charlie,,Wellington-Harrington,42.3685,-71.09053,Private room,29,12,143,2020-07-30,4.11,6,25
+22216607,Harvard Square home,8706284,Gunduz,,Mid-Cambridge,42.37328,-71.11225,Entire home/apt,250,3,39,2020-10-21,1.21,1,5
+22265938,*New queen Bed *free parking  MITCambridge studio,162705378,Huanan,,Cambridgeport,42.36335,-71.10429,Entire home/apt,145,1,152,2020-03-11,4.44,2,28
+22265939,*New queen bdfree parking Harvard  MIT Cambridge 3,162705378,Huanan,,Cambridgeport,42.36212,-71.1053,Entire home/apt,145,3,148,2020-03-15,4.31,2,7
+22338629,Lux 2 Bedroom Cambridge Apt by MIT,9419684,Churchill,,East Cambridge,42.3646,-71.08277,Entire home/apt,199,21,2,2018-10-22,0.08,16,365
+22339138,Lux 2 Bedroom Cambridge Apt by MIT,9419684,Churchill,,East Cambridge,42.36252,-71.08205,Entire home/apt,199,21,2,2018-09-30,0.08,16,365
+22352805,Brand New 1BR Apt | Fitness Center | MIT Museum,95459395,Bluebird,,East Cambridge,42.36432,-71.08298,Entire home/apt,246,30,2,2019-04-13,0.09,9,364
+22353454,Spacious 1BR Apt | Full Kitchen | Panoramic Views,95459395,Bluebird,,East Cambridge,42.36243,-71.08309,Entire home/apt,253,30,1,2018-11-22,0.04,9,364
+22356328,Bright & Sunny 1BR | The Heart of Cambridge | GLS,95459395,Bluebird,,East Cambridge,42.36323,-71.08346,Entire home/apt,246,30,1,2019-12-01,0.09,9,364
+22377492,"Beautiful, sunny charming room overlooking Charles",2722041,Dominic,,West Cambridge,42.37391,-71.13146,Private room,250,31,1,2018-04-29,0.03,1,87
+22411857,Classy Cambridge 2BD--MIT/Harvard/Kendall/Boston,51692157,Tina,,Wellington-Harrington,42.37279,-71.09059,Entire home/apt,310,1,43,2020-08-30,1.25,2,52
+22445511,Private room Near Harvard Square,38551452,Cathy,,West Cambridge,42.38284,-71.13414,Private room,70,91,0,,,1,180
+22598276,basic room in Cambridgeport,166221142,Max,,Cambridgeport,42.35688,-71.10753,Private room,65,1,59,2020-03-02,1.80,1,4
+22625445,"Serene, Roomy 2BR near Harvard & Davis Sq",71341215,Cheryl,,North Cambridge,42.3896,-71.12363,Entire home/apt,140,30,15,2020-08-29,0.46,1,193
+22629543,One bedroom at Harvard Square to share,166600256,Elena,,Mid-Cambridge,42.3727,-71.11065,Shared room,50,91,0,,,1,365
+22842459,Luxurious and Spacious 5 bedroom in Mid-Cambridge,4167496,Ivan,,Mid-Cambridge,42.37262,-71.10588,Entire home/apt,950,91,1,2018-04-11,0.03,1,364
+22958055,Fully renovated spacious 2BR mins from Boston & T,80482365,Robin,,North Cambridge,42.39467,-71.13348,Entire home/apt,196,2,82,2020-08-31,4.17,1,22
+23102114,Comfortable Room - 2 - Near BU/MIT/NEU/MGH/Harvard,171618898,Mark,,Cambridgeport,42.35969,-71.11309,Private room,75,1,151,2020-10-21,4.99,4,365
+23108929,"Master bedrm, private bath, convenient to Harvard",21631889,Ling Yi,,West Cambridge,42.38633,-71.14064,Private room,105,90,10,2020-08-31,0.31,16,114
+23114408,Compact Lux Bedroom C convenient to Harvard,21631889,Ling Yi,,Neighborhood Nine,42.38717,-71.13951,Private room,65,45,11,2020-10-01,0.34,16,310
+23257882,Cozy 2 Bedroom  on Charles River - Harvard Square,87618246,Mike,,West Cambridge,42.37561,-71.1278,Entire home/apt,127,1,100,2020-10-04,3.17,3,237
+23308507,R9 - large private bedroom w/ park overview,119672800,Charlie,,Wellington-Harrington,42.36833,-71.09193,Private room,43,2,109,2020-10-10,3.41,6,66
+23523253,Comfortable Room - 3 -near Harvard/MIT/BU/MGH/NEU,171618898,Mark,,Cambridgeport,42.35889,-71.11101,Private room,80,1,161,2020-10-12,5.08,4,350
+23563670,Room Near Harvard/MIT/NEU/BU/MGH Private Bath - 4,171618898,Mark,,Cambridgeport,42.35823,-71.11107,Private room,105,1,152,2020-09-06,4.71,4,362
+23594538,Picture-perfect Cambridge guest apartment,176415954,Nancy And Steve,,North Cambridge,42.39523,-71.13032,Entire home/apt,160,3,145,2020-10-18,4.62,1,118
+23772557,Spacious room steps to Kendall/MIT,45728209,Matt,,The Port,42.36694,-71.09498,Private room,80,2,105,2020-04-01,3.36,2,23
+23836304,Cozy room 5 min to Kendall/MIT,45728209,Matt,,The Port,42.36562,-71.09386,Private room,80,2,109,2020-03-08,3.49,2,113
+24184848,Studio in Somerville-Union Sq. (Harvard/MIT/Tufts),31766933,Mónica,,Mid-Cambridge,42.37871,-71.10196,Entire home/apt,90,3,41,2020-10-12,1.36,1,310
+24298372,Comfortable Room- 1 - Near BU/NEU/MIT/Harvard/MGH,171618898,Mark,,Cambridgeport,42.35773,-71.11283,Private room,93,1,76,2020-08-31,2.52,4,365
+24397113,Entire 3 Bedroom Apt Near Kendall Square Subway,119672800,Charlie,,Wellington-Harrington,42.37046,-71.09022,Entire home/apt,99,3,82,2020-10-14,2.72,6,58
+24442402,BnB! Sunny private bedroom/bath near Harvard,181267574,Candace,,West Cambridge,42.38085,-71.13378,Private room,120,2,83,2020-03-13,2.78,1,0
+24886707,"(3A) LIVING IN THE CITY,CLOSE TO HARVARD&MIT",15154687,John,,Wellington-Harrington,42.37287,-71.09138,Private room,51,1,25,2020-10-03,0.83,13,365
+24887170,Private Rm near Tufts/Harvard/MIT/MGH,70969915,Carla & Steve,,North Cambridge,42.3957,-71.13219,Private room,85,4,5,2019-09-10,0.17,2,113
+24888098,"(3B) LIVING IN THE CITY, CLOSE TO HARVARD&MIT",15154687,John,,Wellington-Harrington,42.37325,-71.09047,Private room,60,1,26,2020-10-11,0.87,13,298
+24888768,Comfortable convenient  Cambridge Apt.,98988662,Jake,,Cambridgeport,42.35808,-71.10799,Entire home/apt,230,30,208,2020-07-19,6.98,1,365
+24888817,"(3C) LIVING IN THE CITY,CLOSE TO HARVARD&MIT",15154687,John,,Wellington-Harrington,42.37317,-71.09132,Private room,60,1,29,2020-10-03,0.97,13,310
+24967119,"Cultural District, MIT, Harvard, 1Br, Free parking",158575537,Dan And Kat,,The Port,42.36473,-71.09916,Entire home/apt,195,2,47,2020-10-17,1.65,1,39
+25103936,Upscale Cambridge 2 Bedroom Apt Steps from MIT!,30283594,Global Luxury Suites,,East Cambridge,42.36464,-71.08265,Entire home/apt,686,91,0,,,15,364
+25212486,Huron House Room - 3rd floor,4642626,Amy,,West Cambridge,42.38168,-71.13834,Private room,50,7,8,2020-03-17,0.29,5,151
+25483626,Modica Estate #3,39361614,Jamal,,The Port,42.36587,-71.09701,Private room,47,1,182,2020-10-25,6.72,3,258
+25486999,The Chakra Room:  Close to Harvard & public trans!,21779605,Diane,,Agassiz,42.38202,-71.10374,Private room,125,91,101,2020-03-19,3.53,1,269
+25691658,2Bed—10 Meters from Harvard Law School! Big & New!,45224133,Clare,,Agassiz,42.37901,-71.11866,Entire home/apt,264,91,0,,,3,90
+25728312,Private Bedroom at Harvard,9928124,Zayetta,,Agassiz,42.37767,-71.11119,Private room,46,91,10,2019-11-03,0.35,2,359
+25778262,Serene suites close to Harvard- always disinfected,28283338,Rae&Jarrod,,Agassiz,42.38428,-71.11669,Entire home/apt,159,2,21,2020-07-19,0.75,3,46
+26136927,"Cambridge beautiful 2BR, near Porter/Harvard Sq.",9365589,J G,,North Cambridge,42.39047,-71.1274,Entire home/apt,95,30,104,2020-03-13,3.86,2,46
+26428050,"LIVING IN THE CITY, CLOSE TO HARVARD&MIT",15154687,John,,Wellington-Harrington,42.37378,-71.09004,Private room,51,1,58,2020-10-17,2.08,13,365
+26429034,"LIVING IN THE CITY,CLOSE TO HARVARD&MIT",15154687,John,,Wellington-Harrington,42.37168,-71.09066,Private room,51,1,46,2020-09-30,1.65,13,365
+26473352,Room in Huron Village Upper Apartment,4642626,Amy,,West Cambridge,42.38261,-71.13896,Private room,50,7,2,2020-02-24,0.07,5,166
+26502467,"CITY LIFE, CLOSE TO HARVARD&MIT",15154687,John,,Wellington-Harrington,42.37154,-71.09164,Private room,51,1,50,2020-10-12,1.79,13,365
+26502701,CLOSE TO HARVARD&MIT,15154687,John,,Wellington-Harrington,42.37315,-71.09133,Private room,51,1,39,2020-10-13,1.39,13,363
+26688986,Charming  quiet  apt: renovated 2 BR 4 blocks to T,200654508,Arielle,,North Cambridge,42.38995,-71.12396,Entire home/apt,120,3,16,2020-08-21,0.58,1,25
+26703374,Harvard Square less than 2 miles,71156317,Eddy,,Strawberry Hill,42.37511,-71.15229,Private room,70,3,4,2018-08-16,0.15,1,90
+26857005,2 bed 1 bath w/ Free Parking in East Cambridge,43450256,Steve,,East Cambridge,42.36823,-71.08396,Entire home/apt,220,21,7,2020-03-31,0.26,17,133
+26978504,"Perfect quiet oasis, 5 min walk to groceries/CVS/T",15692612,Michaela,,North Cambridge,42.39377,-71.12518,Private room,75,14,1,2019-04-28,0.05,1,57
+27017697,CLOSE TO HARVARD&MIT,15154687,John,,Wellington-Harrington,42.37173,-71.0918,Entire home/apt,101,1,14,2020-10-16,0.52,13,365
+27083472,"Perfect Location, Top Floor Apt",6839881,Lisan,,The Port,42.36745,-71.10105,Private room,76,200,1,2018-09-02,0.04,6,358
+27141126,WALKING DISTANCE to HARVARD&MIT with MEMORY BED 3,187572416,Tj,,Cambridgeport,42.36401,-71.10816,Private room,59,1,150,2020-10-09,5.57,3,349
+27197352,Huge Private Room near Harvard with King Bed,56845328,George,,Strawberry Hill,42.37705,-71.14899,Private room,36,91,0,,,2,310
+27303018,"Lovely room, Great location",6839881,Lisan,,North Cambridge,42.3901,-71.12607,Private room,64,200,2,2020-09-02,0.13,6,365
+27407158,WALKING DISTANCE to HARVARD&MIT with MEMORY BED 1,187572416,Tj,,Riverside,42.36441,-71.1083,Private room,66,1,130,2020-03-15,4.82,3,365
+27757091,ELA: Enjoy Harvard campus & Charles River &  MIT,209566405,Michelle,,West Cambridge,42.37278,-71.12288,Private room,38,30,33,2019-08-06,1.26,4,61
+27757364,Room steps 2 Harvard Yard 來去哈佛,209566405,Michelle,,West Cambridge,42.374,-71.12345,Private room,35,30,14,2020-01-26,0.56,4,35
+27757751,"ER二：Cozy Private Room in Harvard Square, nr MIT",209566405,Michelle,,West Cambridge,42.37463,-71.12441,Private room,35,30,48,2020-09-30,1.90,4,62
+27897602,One Bedroom Short Walk to Harvard (Rm 4),51079261,Riverside,,Riverside,42.36811,-71.10853,Private room,110,1,1,2018-08-22,0.04,17,36
+27898877,Room For Two Short Walk To Harvard (RM 7),51079261,Riverside,,Riverside,42.36748,-71.10788,Private room,111,1,7,2018-10-20,0.28,17,6
+28178013,Quiet and Close to Everything! 2 Bedroom apartment,36085037,LIsa,,North Cambridge,42.39132,-71.125,Entire home/apt,175,91,1,2018-09-08,0.04,1,270
+28186233,WALKING DISTANCE to HARVARD&MIT with MEMORY BED 2,187572416,Tj,,Riverside,42.3645,-71.10961,Private room,66,1,127,2020-03-20,4.89,3,207
+28195363,"Loft room, great location in Cambridge",6839881,Lisan,,Neighborhood Nine,42.38846,-71.12551,Private room,77,200,0,,,6,365
+28282525,Cambridge Loft near  Harvard Square - min 2 months,55152664,Sophie,,West Cambridge,42.38154,-71.13314,Entire home/apt,170,91,0,,,4,134
+28463949,Apartment  near Harvard - min 3 months,55152664,Sophie,,West Cambridge,42.38172,-71.13398,Entire home/apt,170,91,0,,,4,278
+28466694,One Sunny & Quiet room in Harvard square,209566405,Michelle,,West Cambridge,42.37266,-71.12455,Private room,36,30,5,2020-08-28,0.23,4,58
+28489121,Harvard Sq Riverside w/parking Walk HBS/HLS/MIT/BU,184906834,Janice,,Riverside,42.3686,-71.11414,Entire home/apt,149,3,73,2020-08-31,2.83,1,24
+28667379,Room for monthly rent  in owner's apartment.,7421025,Doriana,,Mid-Cambridge,42.37003,-71.11036,Private room,43,223,0,,,3,207
+28761770,Central Square Bedroom by metro T stop,216953227,Jacqueline,,Riverside,42.36538,-71.10519,Private room,124,91,3,2018-11-28,0.12,1,90
+28801153,Room For Two Short Walk To Harvard (Rm 9),51079261,Riverside,,Mid-Cambridge,42.36942,-71.10676,Private room,113,1,9,2019-08-11,0.35,17,6
+28832386,Apartment near Harvard - minimum 2 months,55152664,Sophie,,West Cambridge,42.38149,-71.13468,Entire home/apt,190,91,0,,,4,203
+28833374,Lovely Family Home - min 3 months,55152664,Sophie,,West Cambridge,42.38105,-71.133,Entire home/apt,300,91,0,,,4,246
+28939065,"quiet 3 br house w prkng sleeps 9,  easy walk to T",3527218,Peter,,East Cambridge,42.36844,-71.08634,Entire home/apt,199,3,55,2019-12-01,2.19,1,84
+28952923,The Modica Estates #4,218237995,Jason,,The Port,42.36629,-71.09851,Private room,47,1,184,2020-10-12,7.56,2,326
+28988139,I1 Private Room by Kendall,218493228,John,,Wellington-Harrington,42.37062,-71.09643,Private room,55,30,37,2020-09-27,1.65,3,146
+28988885,I2 Private Room by Kendall,218493228,John,,Wellington-Harrington,42.3713,-71.0953,Private room,55,30,43,2020-09-18,2.15,3,174
+28989060,I3 Private Room by Kendall/MIT/Central Statio,218493228,John,,Wellington-Harrington,42.37071,-71.09631,Private room,53,30,20,2020-09-09,0.86,3,172
+29034417,The Modica Estates #5,218237995,Jason,,The Port,42.36515,-71.0991,Private room,49,1,189,2020-10-10,7.56,2,333
+29151496,*HARVARD/MIT- Location!,219665574,Mark,,East Cambridge,42.37284,-71.08716,Entire home/apt,148,2,50,2020-09-03,2.04,1,171
+29308635,"Beautiful room in Cambridge , Ma",887148,Dawn,,West Cambridge,42.3758,-71.12749,Private room,275,91,6,2019-10-26,0.24,1,364
+29343335,Budget Room in Cambridge - Paris Concept,1474891,Oliver,,The Port,42.36991,-71.09693,Private room,35,2,63,2020-10-09,2.59,5,13
+29588602,One Subway Stop to Harvard Two Stops to MIT (C),51079261,Riverside,,North Cambridge,42.39386,-71.12697,Private room,101,1,9,2019-10-26,0.38,17,6
+29789486,Budget Room in Cambridge - Istanbul Concept,1474891,Oliver,,Wellington-Harrington,42.37102,-71.09544,Private room,63,2,49,2020-03-09,2.06,5,130
+29806399,Budget Room in Cambridge - Woof Concept,1474891,Oliver,,Wellington-Harrington,42.37189,-71.09621,Private room,35,2,56,2020-09-23,2.34,5,167
+29816287,Budget Room in Cambridge - Twin Concept,1474891,Oliver,,The Port,42.37042,-71.097,Private room,44,2,66,2020-10-05,2.76,5,28
+29854517,Cozy Place,197864304,Elicia,,The Port,42.36592,-71.10177,Private room,115,91,0,,,1,365
+29992024,4BR Beautiful New Cambridge Home,7372692,Eva,,Cambridge Highlands,42.39294,-71.15302,Entire home/apt,475,1,6,2020-08-22,0.26,1,330
+30035967,"Newly renovated, spacious gem in heart of City",19167089,Danielle & Joe,,East Cambridge,42.36877,-71.08052,Entire home/apt,164,2,40,2020-10-21,2.22,1,41
+30080995,Budget Room in Cambridge - Full Concept,1474891,Oliver,,Wellington-Harrington,42.3716,-71.09661,Private room,29,2,48,2020-09-29,2.07,5,12
+30169164,Light filled lofty layout and all yours!,11982406,Maggie,,Cambridgeport,42.36097,-71.10983,Entire home/apt,214,2,37,2020-10-12,1.60,2,288
+30323319,哈佛附近温馨精细卧室出租,227715194,Stone,,Riverside,42.36581,-71.11449,Private room,52,91,0,,,1,249
+30386484,"Calming Kendall Square Studio w/ Gym, near MIT by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,194,32,1,2019-04-22,0.05,29,251
+30389876,"Bright + Mod Kendall Sq 1BR w/ Gym, walk to MIT by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,158,32,1,2019-02-23,0.05,29,364
+30389899,"Gentle Kendall Sq Studio, Gym, Doorman, near MIT by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,154,32,0,,,29,321
+30389924,"Hip 1BR, Kendall Square, Gym, Doorman, walk to MIT by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,199,32,0,,,29,301
+30390003,"Sleek Kendall Sq 2BR, Gym, Doorman, walk to MIT by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,270,32,1,2020-05-31,0.20,29,283
+30390533,"Serene Studio, Kendall Square, Gym, walk to MIT by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,130,32,1,2019-06-08,0.06,29,331
+30397057,"Industrial 1BR near MIT w/ Gym, Doorman, Roof Deck by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,173,32,0,,,29,350
+30397111,"Comfy Kendall Square Studio w/ Gym, walk to MIT by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,168,32,0,,,29,313
+30428472,Stunning urban hideaway nearby Harvard Square,66569066,Andrew & Marie,,Neighborhood Nine,42.3881,-71.12271,Entire home/apt,159,2,60,2020-08-31,2.91,2,54
+30441472,Cambridge   Harvard  -  MIT Great Room 2,19788941,Jean Manuel,,The Port,42.36451,-71.09664,Private room,43,91,0,,,3,360
+30489683,"Snug Kendall Square Studio w/ Gym, near MIT & MGH by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,137,32,0,,,29,335
+30567500,"Cambridge renovated 1BR, near Porter/Harvard Sq.",9365589,J G,,Neighborhood Nine,42.38813,-71.12641,Entire home/apt,65,29,89,2020-09-05,4.22,2,116
+30686042,Cambridge  Harvard - MIT  Great Room,19788941,Jean Manuel,,The Port,42.36383,-71.09768,Private room,43,91,8,2019-07-20,0.37,3,215
+30788187,"NEW Sunny, Large 1Bed facing Harvard Law School!!",45224133,Clare,,Agassiz,42.38101,-71.11857,Entire home/apt,89,91,20,2019-12-14,0.90,3,90
+31153915,MIT,159674828,娟,,Area 2/MIT,42.36286,-71.08871,Private room,60,91,6,2020-01-30,0.27,2,365
+31265845,Room next to MIT in a quiet zone,5938188,Ekaterina,,Wellington-Harrington,42.37029,-71.09463,Private room,45,91,0,,,2,0
+32055447,Newly Renovated & Oh-So-Convenient!,93861,Jason & Dabney,,East Cambridge,42.36881,-71.08283,Entire home/apt,124,2,73,2020-09-23,3.65,1,306
+32089527,BEDROOM-MIT3-HARV-MGH-CENTRAL-INMAN-KENDALL-UNION,12576232,Thomas,,The Port,42.3707,-71.09897,Private room,45,32,2,2020-08-16,0.27,5,154
+32210534,R5 Cozy quiet private room near MIT,119672800,Charlie,,Wellington-Harrington,42.36832,-71.09154,Private room,35,2,4,2020-10-08,0.49,6,58
+32210545,R3 Quiet Cozy Room,119672800,Charlie,,Wellington-Harrington,42.36998,-71.09186,Private room,40,2,6,2019-04-13,0.29,6,72
+32286134,"Tangerine Dream - Pvt Entry, MIT-Harvard-Downtown",1182119,Paul,,Wellington-Harrington,42.36962,-71.09183,Private room,105,1,42,2020-10-04,2.04,1,160
+32324379,"Roomy 2BR in Kendall Square w/ Gym, Doorman near MIT & MGH by Blueground",107434423,Blueground,,East Cambridge,42.36624,-71.0841,Entire home/apt,266,32,0,,,29,155
+32407309,"Harvard Square: Charming, newly updated",6499961,Brian,,Mid-Cambridge,42.37468,-71.11013,Entire home/apt,150,30,4,2019-03-22,0.20,2,340
+32441363,N. Cambridge Private Bedroom for Two,88140341,Ana,,North Cambridge,42.39366,-71.12912,Private room,80,1,79,2020-03-08,3.88,1,178
+32520971,Beautiful  private room at Harvard Sq 1,244341077,Charlotte,,West Cambridge,42.37375,-71.123,Private room,60,91,30,2019-08-30,1.49,3,365
+32521733,Beautiful private room at Harvard Sq 2,244341077,Charlotte,,West Cambridge,42.37411,-71.12433,Private room,60,91,38,2019-08-29,1.89,3,365
+32521848,Beautiful private room at Harvard Sq 3,244341077,Charlotte,,West Cambridge,42.37198,-71.12265,Private room,60,91,33,2019-08-28,1.63,3,365
+32529852,"Lovely, sunny, spacious 2 bdrm, summer 2020",290252,Jessica,,Neighborhood Nine,42.38705,-71.12693,Entire home/apt,150,28,0,,,1,126
+32550845,Cozy private room next to Harvard Square 1,244612239,Sophia,,West Cambridge,42.37209,-71.12292,Private room,60,91,32,2019-08-30,1.59,3,365
+32551001,Cozy private room next to Harvard Square 2,244612239,Sophia,,West Cambridge,42.37333,-71.12251,Private room,60,91,19,2019-08-30,0.97,3,365
+32551056,Cozy private room next to Harvard Square 3,244612239,Sophia,,West Cambridge,42.37415,-71.12414,Private room,60,91,34,2019-08-30,1.72,3,365
+32554763,Cozy Private room next to Harvard sq 4,244648734,Elizabeth,,West Cambridge,42.37278,-71.12256,Private room,60,91,28,2019-08-28,1.43,1,365
+32693725,Nice Studio *parking* 3-minute walk to subway,227996806,Mary,,Neighborhood Nine,42.38882,-71.12776,Entire home/apt,180,30,9,2020-02-19,0.45,5,55
+32791973,"4 beds, walk to subway: Harvard,MIT,Kendall,Boston",246448509,Emily,,Wellington-Harrington,42.37128,-71.08983,Entire home/apt,230,91,0,,,2,147
+32900803,High-class private room next to MIT/Harvard 1,247533528,Roxy,,The Port,42.36899,-71.09863,Private room,59,1,88,2020-10-04,4.44,3,174
+32901476,High-class private room next to MIT/Harvard 2,247533528,Roxy,,The Port,42.36993,-71.09762,Private room,55,1,55,2020-10-18,2.84,3,154
+32901607,High-class private room next to MIT/Harvard 3,247533528,Roxy,,The Port,42.37013,-71.09878,Private room,55,1,30,2020-10-12,1.56,3,153
+32986957,Hey Private Room close to MIT and Harvard Uni,248263858,Ann,,Mid-Cambridge,42.37219,-71.09947,Private room,59,1,68,2020-08-28,3.52,1,175
+33028188,"Crisp Kendall Square Studio w/ Gym, W/D by MIT, MGH & River by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,163,32,1,2019-10-03,0.08,29,318
+33128612,Studio 3-minute walk to subway,227996806,Mary,,North Cambridge,42.38969,-71.12252,Entire home/apt,70,91,6,2019-09-08,0.31,5,298
+33183552,"Rad Kendall Square 1BR w/ Gym, W/D by MIT, MGH & River by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,262,32,0,,,29,149
+33242374,"keyless private room near MIT,Central Sq 1",250298429,Dafne,,Cambridgeport,42.35881,-71.10452,Private room,57,1,80,2020-10-09,4.35,3,165
+33245746,"keyless private room near MIT,Central Sq 2",250298429,Dafne,,Cambridgeport,42.35995,-71.10423,Private room,56,1,118,2020-10-21,6.15,3,168
+33245987,"keyless private room near MIT,Central Sq 3",250298429,Dafne,,Cambridgeport,42.36036,-71.10338,Private room,60,1,89,2020-08-30,4.80,3,159
+33325791,3 Bed 2 Bath w/ Free Parking near Kendall Square,43450256,Steve,,East Cambridge,42.37168,-71.07861,Entire home/apt,103,1,59,2020-10-08,3.08,17,362
+33337073,3 Bed 2 Bath Tourist House near Kendall Square,43450256,Steve,,East Cambridge,42.3722,-71.07726,Entire home/apt,115,1,51,2020-10-01,2.66,17,220
+33340302,New 3 Bed 2 Bath Tourist House near Kendall Square,43450256,Steve,,East Cambridge,42.37089,-71.07787,Entire home/apt,81,1,55,2020-10-09,2.89,17,222
+33341290,Smartly-Equipped Porter Square 1BR in Harvard Square by Blueground,107434423,Blueground,,Agassiz,42.38547,-71.1168,Entire home/apt,187,32,0,,,29,266
+33341404,Well-Located Porter Square 1BR in Harvard Square by Blueground,107434423,Blueground,,Agassiz,42.38547,-71.1168,Entire home/apt,192,32,0,,,29,241
+33374476,"*2 bed, walk to subway:Harvard,MIT,Kendall,Boston*",246448509,Emily,,Wellington-Harrington,42.37138,-71.08997,Entire home/apt,210,91,0,,,2,148
+33463508,Nice Studio *parking* 3-minute walk to subway,227996806,Mary,,North Cambridge,42.391,-71.12095,Entire home/apt,165,91,0,,,5,55
+33483321,Studio 3-minute walk to subway,51692157,Tina,,North Cambridge,42.39063,-71.12142,Entire home/apt,130,91,0,,,2,298
+33484884,Sunny spacious 2 BR near Porter/ Davis/ Harvard sq,4234305,Caroline,,North Cambridge,42.39287,-71.12473,Entire home/apt,118,91,0,,,1,205
+33551653,"Central Kendall Square Studio w/ Gym, W/D near MIT & River by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,162,32,0,,,29,309
+33596731,"Comfy Kendall Square 1BR w/ Gym, W/D near MIT & River by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,244,32,0,,,29,239
+33692520,Sunny Bedroom at Harvard,9928124,Zayetta,,Agassiz,42.37811,-71.10993,Private room,45,91,2,2019-12-21,0.14,2,365
+33718681,Luxurious Loft Centrally Located Spectacular View,253840197,Nikki,,Riverside,42.36605,-71.11303,Entire home/apt,150,91,63,2020-06-09,3.36,1,144
+33913038,Studio 3--minute walk to subway,227996806,Mary,,North Cambridge,42.39089,-71.12402,Entire home/apt,70,91,0,,,5,298
+33915066,34 - Walk To Harvard & Porter. Cute private room.,17028791,M,,West Cambridge,42.38326,-71.13651,Private room,50,91,8,2019-12-13,0.46,5,199
+33998489,Cozy apartment next to Central Sq/Harvard Sq/MIT,256714221,Anna,,Mid-Cambridge,42.36856,-71.10447,Entire home/apt,148,3,67,2020-10-24,3.80,1,251
+34126785,"Private Rm, 5-Min Walk to Harvard, 1 Month Minimum",44086891,Mindy,,Agassiz,42.37865,-71.1082,Private room,52,28,4,2019-08-13,0.24,4,268
+34127139,"Private Rm, 5-Min Walk to Harvard, 1 Month Minimum",44086891,Mindy,,Mid-Cambridge,42.37755,-71.10749,Private room,60,28,4,2019-11-06,0.22,4,339
+34127149,"Private Rm, 5-Min Walk to Harvard, 1 Month Minimum",44086891,Mindy,,Mid-Cambridge,42.37748,-71.10808,Private room,62,28,3,2020-02-02,0.21,4,298
+34440624,"Cute, comfortable, and centrally located",1858876,Erez,,East Cambridge,42.36956,-71.08176,Private room,65,1,9,2020-10-01,0.50,2,23
+34507120,"Cute, Comfortable, and Centrally Located",1858876,Erez,,East Cambridge,42.36848,-71.08153,Private room,139,3,10,2020-10-11,0.57,2,364
+34664077,Luxury studio w/ parking by MIT/Harvard/BU/Fenway,66604416,Toby & Quinn,,Cambridgeport,42.3577,-71.11166,Entire home/apt,106,1,183,2020-10-12,10.38,4,71
+34715721,Charming apartment with balcony and great location,32994433,Aarón,,Mid-Cambridge,42.36833,-71.10851,Entire home/apt,69,91,2,2019-06-13,0.11,1,120
+34785693,2 BR  APT w/ parking near MIT/Harvard/BU/Fenway,66604416,Toby & Quinn,,Cambridgeport,42.35589,-71.11012,Entire home/apt,177,1,145,2020-10-23,8.27,4,114
+34944649,Luxury 1BR APT w/ parking by MIT/Harvard/BU/Fenway,66604416,Toby & Quinn,,Cambridgeport,42.35756,-71.11102,Entire home/apt,128,1,155,2020-10-08,8.96,4,46
+35060349,"Parking, Pets, and a Yard, Oh My!",11982406,Maggie,,Cambridgeport,42.36152,-71.11114,Entire home/apt,250,6,2,2020-09-26,0.15,2,294
+35233542,The big cozy room,70690651,Ronald,,Strawberry Hill,42.3799,-71.1522,Private room,80,30,3,2020-04-14,0.20,3,364
+35333477,Room For Two Short Walk To Harvard (RM 8),51079261,Riverside,,Riverside,42.36707,-71.10691,Private room,111,1,7,2020-09-20,0.41,17,5
+36197065,Historic Richardson's Row In Harvard Square,6499961,Brian,,Mid-Cambridge,42.37457,-71.11217,Entire home/apt,950,3,3,2020-10-13,0.20,2,172
+36393934,剑桥高尔夫套房（3房1卫）,251460237,Guanyu,,Strawberry Hill,42.38483,-71.1578,Entire home/apt,198,91,0,,,1,364
+36622151,Renovated Furnished Apartment in Cambridge Home,266312920,STARS Of,,North Cambridge,42.39446,-71.1343,Entire home/apt,321,28,0,,,2,158
+36699059,"Enchanting1bed-9min drive toAirport,walk to train",24061028,Mannie,,Wellington-Harrington,42.37224,-71.09895,Entire home/apt,80,2,38,2020-10-23,2.49,4,67
+36769756,4BR 2BA Bright Spacious Home in Cambridge,250597522,Cynthia,,North Cambridge,42.39152,-71.13118,Entire home/apt,399,1,9,2020-10-18,0.90,1,88
+36867730,Great location: Harvard Square Delight!,92925188,Genie,,Mid-Cambridge,42.37278,-71.11087,Entire home/apt,140,1,2,2020-09-16,0.14,2,320
+37142306,Spacious Harvard Square 2BR w/ W/D near Redline by Blueground,107434423,Blueground,,Mid-Cambridge,42.37025,-71.1085,Entire home/apt,204,32,0,,,29,268
+37205053,"Garden-view Apartment, Minutes to Harvard Sq.",17028791,M,,West Cambridge,42.38274,-71.1381,Entire home/apt,70,91,1,2019-12-24,0.10,5,127
+37419036,"Nice stay near Harvard, MIT and redline T",19008767,Ellen,,Riverside,42.36614,-71.11495,Private room,97,91,3,2019-10-30,0.20,3,310
+37420729,"Comfy stay near Harvard, MIT and redline T",19008767,Ellen,,Cambridgeport,42.36476,-71.10326,Private room,99,91,0,,,3,365
+37460222,"Clean, Bright Space near Harvard/MIT",41097805,Jamie Michael,,Riverside,42.37184,-71.11611,Private room,68,1,11,2020-02-19,0.81,1,89
+37532162,"Pleasant place near Harvard, MIT and redline T",19008767,Ellen,,Riverside,42.36559,-71.10441,Private room,99,91,2,2019-12-08,0.16,3,365
+37557973,"Sunny Room next to Inman, Union, Harvard, MIT",5938188,Ekaterina,,Wellington-Harrington,42.37303,-71.09462,Private room,50,91,0,,,2,365
+37680404,BR w/ Double Beds in Beautiful Single Family Home,226407671,Dennis,,The Port,42.36327,-71.09813,Private room,135,91,0,,,1,364
+37684393,Alluring Private Room near Harvard,56845328,George,,Strawberry Hill,42.37589,-71.15113,Private room,34,91,0,,,2,281
+37696869,"Rad Harvard Sq 1BR w/ Balcony, near Shops & Campus, by Blueground",107434423,Blueground,,Mid-Cambridge,42.37025,-71.1085,Entire home/apt,154,32,0,,,29,14
+37726328,Excellent Location Economy 1 Bed in Kendall Square,43450256,Steve,,East Cambridge,42.36812,-71.08237,Entire home/apt,188,1,3,2020-08-15,0.25,17,72
+37939414,Cambridge total,135126696,Regina,,East Cambridge,42.37222,-71.08421,Entire home/apt,124,3,39,2020-10-23,2.78,3,70
+38265273,Private Room & Bathroom in Stunning Cambridge Apt,57472513,Rosalie,,Mid-Cambridge,42.37063,-71.10584,Private room,110,91,9,2019-12-15,0.65,1,179
+38360503,Queen size private bedroom - Harvard square,252615703,M&M,,Mid-Cambridge,42.37323,-71.11278,Private room,130,91,8,2019-11-03,0.59,3,90
+38435661,Excellent location - harvard square clean sofa bed,252615703,M&M,,Mid-Cambridge,42.37035,-71.11227,Shared room,65,91,8,2019-10-26,0.58,3,90
+38460544,"Nice room, Great location in Cambridge",6839881,Lisan,,Neighborhood Nine,42.38848,-71.12603,Private room,74,91,0,,,6,298
+38492542,Private bedroom (queen size) - Harvard University,252615703,M&M,,Mid-Cambridge,42.3731,-71.11207,Private room,140,91,4,2019-11-03,0.30,3,90
+38817473,Cambridge 超级舒适的公主风格房,23086232,Angela,,Cambridge Highlands,42.39086,-71.13917,Shared room,60,91,0,,,1,90
+38822539,"Harvard Law - 2 Bed 1 Bath, Private Top Floor",140051530,Beth,,Agassiz,42.38175,-71.1186,Private room,225,2,6,2020-03-23,0.49,3,179
+38915459,"Mod Kendall Square 1BR w/ W/D, near Mass General Hospital, by Blueground",107434423,Blueground,,East Cambridge,42.36684,-71.08217,Entire home/apt,174,32,0,,,29,312
+38960050,Harvard Law - Cozy Double,140051530,Beth,,Agassiz,42.381,-71.11966,Private room,90,2,18,2020-10-11,1.40,3,179
+38960329,Harvard Law- Simple Sunlit Queen,140051530,Beth,,Agassiz,42.38186,-71.11852,Private room,110,2,9,2020-10-25,0.71,3,179
+39000981,Large Private Room with Walk-inCloset,120556334,Zixiao,,East Cambridge,42.36999,-71.07799,Private room,55,91,4,2019-12-12,0.35,1,180
+39340799,Tasteful 2 bedroom near Harvard Square,302175273,Angela,,Agassiz,42.37918,-71.10837,Entire home/apt,109,30,32,2020-08-08,2.57,1,71
+39608947,Upstairs in Central Square,1152305,Greg,,Cambridgeport,42.36354,-71.10381,Entire home/apt,110,30,3,2020-07-31,0.39,3,150
+39661459,One bedroom in a Nice Apartment near Harvard Sq.,7822039,Adriana,,Strawberry Hill,42.37511,-71.15209,Private room,64,2,5,2020-03-01,0.42,1,351
+39728795,New House in Safe and Convenient North Cambridge,26102116,Bob,,North Cambridge,42.39175,-71.13289,Entire home/apt,303,3,17,2020-10-12,1.69,1,91
+39747422,"Trendy Central Square 2BR w/ W/D near MIT & Kendall Square, by Blueground",107434423,Blueground,,The Port,42.36475,-71.09995,Entire home/apt,206,32,0,,,29,324
+39747612,Central Square 1BR w/ W/D near MIT & Kendall Square by Blueground,107434423,Blueground,,The Port,42.36475,-71.09995,Entire home/apt,132,32,0,,,29,115
+39889493,"Close to Harvard MIT, near Porter Sq Red Ln Subway",306800821,Andrew,,Agassiz,42.38672,-71.11733,Private room,55,1,2,2020-02-18,0.22,1,87
+39896724,The NERDpartment in the heart of Cambridge,30490587,Young Jae,,East Cambridge,42.37166,-71.08489,Entire home/apt,350,2,7,2020-03-16,0.74,1,353
+39908171,"Well-Located Porter Square 1BR in Harvard Square, by Blueground",107434423,Blueground,,Agassiz,42.38509,-71.11703,Entire home/apt,146,32,0,,,29,352
+39908320,"Porter Square 1BR w/ W/D in building, by Blueground",107434423,Blueground,,Agassiz,42.38547,-71.1168,Entire home/apt,138,32,0,,,29,338
+39908347,"Porter Square 1BR w/ W/D in building in Harvard Square, by Blueground",107434423,Blueground,,Agassiz,42.38547,-71.1168,Entire home/apt,181,32,0,,,29,333
+39908417,"Harvard Sq 1BR w/ Balcony, near Shops & Campus by Blueground",107434423,Blueground,,Mid-Cambridge,42.37025,-71.1085,Entire home/apt,207,32,0,,,29,178
+39955033,Cambridge 2BD 2BTH Basement Apt with Free Parking,2356643,Voyage,,Cambridge Highlands,42.39166,-71.15692,Entire home/apt,102,30,3,2020-02-03,0.26,1,365
+40552282,"Large 4/5 bed,MIT, Harvard,Tufts,close to Red Line",96961013,Deb,,North Cambridge,42.39512,-71.13476,Entire home/apt,323,28,0,,,1,158
+40565168,"Renovated 3 Bed,1.5 Bath Close to Harvard and MIT",266312920,STARS Of,,Riverside,42.36353,-71.11313,Entire home/apt,200,31,0,,,2,0
+40729475,Spacious garden-level loft near Harvard Square,66569066,Andrew & Marie,,Neighborhood Nine,42.38785,-71.12282,Entire home/apt,159,2,5,2020-10-19,1.61,2,69
+40807339,"The Historic George Gale House, Lavender Room",16437750,Sue,,Mid-Cambridge,42.36925,-71.10486,Private room,195,2,1,2020-03-28,0.14,1,88
+40814215,8BD/8BTH MANSARD (SLEEPS 8-36),81038,Louisa,,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,2857,1,0,,,9,223
+40886365,Beautiful West Cambridge Apartment,78446576,Jessica,,Neighborhood Nine,42.38503,-71.13604,Entire home/apt,126,1,6,2020-10-18,3.33,1,61
+41056764,Kool furnished bedroom NR central Sq Redline,320886104,Chet,,Cambridgeport,42.36266,-71.1003,Private room,65,4,0,,,1,84
+41087815,"Great Location,  great community, top management.",300779126,Carolyn,,North Cambridge,42.39274,-71.14224,Private room,75,91,0,,,1,364
+41223077,"Corner Kendall Sq 1BR w/ Office Nook, Gym near MIT by Blueground",107434423,Blueground,,Area 2/MIT,42.36288,-71.08784,Entire home/apt,216,32,0,,,29,276
+41273964,Fully Furnished Private Room in Harvard Square,1000338,Mark,,Agassiz,42.37774,-71.10983,Private room,54,91,0,,,2,343
+41288141,"Studio, Fully Furnished in Harvard Square",1000338,Mark,,Mid-Cambridge,42.37594,-71.11153,Private room,60,91,0,,,2,365
+41569941,Beautiful condo near Harvard Square,81016862,Gaytri,,West Cambridge,42.38396,-71.1345,Private room,42,91,0,,,2,298
+41570879,Cozy PRIVATE room in luxury setting (Harvard-MIT),324990049,Sally,,North Cambridge,42.39448,-71.14231,Private room,43,1,0,,,1,174
+41576602,"Cozy East Cambridge 1BR w/ Gym, DM, W/D, nr. Green Line, by Blueground",107434423,Blueground,,East Cambridge,42.37157,-71.0717,Entire home/apt,220,32,1,2020-05-31,0.20,29,0
+41605338,"Eloquent Apt Close to Dwntown,bars/Train&Airport",24061028,Mannie,,Wellington-Harrington,42.37267,-71.09761,Private room,54,2,6,2020-09-17,0.95,4,68
+41830938,Furnished 1BR in Cambridge w/ Concierge + Gym,48005494,Zeus,,Area 2/MIT,42.36303,-71.08895,Entire home/apt,99,31,1,2020-08-09,0.38,2,111
+41871493,Cambridge 1BR w/ Gym + Concierge near Transit,48005494,Zeus,,Area 2/MIT,42.36361,-71.08869,Entire home/apt,89,31,0,,,2,100
+41998167,2 Bed w/ Parking Near Kendall Square & MIT,43450256,Steve,,East Cambridge,42.36736,-71.07895,Entire home/apt,200,20,2,2020-06-13,0.26,17,282
+42037691,Room For Rent,67452152,維鴻,,Mid-Cambridge,42.37298,-71.10799,Private room,38,150,1,2020-02-28,0.12,1,180
+42089092,"Cozy Central Square 1BR w/ Gym, DM, nr. Central Sq. T Stop, by Blueground",107434423,Blueground,,The Port,42.36376,-71.1003,Entire home/apt,184,32,0,,,29,336
+42116124,Cambridge Harvard - MIT Great Room 1,19788941,Jean Manuel,,The Port,42.3679,-71.09486,Private room,49,91,0,,,3,338
+42139900,Bedrooms(#C1) Adjacent to Harvard/MIT走路到哈佛,292907881,Ying,,Mid-Cambridge,42.3786,-71.10347,Private room,35,28,12,2020-03-18,1.39,1,106
+42153289,"Beautiful, spacious and sunny 1-bedroom",85005254,Nicolas,,Neighborhood Nine,42.38,-71.12537,Entire home/apt,80,120,0,,,1,266
+42357558,2 Bed 1 Bath Near MIT,43450256,Steve,,East Cambridge,42.36904,-71.07849,Entire home/apt,175,21,0,,,17,221
+42384429,D1 Porter Sq Private Bedroom,146608239,Alpaslan,,Neighborhood Nine,42.38807,-71.12194,Private room,110,31,0,,,9,90
+42384625,D2 Private Room at Porter Sq,146608239,Alpaslan,,Neighborhood Nine,42.38883,-71.12406,Private room,100,31,0,,,9,90
+42384839,D3 Private Room at Porter Sq,146608239,Alpaslan,,Neighborhood Nine,42.38804,-71.12197,Private room,100,31,0,,,9,90
+42385082,H1 Private Room by Harvard Uni,146608239,Alpaslan,,Wellington-Harrington,42.37161,-71.09773,Private room,100,31,0,,,9,90
+42385305,H2 Private room close to Harvard Uni,146608239,Alpaslan,,Wellington-Harrington,42.37144,-71.09584,Private room,100,31,0,,,9,90
+42385399,H3 Private Room close to Harvard Uni,146608239,Alpaslan,,Wellington-Harrington,42.37203,-71.09795,Private room,100,31,0,,,9,90
+42385619,J1 Private room close to MIT & BU,146608239,Alpaslan,,Cambridgeport,42.3588,-71.10655,Private room,100,31,0,,,9,90
+42385742,J3 Private Bedroom close to BU & MIT,146608239,Alpaslan,,Cambridgeport,42.35753,-71.10588,Private room,100,31,0,,,9,90
+42385892,J2 Private Room close to MIT and BU,146608239,Alpaslan,,Cambridgeport,42.3592,-71.10583,Private room,100,31,0,,,9,90
+42638417,Large King sized bedroom in beautiful Harvard sq!,81016862,Gaytri,,West Cambridge,42.38235,-71.13318,Private room,55,91,0,,,2,329
+42664410,Luxury Boston Apartment Fenway,158837906,Hesham,,East Cambridge,42.36865,-71.07373,Entire home/apt,378,1,3,2020-10-17,1.38,1,360
+42789288,Fully-Furnished 2BR near Harvard Sq: HBS HKS MIT,23078,Eric,,North Cambridge,42.39125,-71.12208,Entire home/apt,99,91,0,,,2,180
+42888495,Convenient Studio *parking* 3-min. walk to subway,227996806,Mary,,North Cambridge,42.39084,-71.12125,Entire home/apt,70,30,11,2020-08-31,1.55,5,55
+42946067,"Airy Central Square 1BR w/ Gym, DM, nr. Central Sq. T by Blueground",107434423,Blueground,,The Port,42.36376,-71.1003,Entire home/apt,151,32,0,,,29,364
+43507072,Master bedroom in Lux 3BR between MIT and Harvard,21631889,Ling Yi,,The Port,42.36877,-71.09853,Private room,112,60,0,,,16,139
+43540382,"MIT, Harvard. Cherry Room, Private Bathroom",190111214,Zamira,,Cambridgeport,42.36124,-71.10587,Private room,71,2,0,,,7,252
+43542233,MIT Harvard. Nice Room Full Private Bath 2nd Fl,190111214,Zamira,,Cambridgeport,42.35919,-71.10595,Private room,71,32,0,,,7,298
+43546186,"MIT, Harvard. Cozy Large Bedroom Semiprivate bthr",190111214,Zamira,,Cambridgeport,42.36063,-71.10608,Private room,71,32,0,,,7,298
+43557078,"MIT, Harvard. Quiet Bedroom Semiprivate Bathroom",190111214,Zamira,,Cambridgeport,42.35898,-71.10602,Private room,50,32,0,,,7,298
+43566154,"MIT, Harvard 3rd Fl. Back Bedroom, Full Priv Bath",190111214,Zamira,,Cambridgeport,42.36092,-71.1078,Private room,72,32,0,,,7,298
+43566913,"MIT, Harvard. Sunny Bedroom, Full Private Bathroom",190111214,Zamira,,Cambridgeport,42.36065,-71.10743,Private room,72,32,0,,,7,298
+43567939,"MIT, Harvard. Top 2-room studio",190111214,Zamira,,Cambridgeport,42.36052,-71.10615,Private room,93,32,0,,,7,298
+43641424,Live + Work + Stay + Easy | Studio in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,119,92,0,,,19,360
+43641435,Live + Work + Stay + Easy | 2BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,218,92,0,,,19,360
+43655400,"Renovated, Clean Private Room for Female Guests",137754684,Mikah,,Mid-Cambridge,42.3717,-71.10726,Private room,65,1,6,2020-10-20,2.77,1,359
+43688049,BR in residential area close to MIT and Harvard,1252575,Cage,,Riverside,42.36774,-71.11248,Private room,40,91,0,,,1,113
+43704373,"MIT, Harvard. East Bedroom, Semiprivate Bathroom",347407976,Alexander,,Cambridgeport,42.36074,-71.10775,Private room,46,28,0,,,15,299
+43711601,"MIT, Harvard 1st Fl. Back Bedroom,  Private Bath",347407976,Alexander,,Cambridgeport,42.36036,-71.10582,Private room,56,28,0,,,15,330
+43723071,MIT Harvard Large Chocolate Room Semiprivate bthr,347407976,Alexander,,Cambridgeport,42.36034,-71.10749,Private room,48,28,2,2020-08-08,0.68,15,299
+43736675,"MIT, Harvard. Quiet bedroom, semiprivate bathroom",347407976,Alexander,,Cambridgeport,42.36114,-71.10742,Private room,49,28,1,2020-10-03,1,15,147
+43738940,"MIT, Harvard. Nice Room, Full Private Bath, 2nd Fl",347407976,Alexander,,Cambridgeport,42.35905,-71.10781,Private room,69,28,0,,,15,208
+43739916,"MIT, Harvard 3rd Fl. Back Bedroom, Full Priv Bath",347407976,Alexander,,Cambridgeport,42.359,-71.10556,Private room,72,28,0,,,15,311
+43747945,"MIT, Harvard. Sunny Bedroom, Full Private Bathroom",347407976,Alexander,,Cambridgeport,42.35981,-71.10583,Private room,68,28,0,,,15,345
+43748426,"MIT, Harvard Cozy Large Bedroom Semiprivate bthr",347407976,Alexander,,Cambridgeport,42.36103,-71.10721,Private room,58,28,1,2020-08-29,0.51,15,298
+43748655,"MIT, Harvard. Top 2-room studio",347407976,Alexander,,Cambridgeport,42.35951,-71.10761,Entire home/apt,79,28,0,,,15,333
+43749528,"MIT Harvard Cherry Studio, Private Bath 2nd Floor",347407976,Alexander,,Cambridgeport,42.36031,-71.1061,Private room,72,28,0,,,15,252
+43750288,"Harvard MIT 1st Floor Room, Private Basement Bath",347407976,Alexander,,Riverside,42.36397,-71.11354,Private room,53,28,2,2020-08-27,0.63,15,298
+43750993,"Harvard, MIT,BU-Flower Room Semiprivate Bath",347407976,Alexander,,Riverside,42.3638,-71.11347,Private room,46,28,0,,,15,147
+43773648,"Harvard, MIT, BU-Small studio",347407976,Alexander,,Riverside,42.36376,-71.11139,Private room,66,28,0,,,15,172
+43777157,Harvard MIT BU -Private Entrance Semiprivate bath,347407976,Alexander,,Riverside,42.36569,-71.11165,Private room,56,28,1,2020-09-02,0.55,15,55
+43971202,Decent 1bedroom close to Central square,24061028,Mannie,,Wellington-Harrington,42.37214,-71.09788,Private room,61,2,0,,,4,72
+44032605,Cozy2bedroom in Central square area of Cambridge,24061028,Mannie,,The Port,42.37112,-71.0989,Entire home/apt,115,2,3,2020-10-06,2.05,4,68
+44061307,(SUM1)- Clean & Comfortable First Floor Apt!,175856705,Boston,,Wellington-Harrington,42.37764,-71.09808,Entire home/apt,149,2,5,2020-10-11,2.21,1,109
+44110709,3 Bed 2 Bath Tourist House near Kendall Square,43450256,Steve,,East Cambridge,42.37053,-71.07707,Entire home/apt,500,1,0,,,17,77
+44155656,Harvard & Central Square and Near Charles River,3011415,Stanley And Sue,,Riverside,42.36758,-71.11096,Entire home/apt,295,91,0,,,1,187
+44277437,"Harvard, MIT, BU - 3rd floor One-bedroom Apartment",347407976,Alexander,,Riverside,42.36556,-71.11179,Entire home/apt,98,28,0,,,15,298
+44298962,Harvard / MIT / Block away to Charles River,21647935,Ivan  / Sue,,Riverside,42.36525,-71.11422,Entire home/apt,350,91,0,,,3,365
+44299616,"Near Harvard, MIT & Charles River",21647935,Ivan  / Sue,,Riverside,42.36486,-71.11422,Entire home/apt,275,91,0,,,3,180
+44319631,Private room in Huron Village - front of house,4642626,Amy,,West Cambridge,42.38252,-71.13742,Private room,50,1,0,,,5,146
+44321809,3BR Top-Floor Private Apt. Walk to Harvard Sq.,17028791,M,,West Cambridge,42.38324,-71.13692,Entire home/apt,141,91,0,,,5,144
+44340842,Venn | Harvard Square | Stylish Studio,277913848,Venn,,Mid-Cambridge,42.37783,-71.10676,Entire home/apt,134,4,0,,,3,264
+44378435,4 Bed 2 Bath w/ Free Parking Near MIT/Kendall Sq,43450256,Steve,,East Cambridge,42.36854,-71.07906,Entire home/apt,275,20,0,,,17,221
+44465410,3 Bed 2 Bath w/ Free Parking Near MIT & Kendall Sq,43450256,Steve,,East Cambridge,42.36987,-71.08521,Entire home/apt,250,21,0,,,17,77
+44540503,"(SUM3) 3 Bedroom Apt, Open Back Yard, Washer/dryer",351555234,Airbnb,,Wellington-Harrington,42.37651,-71.09709,Entire home/apt,206,2,4,2020-10-11,2.14,1,0
+44556494,"4BR/2BA | $5,950 per/month | All Utilities Included | Walk to Davis Square",25654103,Tom,,North Cambridge,42.40204,-71.12887,Entire home/apt,198,91,0,,,2,299
+44643181,Newly Renovated Private Bedroom A in Harvard,33989517,Kevin,,Mid-Cambridge,42.37499,-71.11259,Private room,78,1,0,,,3,364
+44711906,Private 2BR & Yoga Room in North Cambridge,405341,Bryan & Marisa,,North Cambridge,42.39216,-71.12557,Entire home/apt,171,2,2,2020-10-19,2,1,340
+44746390,Live + Work + Stay + Easy | Studio in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,127,92,0,,,19,360
+44810870,Newly Renovated Private Bedroom B in Harvard,33989517,Kevin,,Mid-Cambridge,42.37447,-71.11175,Private room,65,1,1,2020-08-28,0.50,3,364
+44952411,2B AMAZING FLAT PRICE DROPPED FOR MONTHLY STAYS,81038,Louisa,,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,110,1,0,,,9,176
+45034782,3B *REDUCED*! HARVARD MIT LOCATION! SPOTLESS 1+BR,81038,Louisa,,Mid-Cambridge,42.3677,-71.10584,Entire home/apt,122,1,0,,,9,345
+45068097,Charming Davis Sq 1-Br Monthly Rental,13613498,Greg,,North Cambridge,42.39786,-71.12414,Entire home/apt,110,28,0,,,1,64
+45085165,Venn | Harvard Square | Charming Room,277913848,Venn,,Mid-Cambridge,42.3779,-71.10507,Private room,82,4,0,,,3,266
+45092050,Master bedroom near Harvard Yard,88355738,Yan,,Mid-Cambridge,42.37136,-71.11177,Private room,57,91,0,,,1,98
+45095072,Venn | Harvard Square | Spacious Room,277913848,Venn,,Mid-Cambridge,42.37801,-71.10728,Private room,90,4,0,,,3,360
+45115904,Great College home getaway for your student,1340119,Micah,,Neighborhood Nine,42.37927,-71.12297,Entire home/apt,155,91,0,,,1,364
+45141575,Walk To Harvard,177995326,Isaac,,Strawberry Hill,42.37764,-71.14939,Entire home/apt,86,1,4,2020-10-10,2.73,1,349
+45144603,Private bedroom close to Central Sq & BU,364585835,Heline,,Cambridgeport,42.3589,-71.10625,Private room,54,1,4,2020-10-19,2.07,3,362
+45155956,Live + Work + Stay + Easy | Studio in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,119,92,0,,,19,360
+45155965,Live + Work + Stay + Easy | 2BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,208,92,0,,,19,360
+45155969,Live + Work + Stay + Easy | 1BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,141,92,0,,,19,360
+45155970,Live + Work + Stay + Easy | Studio in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,121,92,0,,,19,360
+45155971,Live + Work + Stay + Easy | 1BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,132,92,0,,,19,360
+45164940,Penthouse Condo with Roof Deck,44939469,Jennifer,,Cambridgeport,42.35793,-71.1126,Private room,65,14,0,,,3,37
+45180836,Private bedroom close to MIT & BU,364585835,Heline,,Cambridgeport,42.3574,-71.10498,Private room,58,1,4,2020-09-29,2.14,3,352
+45180951,Private bedroom close to MIT & Central Sq,364585835,Heline,,Cambridgeport,42.36123,-71.10841,Private room,53,1,7,2020-10-22,3.75,3,360
+45207270,(E) Private Room+ Bath Near Downtown/Harvard/MIT,42070843,Rachel,,Mid-Cambridge,42.37093,-71.11218,Private room,119,91,0,,,3,24
+45223284,Live + Work + Stay + Easy | 2BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,203,92,0,,,19,360
+45225613,Sunny Historic Home By Harvard Square With W/D!,23983523,Aaron,,Mid-Cambridge,42.37017,-71.10249,Entire home/apt,95,2,1,2020-10-01,1,6,135
+45234240,Kendall Square's only LUXURY BOUTIQUE HOTEL,365311308,Kendall Hotel,,Area 2/MIT,42.36184,-71.08812,Private room,198,1,2,2020-10-11,2,1,328
+45252247,(D) Private Room+ Bath Near Downtown/Harvard/MIT,42070843,Rachel,,Mid-Cambridge,42.37126,-71.1116,Private room,119,1,0,,,3,116
+45283112,(B) Private Room Near Downtown/Harvard/MIT,42070843,Rachel,,Mid-Cambridge,42.37046,-71.11223,Private room,82,1,1,2020-09-20,0.81,3,24
+45313542,Newly Renovated Private Bedroom C in Harvard,33989517,Kevin,,Mid-Cambridge,42.3742,-71.11197,Private room,78,1,2,2020-10-04,2,3,340
+45440210,Spacious Furnished 2BR in East Cambridge (MGH/MIT),9324473,El,,East Cambridge,42.37221,-71.0866,Entire home/apt,141,7,0,,,2,113
+45469062,Live + Work + Stay + Easy | Studio in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,113,92,0,,,19,334
+45470588,*Spacious  bedroom harvard/ central/ MIT/HKS/HLS*,367261296,Keith,,Riverside,42.36981,-71.11408,Private room,70,1,0,,,2,67
+45472459,Spacious & sunny in a top floor home by Harvard Sq,23983523,Aaron,,Mid-Cambridge,42.37093,-71.10193,Private room,60,2,0,,,6,148
+45518727,Apartment with Sunshine close to MIT/Kendall Sq,88868429,Huaweilang,,Wellington-Harrington,42.37077,-71.09101,Entire home/apt,100,14,0,,,1,244
+45547209,Live + Work + Stay + Easy | Studio in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,128,92,0,,,19,326
+45562619,Live + Work + Stay + Easy | 1BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,156,92,0,,,19,360
+45609348,Penthouse Condo with RoofDeck,44939469,Jennifer,,Cambridgeport,42.35772,-71.11184,Private room,55,60,0,,,3,91
+45609891,Spacious apartment only minutes to Harvard Square,34301226,Lisa,,Mid-Cambridge,42.37196,-71.10918,Entire home/apt,105,3,0,,,1,31
+45674158,Adorable 2br 2ba steps from MGH & Boston Downtown,102875095,Alex,,East Cambridge,42.36753,-71.06636,Entire home/apt,485,1,1,2020-10-12,1,1,90
+45736876,Sunny 4BR/2BA | Harvard University | Furnished,25654103,Tom,,Mid-Cambridge,42.37647,-71.10357,Entire home/apt,175,91,0,,,2,298
+45738943,1 bedroom with closet in a quiet apartment,369560040,Gregg,,North Cambridge,42.39026,-71.12424,Private room,56,1,0,,,3,178
+45738974,1 master bedroom in an aprt freshly painted .,369560040,Gregg,,North Cambridge,42.39136,-71.12683,Private room,84,1,0,,,3,365
+45749812,"Cambridge Home, minutes away from MIT, Kendall",94398426,Farooq,,The Port,42.36379,-71.10075,Entire home/apt,140,1,0,,,2,84
+45753775,Room in Kendall,94398426,Farooq,,Cambridgeport,42.36347,-71.1012,Private room,68,1,0,,,2,90
+45757332,Best Rooftop Views of Boston from your Dream Loft,66337497,Mia,,Wellington-Harrington,42.37476,-71.08738,Entire home/apt,220,30,0,,,1,190
+45762635,Live + Work + Stay + Easy | 1BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,140,92,0,,,19,360
+45765398,"Spacious apt, 1400 sq ft - 2BR/1BA in Inman Square",1662428,Dhruva,,Wellington-Harrington,42.37206,-71.09281,Entire home/apt,85,5,0,,,1,338
+45771642,Live + Work + Stay + Easy | 1BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,150,92,0,,,19,310
+45797106,Sunny and spacious apartment MIT/Inman/Kendall,17542976,Matt,,Wellington-Harrington,42.37041,-71.09654,Entire home/apt,82,100,0,,,1,365
+45811354,*Cosy bedroom at Harvard / MIT/ Central Sq*,367261296,Keith,,Riverside,42.36925,-71.11309,Private room,72,1,0,,,2,36
+45842603,Live + Work + Stay + Easy | 2BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,166,92,0,,,19,320
+45878339,Spacious East Cambridge Apartment with Yard - #1,9324473,El,,East Cambridge,42.37039,-71.08649,Entire home/apt,113,10,0,,,2,28
+45878386,Live + Work + Stay + Easy | 1BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,141,92,0,,,19,294
+45892257,Quiet Harvard room in historic Cambridge,35726217,Julia,,West Cambridge,42.37958,-71.12836,Private room,50,1,0,,,1,171
+45928246,"Large room,  convenient to subway",369560040,Gregg,,North Cambridge,42.39074,-71.12693,Private room,70,1,0,,,3,365
+45941885,Live + Work + Stay + Easy | 1BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,138,92,0,,,19,360
+45982848,Brand New 1 BR | Full Kitchen | Pool | Gym | MA,9419684,Churchill,,Cambridgeport,42.3575,-71.10584,Entire home/apt,200,21,0,,,16,365
+45984939,Spacious 2BR | Full Kitchen | Pool | Kitchen | Gym,9419684,Churchill,,Cambridgeport,42.35767,-71.10664,Entire home/apt,250,21,0,,,16,365
+45985790,Stylish 3BR | Full Kitchen | Pool | Laundry | Gym,9419684,Churchill,,Cambridgeport,42.35767,-71.10606,Entire home/apt,300,21,0,,,16,365
+46005560,Live + Work + Stay + Easy | 2BR in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,173,92,0,,,19,296
+46007527,Fully Furnished 1BR | Gym | Waterfront | Boston,30283594,Global Luxury Suites,,Cambridgeport,42.35619,-71.10546,Entire home/apt,170,28,0,,,15,365
+46007606,Modern 2BR Apt | Full Kitchen | Gym | Waterfront,30283594,Global Luxury Suites,,Cambridgeport,42.35544,-71.10673,Entire home/apt,290,28,0,,,15,365
+46020748,Spacious & Luxury 3BR Apt | Gym | Near Downtown,30283594,Global Luxury Suites,,Cambridgeport,42.35745,-71.10663,Entire home/apt,400,28,0,,,15,365
+46025200,Live + Work + Stay + Easy | Studio in Cambridge,359229620,Kia,,East Cambridge,42.37218,-71.07838,Entire home/apt,116,92,0,,,19,293

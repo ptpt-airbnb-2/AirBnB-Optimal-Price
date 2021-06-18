@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: canada/bc/vancouver/2020-05-11/visualisations/listings.csv</li>
+<li>RequestId: JHY0S4ABTSM7GM7Y</li>
+<li>HostId: GMApeF3K9b/2KjZ415aVDVLlCZe6y7+1jhlGMjcMDOuUwv3z3cJ2oSD7Z1gvs67fMRZ/KMFMU2w=</li>
+</ul>
+<hr/>
+</body>
+</html>

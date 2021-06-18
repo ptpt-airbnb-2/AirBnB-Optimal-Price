@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: united-kingdom/england/london/2020-05-10/visualisations/listings.csv</li>
+<li>RequestId: K8ZVB81Y9RWF1BWK</li>
+<li>HostId: miYfcCw3mo6Iz5FVUvVeqMQ2LGjWuHFoev0FG1idB7+9wRyv8as2lg4nuvrwuEQMvK3x7Xd4Jp0=</li>
+</ul>
+<hr/>
+</body>
+</html>

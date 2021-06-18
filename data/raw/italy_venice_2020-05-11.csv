@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: italy/veneto/venice/2020-05-11/visualisations/listings.csv</li>
+<li>RequestId: E3P8A6M6D9Q72JD8</li>
+<li>HostId: Mcbdc6KvSphf/Uho1TnBJKvnK6YxwspZp6O/0V1mp5MNS1aThHP9a2XsMOnXOH1FZ6H+FUA6Sb4=</li>
+</ul>
+<hr/>
+</body>
+</html>

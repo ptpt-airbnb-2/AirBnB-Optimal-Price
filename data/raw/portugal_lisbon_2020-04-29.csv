@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: portugal/lisbon/lisbon/2020-04-29/visualisations/listings.csv</li>
+<li>RequestId: SBN50C310TSHQQEF</li>
+<li>HostId: K9d4GmA0cxiZ+fKCzZI7HmItiHXU1gzkhWEEurRNDVicdBW1pJ/+guumrPBY84RwoyEfiKc0uck=</li>
+</ul>
+<hr/>
+</body>
+</html>

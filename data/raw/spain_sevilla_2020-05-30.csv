@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: spain/andalucía/sevilla/2020-05-30/visualisations/listings.csv</li>
+<li>RequestId: QMDA66WHKASK8V7E</li>
+<li>HostId: 7LI41KHtdhqtE6zBvbr/JYxjXJjKV0EbhXX9yBE4edmqTgwnzFe4DqoeDDdXh32BzpzjUzZ77MU=</li>
+</ul>
+<hr/>
+</body>
+</html>

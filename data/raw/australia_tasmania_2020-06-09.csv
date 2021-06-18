@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: australia/tas/tasmania/2020-06-09/visualisations/listings.csv</li>
+<li>RequestId: S4WAE3TZ9XPVT522</li>
+<li>HostId: sIVk1dpKJS3rOSsqzsAVv7viBN/7WBWIQ/vwLumketthRxG1JBFNXa4TcJv2GBXrGBeNQfCEBjk=</li>
+</ul>
+<hr/>
+</body>
+</html>

@@ -1,0 +1,248 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+1125097,Strathlyn Coach House Barossa,6172214,Heather,,Angaston,-34.49389,139.02942,Entire home/apt,254,2,123,2021-01-15,1.36,3,346
+1133195,Strathlyn Lemon Tree Spa  Barossa,6172214,Heather,,Penrice,-34.49403,139.03202,Entire home/apt,236,2,34,2020-11-14,0.44,3,0
+1133236,Strathlyn Spa Garden Suites Barossa,6172214,Heather,,Penrice,-34.49356,139.03221,Private room,260,1,28,2021-01-09,0.32,3,358
+1710462,Shea-Oak Log Studio Shed,6645956,Kylie And Tom,,Shea-Oak Log,-34.51049,138.81731,Entire home/apt,102,1,432,2021-02-13,4.85,1,340
+1787389,Barossa Valley Apt 1 offers 2 bedrooms 2 bathroom,9380091,Kym,,Tanunda,-34.52835,138.95364,Entire home/apt,350,2,17,2020-12-04,0.27,23,320
+2327616,Gawler River Farm B and B.,6713275,Bill,,Gawler River,-34.60563,138.64823,Entire home/apt,90,1,77,2020-10-25,1.05,1,365
+2567051,The Miners Cottage Barossa Valley,10726293,Rebecca,,Cockatoo Valley,-34.63884,138.84564,Private room,210,2,24,2020-10-16,0.31,1,304
+4551374,Barossa Peppertree Cottage - Stockwell,23597905,Vicki And David,,Stockwell,-34.43521,139.05354,Entire home/apt,180,3,3,2017-04-23,0.04,1,147
+5185834,Trinity Cottage -  amazing vineyard views,9672379,Kim,,Moculta,-34.46878,139.05104,Entire home/apt,275,2,30,2021-02-14,0.42,10,100
+5185982,Lochnagar Barossa - Luxury and Space,9672379,Kim,,Tanunda,-34.51161,138.96547,Entire home/apt,334,2,12,2020-09-20,0.17,10,91
+5289072,Mt McKenzie Raspberry Farm,27321203,Phillip,,Flaxman Valley,-34.56405,139.07988,Entire home/apt,193,2,95,2020-03-15,1.46,1,239
+5319590,Views for miles from your own vineyard cottage,8205400,Christine,,Flaxman Valley,-34.575,139.03577,Entire home/apt,235,2,193,2020-03-20,2.69,1,0
+5426792,"""The Shed""",28149709,Andrew & Belinda,,Nuriootpa,-34.46397,139.00191,Entire home/apt,63,1,114,2021-01-16,1.78,1,277
+5537173,1837 Barossa Luxury  Vineyard Cottage S Australia,28712482,Nelly,,Lyndoch,-34.58347,138.86353,Entire home/apt,409,2,16,2021-01-03,0.54,3,354
+6157653,Barossa Barn Bed & Breakfast,31945359,Julie,,Penrice,-34.4877,139.04407,Entire home/apt,269,2,23,2020-12-30,0.33,1,0
+6170279,Little Para Cottage,32013001,Wendy,,Tanunda,-34.51062,138.97196,Entire home/apt,183,1,139,2020-12-22,1.96,2,295
+6170887,Elderton Wines Guest House,32017867,Elderton,,Nuriootpa,-34.47628,138.99761,Entire home/apt,350,1,25,2021-01-10,0.36,1,313
+6296823,Cosy 2-bedroom Cottage in the heart of the Barossa,32743215,Rolf Binder Accommodation,,Tanunda,-34.50314,138.95909,Entire home/apt,244,2,62,2021-02-10,0.88,2,345
+6886387,The Sculptors Shed,36084981,Alice And Tony,,Angaston,-34.49268,139.01748,Entire home/apt,105,1,315,2020-01-13,4.56,1,114
+7055506,Vineyard Cottage - Under the Vines,10626104,Karen,,Nuriootpa,-34.50166,138.99752,Entire home/apt,240,1,162,2021-02-20,2.39,2,278
+7297171,Pembury Chase Barossa Valley,26147078,Jonathan And Kate,,Angaston,-34.50182,139.0374,Private room,95,1,150,2019-04-28,2.24,6,0
+8053447,Angels Place: Private Suite,42427624,Maryann,,Tanunda,-34.51719,138.96402,Private room,165,1,71,2020-03-01,1.36,1,0
+8153197,Naimanya Cottage Bed & Breakfast,43045297,Christa,,Flaxman Valley,-34.58492,139.02821,Entire home/apt,190,2,67,2021-01-03,1.01,1,331
+8616563,Treasured Memories Cottage offer 3 bedrooms 1 bath,9380091,Kym,,Tanunda,-34.52426,138.95516,Entire home/apt,350,2,20,2021-01-03,0.32,23,341
+9264671,Barossa Idyll Studio -great for romantics,17055114,Tracey,,Tanunda,-34.52799,138.95242,Private room,146,2,26,2021-01-07,0.43,4,273
+9319789,"Barossa Idyll -centre of town, breathtaking views",17055114,Tracey,,Tanunda,-34.52821,138.953,Entire home/apt,757,1,52,2021-01-09,0.88,4,282
+9319994,"Barossa Idyll 3 beds - town centre, amazing views",17055114,Tracey,,Tanunda,-34.52935,138.95426,Entire home/apt,413,1,31,2021-01-22,0.54,4,274
+9453124,"Barossa Idyll 4 beds - town centre, amazing views",17055114,Tracey,,Tanunda,-34.52906,138.95436,Entire home/apt,651,1,15,2020-12-13,0.24,4,284
+9687272,Casa Mia Barossa,50037088,Georgina,,Tanunda,-34.51228,138.93458,Entire home/apt,350,2,55,2020-02-08,0.88,1,115
+9714178,Barossa Bed & Breakfast,50149490,Yvette,,Tanunda,-34.52206,138.96239,Entire home/apt,515,2,28,2021-01-14,0.48,1,0
+9850994,Pembury Homestead - Barossa Valley- 3 bedrooms,26147078,Jonathan And Kate,,Angaston,-34.49908,139.04063,Entire home/apt,120,1,7,2016-01-13,0.11,6,0
+10285222,Barossa Dreams Ruby Suite full kitchen in Tanunda,9380091,Kym,,Tanunda,-34.52708,138.95417,Entire home/apt,220,2,10,2020-03-18,0.16,23,26
+10285450,"Memory Lane 3 bedrooms, 1 bathroom walk to main st",9380091,Kym,,Tanunda,-34.52474,138.95516,Entire home/apt,350,2,31,2021-01-10,0.51,23,342
+10286738,A Secret Treasure 4 bedroom 2 bathrooms in Barossa,9380091,Kym,,Tanunda,-34.52376,138.95447,Entire home/apt,500,2,36,2021-01-01,0.59,23,299
+10287444,Barossa Dreams - Diamond Suite perfect location,9380091,Kym,,Tanunda,-34.52686,138.95383,Entire home/apt,350,2,15,2020-10-02,0.25,23,26
+10298152,Barossa Best great location walk to cafe FREE WIFI,9380091,Kym,,Tanunda,-34.52603,138.95667,Entire home/apt,296,1,27,2021-01-25,0.43,23,0
+10348508,A Secret Garden great location Tanunda Free WIFI,9380091,Kym,,Tanunda,-34.52729,138.95667,Entire home/apt,300,2,9,2017-08-28,0.16,23,333
+10411844,Shalamar at Tanunda - Barossa Getaway,53617442,Linda,,Tanunda,-34.51498,138.97703,Entire home/apt,135,1,143,2019-10-20,2.36,1,55
+10619599,Barossa Dreams - Sapphire Suite,9380091,Kym,,Tanunda,-34.5274,138.9535,Entire home/apt,275,2,2,2020-11-14,0.06,23,23
+10634089,Barossa Dreams - Emerald Suite,9380091,Kym,,Tanunda,-34.52886,138.95293,Private room,275,2,6,2017-10-30,0.10,23,24
+10947532,The Stables,54950628,Kay,,Tanunda,-34.57022,138.92651,Entire home/apt,180,2,250,2021-02-23,4.08,1,291
+10971607,The Lodge Angaston,48092850,Robyn,,Angaston,-34.5019,139.04648,Entire home/apt,600,1,7,2018-04-01,0.12,3,358
+11380095,Little House in the Barossa,59672772,John And Bianca,,Nuriootpa,-34.46257,139.00982,Entire home/apt,150,3,41,2020-12-31,0.68,1,320
+11428035,Tin House in Tanunda offers 3 bedrooms 2 bathrooms,9380091,Kym,,Tanunda,-34.52386,138.95783,Entire home/apt,500,2,36,2020-11-27,0.60,23,321
+11857399,Historic Angaston Masonic Lodge,48092850,Robyn,,Angaston,-34.50184,139.04554,Entire home/apt,250,1,72,2021-01-04,1.31,3,359
+11915715,The Cottage at Riverside Farm,308444810,Louise,,Lyndoch,-34.57135,138.89655,Entire home/apt,249,2,29,2020-11-04,0.50,2,339
+12191413,Barossa Millhouse,65531648,Jacqueline,,Kapunda,-34.33806,138.91284,Entire home/apt,239,2,1,2016-10-29,0.02,2,362
+12192423,A Barn in the Barossa,65531648,Jacqueline,,Kapunda,-34.34313,138.92219,Entire home/apt,250,2,53,2021-01-08,0.90,2,359
+12856765,Angaston by the Winter Creek,48092850,Robyn,,Angaston,-34.50152,139.04956,Entire home/apt,310,2,128,2021-02-07,2.22,3,347
+12906285,Retro Barossa Style,22786354,Rebekah,,Angaston,-34.50898,139.04504,Entire home/apt,140,2,111,2021-02-22,2.30,1,278
+13480951,"Barossa Vista, your home away from home",77192614,Nardia,,Tanunda,-34.52945,138.95324,Entire home/apt,300,2,19,2020-11-09,0.34,1,348
+13865821,Bluebird Cottage is a relaxing 100year old cottage,81969986,Jim,,Angaston,-34.49966,139.04964,Entire home/apt,235,2,11,2020-06-14,0.21,1,84
+14031240,Barossa Vineyard Cottages,2425103,Sandra,,Bethany,-34.53891,138.97053,Hotel room,270,2,10,2021-01-07,0.19,2,97
+14080027,Barossa Glen - Henri's Cottage - Bed and Breakfast,84633251,Henri,,Sandy Creek,-34.5818,138.83223,Entire home/apt,240,2,67,2021-02-01,1.43,1,339
+14129531,Halletts Valley Hideaway,85236547,Jenny,,Tanunda,-34.5382,138.93733,Entire home/apt,240,2,145,2020-12-12,2.95,1,287
+14269050,Wroxton Grange,85980085,Jo & Ian,,Angaston,-34.54959,139.05358,Entire home/apt,181,1,37,2021-01-23,0.68,1,355
+14377105,Lambert Estate Retreat,88244555,Daniel,,Angaston,-34.50782,139.03909,Entire home/apt,250,1,20,2021-02-07,0.36,1,325
+14697430,"Lemke Cottage,Moculta, Barossa Valley",34978411,John,,Moculta,-34.46621,139.1186,Entire home/apt,195,2,39,2020-11-06,1.33,1,165
+14827811,Barossa Valley Apt 4 offers 2 bedrooms 2 bathroom,9380091,Kym,,Tanunda,-34.52814,138.95356,Entire home/apt,350,2,2,2020-12-06,0.08,23,321
+14828790,Luxury Affordable Barossa. West Wing 1 Bedroom.,6402384,Alicia,,Angaston,-34.50053,139.04458,Entire home/apt,211,2,20,2020-01-18,0.37,2,153
+14842846,Barossa Valley Apt 3 offers 2 bedrooms 2 bathroom,9380091,Kym,,Tanunda,-34.52702,138.95253,Entire home/apt,350,1,0,,,23,321
+14843749,Barossa Valley Apt 2 offers 2 bedrooms 2 bathroom,9380091,Kym,,Tanunda,-34.52836,138.95221,Entire home/apt,350,2,9,2020-09-27,0.17,23,316
+14844379,Luxury Affordable Barossa. West Wing 2 Bedrooms.,6402384,Alicia,,Angaston,-34.49891,139.04441,Entire home/apt,324,2,4,2017-02-23,0.08,2,153
+14969874,Barossa Valley Dreams Home for up to 17 people,9380091,Kym,,Tanunda,-34.52914,138.9519,Entire home/apt,1200,2,15,2021-01-07,0.31,23,0
+15132613,"Bridget's House - Style, Soul, Central Barossa",12040862,Bridget,,Tanunda,-34.52503,138.95653,Entire home/apt,220,2,243,2021-02-20,4.61,1,85
+15485550,Retro Barossa,99431090,Melanie,,Tanunda,-34.52752,138.97211,Private room,160,2,14,2020-10-18,0.31,1,88
+15579249,Casa Rossa - modern Barossa home with vineyard,14870315,Maria,,Lyndoch,-34.59863,138.87511,Entire home/apt,243,2,48,2021-01-29,0.99,1,231
+15670050,Bilyara House - in the heart of Tanunda,1780704,Andy,,Tanunda,-34.52282,138.96057,Entire home/apt,281,2,42,2021-01-16,0.88,1,301
+15811271,The Art Box home gallery stay,102130451,Anthea,,Angaston,-34.49457,139.05402,Private room,80,1,45,2021-02-22,1.31,1,21
+16055904,Hoffmann's Hill,102806319,Matilda,,Tanunda,-34.51646,138.94925,Entire home/apt,350,2,50,2021-01-23,1.02,1,9
+16147052,Elsies Cottage,104989365,Amanda,,Tanunda,-34.52517,138.95926,Entire home/apt,154,2,77,2021-01-27,1.55,1,333
+16595832,Barossa Family Holiday Home BONUS wine & Breakfast,32118745,Annelise,,Bethany,-34.55946,138.94444,Entire home/apt,239,1,108,2021-01-14,2.28,1,259
+16693931,"Go Go's, Eden Valley the Garden of Grapes and Gums",20429065,Karine,,Eden Valley,-34.64114,139.09734,Entire home/apt,170,2,31,2021-01-07,0.62,1,201
+16795559,Barossa Valley Farm Cottage - Buckbury End Farm,111640794,John & Jess,,Sandy Creek,-34.5685,138.83272,Entire home/apt,136,2,218,2021-02-20,4.49,1,316
+17123473,Mount Pleasant - Namgarina Vineyard,115071155,Julianne,,Mount Pleasant,-34.7579,139.07692,Private room,54,2,111,2021-01-30,2.29,1,88
+17287788,"The Old Manse Shed, Barossa Valley",76253619,Tracy,,Light Pass,-34.46935,139.02272,Entire home/apt,155,2,58,2020-02-15,1.20,1,0
+17558728,Seppeltsfield Vineyard Cottage. Luxury & Privacy.,77871395,Jodie,,Marananga,-34.49022,138.91001,Entire home/apt,863,2,0,,,2,362
+17720616,Indulge and Relax Tanunda,23229905,Cathy,,Tanunda,-34.5199,138.96494,Entire home/apt,220,1,110,2021-02-13,2.50,1,346
+17721773,Somerton House,120950528,Virginia,,Angaston,-34.5052,139.04636,Entire home/apt,210,2,52,2020-10-11,1.09,2,0
+17737018,The Stables at 1860 Wine Country Cottages,97913320,Renate,,Springton,-34.72248,139.06794,Entire home/apt,195,3,0,,,1,0
+17862552,"""LiebenGott"" - Luxury 4 bedroom, central location",10112369,Jason,,Tanunda,-34.51015,138.97783,Entire home/apt,208,1,71,2021-01-26,1.57,1,322
+17963507,"The Writer's Studio, Barossa",12063415,Lesley Ann,,Tanunda,-34.52511,138.96518,Entire home/apt,120,2,231,2021-02-19,4.88,1,122
+17980547,Martinsell Cottage,123514866,Peter And Marijan,,Mount Crawford,-34.68232,138.97028,Entire home/apt,105,2,111,2021-02-07,2.37,2,244
+18276899,Historic home on 65 acres in top Barossa location,32743215,Rolf Binder Accommodation,,Tanunda,-34.50639,138.96237,Entire home/apt,285,2,18,2021-01-02,0.40,2,330
+18798879,Hill House Angaston,98267463,Mark,,Angaston,-34.50284,139.04411,Private room,150,2,27,2021-01-10,0.62,1,177
+19817750,Country Retreat on the edge of Barossa Valley,139798846,Maureen,,Mount Pleasant,-34.77475,139.04702,Entire home/apt,280,2,59,2020-11-01,1.41,1,121
+19879201,Country Pleasures Bed and Breakfast,86421058,Vicki,,Angaston,-34.49346,139.04636,Entire home/apt,229,2,0,,,1,326
+20002372,"Boongarrie Luxury Tent - privacy, luxury, nature",15326510,Kate,,Flaxman Valley,-34.61,139.06722,Entire home/apt,228,2,88,2021-02-15,2.22,1,331
+20057093,Miriam's Cottage self contained Bed and Breakfast,142521667,Alicia,,Tanunda,-34.51922,138.96131,Entire home/apt,257,2,73,2021-02-21,1.87,1,289
+20079805,Azalea Cedar-Rose Barossa Vineyard Views Villa,11110185,Suzie,,Lyndoch,-34.60384,138.89156,Entire home/apt,372,2,36,2021-01-08,0.85,2,282
+20144446,Jasmine's Cottage Barossa Valley Vineyard Views,11110185,Suzie,,Lyndoch,-34.60458,138.89126,Entire home/apt,284,2,31,2021-02-01,0.75,2,303
+20175507,Your complete Barossa experience for up to 16,9380091,Kym,,Tanunda,-34.52852,138.95372,Entire home/apt,1920,1,3,2020-06-28,0.10,23,330
+20176443,Barossa Dreams and Apartments perfect for groups,9380091,Kym,,Tanunda,-34.52656,138.95249,Entire home/apt,2500,1,0,,,23,303
+20524750,The Reserve Barossa Valley,146536624,Simone,,Nuriootpa,-34.4909,138.96345,Entire home/apt,1450,2,11,2020-11-01,0.34,1,286
+21481807,"Pinecone Ridge, Barossa - enjoy your own acreage",156029245,Anne,,Angaston,-34.51496,139.04008,Entire home/apt,264,2,41,2021-01-18,1.94,1,114
+21636564,"Pembury Cottage ~ Angaston,  Barossa, Pet freindly",26147078,Jonathan And Kate,,Angaston,-34.50094,139.05146,Entire home/apt,309,2,93,2021-02-07,2.34,6,0
+21672065,Sanctuary in the Valley 3 bedrooms 2 bathrooms,9380091,Kym,,Nuriootpa,-34.46729,138.98205,Entire home/apt,500,2,8,2019-07-09,0.21,23,342
+21739259,Beauchamp House B&B,158336547,Laura,,Mount Pleasant,-34.76208,139.00257,Entire home/apt,300,2,10,2021-01-02,0.38,1,326
+21884875,Luxury In Langmeil Estate,159654113,Pauline,,Tanunda,-34.51356,138.96883,Entire home/apt,280,2,110,2021-01-25,2.82,1,324
+21949438,Goat Square Cottages - Flaxman Cottage,9672379,Kim,,Tanunda,-34.52352,138.95473,Entire home/apt,269,2,15,2020-12-30,0.39,10,84
+22294732,Hutton Vale Farm - Hutch Hilton,106868811,Jan,,Angaston,-34.52053,139.10934,Entire home/apt,490,1,38,2021-01-10,1.04,2,329
+22309764,Discovery Parks - Barossa 3 Bedroom House,163098800,Barossa,,Tanunda,-34.53202,138.95014,Entire home/apt,367,2,9,2020-07-13,0.23,1,0
+22413065,Fernweh Guesthouse Bethany Room w/buffet breakfast,164087050,Greg,,Tanunda,-34.5234,138.95676,Private room,247,1,8,2018-12-31,0.21,4,4
+22602973,Jesmond Dene - Barossa,121293939,Richard,,Angaston,-34.50589,139.04655,Entire home/apt,189,2,3,2020-10-05,0.14,1,331
+22604785,Old Barossa Valley Inn & Bakery House..Get it all!,92198370,Heather,,Lyndoch,-34.60358,138.88701,Entire home/apt,187,1,60,2021-02-13,1.63,2,158
+22622694,Fernweh Guesthouse Langmeil Room w/ buffet b'fast,164087050,Greg,,Tanunda,-34.52286,138.95721,Private room,286,1,14,2019-08-22,0.38,4,6
+22636387,Martinsell Manor  Barossa Valley South Australia,123514866,Peter And Marijan,,Mount Crawford,-34.68339,138.97258,Entire home/apt,380,2,10,2021-01-05,0.38,2,248
+22642240,Fernweh Guesthouse Tanunda Room w/ buffet b'fast,164087050,Greg,,Tanunda,-34.52313,138.95812,Private room,241,1,4,2021-01-08,0.11,4,4
+22794701,Linfield Cottage,68592337,Deb,,Williamstown,-34.68024,138.88156,Entire home/apt,290,2,4,2021-01-09,0.12,1,258
+22855141,WHISTLER VINEYARD RETREAT,111063419,Sally,,Tanunda,-34.49014,138.95693,Entire home/apt,290,2,40,2020-11-07,1.12,1,63
+22869313,"Queens Cottage (breakfast, wine, cheese + extras)",169205120,Mel,,Williamstown,-34.66986,138.89063,Entire home/apt,300,2,23,2021-01-06,0.65,1,271
+24173232,The Entertainer in the hub of Barossa!,142166512,Monica,,Tanunda,-34.51149,138.97461,Entire home/apt,1057,1,30,2020-03-23,1.13,1,362
+24314297,Archery Road Estate - surrounded by vineyards,9672379,Kim,,Tanunda,-34.54014,138.94338,Entire home/apt,301,2,31,2020-12-30,0.90,10,89
+24813904,Ambrosia Holiday Home 5 bedrooms 2 1/2 bathrooms,9380091,Kym,,Tanunda,-34.52454,138.95933,Entire home/apt,650,2,25,2020-12-23,0.77,23,286
+25086405,Villa Maria Barossa Luxury Guesthouse,189642977,Tuoi,,Tanunda,-34.52569,138.95538,Entire home/apt,500,2,7,2021-01-09,0.22,1,303
+25893345,Barossa Dreams great location for up to 15,9380091,Kym,,Tanunda,-34.52685,138.95211,Entire home/apt,1050,1,2,2021-01-10,0.14,23,300
+25915403,"Barossa Valley Rest, Restore and Explore",181411319,Crystal,,Lyndoch,-34.60286,138.87898,Entire home/apt,201,2,113,2021-02-21,5.72,1,310
+25916821,Barossa Valley’s Captain Rodda’s Cottage,129160994,Christina,,Angaston,-34.49131,139.04817,Entire home/apt,260,2,4,2020-12-29,0.14,1,350
+25928338,Sharay’s Barossa Sanctuary,40008394,Sarah,,Tanunda,-34.52209,138.96149,Entire home/apt,346,2,73,2020-12-31,2.27,1,308
+26009146,"The Barn - a little bit rustic, a little bit luxe",22589842,Carolyn,,Moculta,-34.4748,139.05951,Entire home/apt,141,2,108,2021-02-04,3.39,1,226
+26403678,29 Jane,198551256,Tuoi,,Tanunda,-34.52608,138.95368,Entire home/apt,300,1,72,2021-01-31,2.24,1,296
+26498571,Goat Square Cottages - historic Menge Cottage,9672379,Kim,,Tanunda,-34.52313,138.95521,Entire home/apt,258,2,14,2021-01-25,0.44,10,81
+26499552,Goat Square Cottages - Kavel Cottage - King Bed,9672379,Kim,,Tanunda,-34.52372,138.95488,Entire home/apt,242,2,6,2020-08-16,0.20,10,83
+27065195,Woodland Cottage,203661825,Francis,,Mount Crawford,-34.75231,138.99368,Entire home/apt,100,1,108,2021-02-15,3.44,1,356
+27271141,Red Gum Retreat  with wood fire & free wifi,205436375,Erika,,Williamstown,-34.66435,138.88963,Entire home/apt,91,2,43,2020-12-29,1.42,1,91
+27409406,The Dairyman Barossa .. The Chaff House,206287989,Michael,,Williamstown,-34.62504,138.92017,Entire home/apt,285,2,6,2021-01-09,0.43,2,345
+27409837,The Dairyman Barossa ....Dairyman's Cottage,206287989,Michael,,Williamstown,-34.62274,138.92182,Entire home/apt,315,2,7,2021-01-10,0.41,2,342
+27814606,1837 Barossa Luxury Vineyard Cottage. S Australia,28712482,Nelly,,Lyndoch,-34.58534,138.86528,Entire home/apt,391,2,12,2020-10-10,0.41,3,355
+27819034,Barossa  Farm Experience,92195632,Steve,,Bethany,-34.53131,138.98179,Entire home/apt,99,1,45,2019-10-22,1.49,1,24
+28843427,Fechner Place★Barossa Studio★ 1 Bed★Breakfast★Wine,103407726,Karina,,Tanunda,-34.51408,138.95995,Entire home/apt,222,2,39,2021-02-14,2.30,1,155
+29170994,Barossa Valley Studio,64599221,Darren,,Angaston,-34.50638,139.05093,Entire home/apt,89,1,143,2021-02-05,5.38,1,91
+29192273,SPECIAL OFFER: Make it a long weekend,69307468,Cory,,Tanunda,-34.53171,138.95427,Entire home/apt,206,2,70,2021-02-02,3.12,1,325
+29250289,"Walnut Cottage, Angaston",86995031,Lydia,,Angaston,-34.50457,139.04457,Entire home/apt,181,1,5,2021-01-04,0.30,2,291
+29323401,1910 Murray,36772813,Leonie,,Tanunda,-34.51949,138.96546,Entire home/apt,367,2,57,2020-11-14,2.08,1,147
+29557043,1837 Barossa Luxury  Vineyard  Cottage  Hideaway,28712482,Nelly,,Lyndoch,-34.58202,138.86204,Entire home/apt,391,2,13,2020-11-07,0.46,3,352
+29665883,10a on Elizabeth,223133750,Jodie,,Tanunda,-34.52246,138.95845,Entire home/apt,206,2,100,2021-02-21,3.55,1,178
+29783445,"Fig Tree Cottage,  * Under new Management * A charming 2 bedroom cottage. Historic 1843 cottage in the heart of Angaston.",26147078,Jonathan And Kate,,Angaston,-34.49908,139.0428,Entire home/apt,216,2,48,2021-02-20,1.78,6,336
+29975093,"Johann’s Cottage ~ Tanunda, Barossa Valley",220350000,Tanya & Mark,,Tanunda,-34.52628,138.95455,Entire home/apt,188,2,27,2021-01-16,1.03,1,353
+30026009,Marananga Cottages - Molly's Courtyard Suite,9672379,Kim,,Marananga,-34.48311,138.93857,Entire home/apt,260,2,3,2021-01-08,0.22,10,93
+30026334,Marananga Cottages - Kate's Garden Suite,9672379,Kim,,Marananga,-34.48442,138.93886,Entire home/apt,230,2,4,2020-09-06,0.15,10,76
+30027825,Marananga Cottages - Oscar's Country Suite,9672379,Kim,,Marananga,-34.48332,138.93834,Entire home/apt,240,2,1,2019-07-08,0.05,10,91
+30094352,"Angastons Rusty Olive, Barossa Valley B&B",225677521,Sue And Mike,,Angaston,-34.50245,139.05257,Entire home/apt,231,2,62,2021-01-07,2.36,1,339
+30724902,Petras House,229977210,Sibylle,,Light Pass,-34.45861,139.02638,Entire home/apt,180,1,63,2021-01-17,2.44,1,359
+31177307,Whiterocks Barossa - classic bungalow,9672379,Kim,,Tanunda,-34.52245,138.95922,Entire home/apt,325,2,3,2021-01-03,0.13,10,7
+31336642,Meander Retreat - relax in the country,93219392,Evelyn,,Eden Valley,-34.68704,139.09036,Entire home/apt,160,2,21,2021-01-05,1.31,1,344
+31364857,barossa studio 57 accommodation + wine tours,234888505,Murnane,,Tanunda,-34.5155,138.96574,Entire home/apt,186,2,82,2021-02-20,3.29,2,316
+31544169,barossa stall place 3 bedroom home & wine tours,234888505,Murnane,,Tanunda,-34.51487,138.97105,Entire home/apt,200,2,16,2021-01-02,0.72,2,250
+31598469,The Villas - Barossa. Peace. Beauty. Simplicity.,233968367,Grant And Cathy,,Marananga,-34.48413,138.93598,Entire home/apt,475,2,9,2021-01-18,0.41,1,312
+31625972,Light Pass House BnB - a nostalgic Barossa  home.,237107281,Luke,,Light Pass,-34.46921,139.02352,Entire home/apt,180,2,12,2020-11-06,0.48,1,267
+31720753,Tanunda's Magpie House,32013001,Wendy,,Tanunda,-34.52226,138.96088,Entire home/apt,214,1,24,2021-02-10,1.00,2,173
+31963378,"Strothers Farm House ~ Angaston, Barossa Valley",239660458,Sue,,Moculta,-34.48898,139.05637,Entire home/apt,216,1,24,2020-12-31,0.98,1,0
+32271316,Barossa Glasshouse - A Luxury Boutique Retreat,98591070,Barossa Pavilions & Glasshouse,,Lyndoch,-34.57542,138.87041,Entire home/apt,2000,2,0,,,1,97
+32322240,The Comforter of Hearts - Barossa Valley,94322099,Adam,,Flaxman Valley,-34.64864,139.06594,Private room,60,1,21,2021-01-26,0.93,1,16
+32551818,Barossa Bliss,244624080,Ben,,Nuriootpa,-34.46731,138.98425,Entire home/apt,115,2,50,2021-02-05,2.28,1,138
+32789383,Wings Barossa Bird & Bush Retreat - Barossa Region,246654848,Graeme & Fleur,,Mount Crawford,-34.69142,139.03562,Entire home/apt,260,2,19,2021-01-30,0.96,2,345
+32820248,BV House - Family Guest House.,218176074,Peter And Kathy,,Tanunda,-34.53344,138.95083,Entire home/apt,495,2,30,2021-02-06,1.32,1,333
+32964524,Wings Barossa Bird & Bush Retreat,246654848,Graeme & Fleur,,Mount Crawford,-34.68958,139.03468,Entire home/apt,260,2,1,2020-10-18,0.23,2,346
+33301704,Elizabeth House sleeps up to 8 Guests,202688188,Fiona,,Tanunda,-34.52356,138.95922,Entire home/apt,750,2,19,2021-01-03,0.84,1,82
+33539267,The Chapel,26147078,Jonathan And Kate,,Lyndoch,-34.60192,138.88495,Entire home/apt,274,2,66,2021-02-11,2.93,6,297
+33663235,Lucy's House,253714714,Steve,,Marananga,-34.48627,138.94349,Entire home/apt,245,2,11,2020-12-13,0.65,1,144
+33885699,The Loft,85556067,Tracy,,Tanunda,-34.52836,138.95616,Entire home/apt,250,2,107,2021-02-13,4.81,1,224
+33968239,Wine Tasting By Day-Swim Under The Stars By Night,255507745,Janine And Matt,,Marananga,-34.45982,138.93486,Entire home/apt,509,2,7,2021-02-06,0.49,1,287
+34291502,Happy to live with smile,165470909,Achala,,Gawler River,-34.58796,138.7025,Private room,75,1,2,2019-09-08,0.10,1,87
+34661591,"'In The Vines' Guest Cottage, Barossa Valley SA",261496601,Josie & Andrew,,Light Pass,-34.47415,139.03569,Entire home/apt,209,2,52,2021-01-08,2.43,1,222
+34732524,Ten on French,86995031,Lydia,,Angaston,-34.50478,139.04587,Entire home/apt,169,2,12,2021-01-02,0.57,2,340
+34756758,Mataro Cottage Tanunda - Stunning Accomodation,262121622,Jerry,,Tanunda,-34.52454,138.9534,Entire home/apt,250,2,9,2021-01-07,0.79,5,242
+34783741,Angaston Mews Grenache Apartment - Barossa Valley,262121622,Jerry,,Angaston,-34.499,139.05222,Entire home/apt,209,2,2,2021-01-03,0.17,5,336
+34785651,Angaston Mews Shiraz Apartment - Barossa Valley,262121622,Jerry,,Angaston,-34.50061,139.0506,Entire home/apt,209,2,1,2020-10-19,0.23,5,332
+34787869,Angaston Mews Riesling Apartment - Barossa Valley,262121622,Jerry,,Angaston,-34.49906,139.05118,Entire home/apt,209,2,3,2021-01-06,0.18,5,0
+34788045,Angaston Mews Chardonnay Apartment - Barossa,262121622,Jerry,,Angaston,-34.49949,139.0519,Entire home/apt,220,2,1,2019-05-29,0.05,5,333
+34914043,JHA Stone Cellar,106868811,Jan,,Moculta,-34.50485,139.10282,Entire home/apt,690,1,4,2021-01-18,0.19,2,254
+35021213,Tomfoolery Winemaker's Cottage - Barossa Valley,263832331,Sarah,,Light Pass,-34.47432,139.03661,Entire home/apt,450,2,31,2021-02-15,1.50,1,311
+35356801,Williamstown Bed and Breakfast,265939095,Dianne,,Williamstown,-34.67037,138.89143,Entire home/apt,200,2,7,2021-01-01,0.35,1,0
+35617858,Lindsay House Homestead,257562725,Jasmine,,Angaston,-34.50249,139.04108,Entire home/apt,950,2,9,2021-02-06,0.52,4,309
+35660705,Barossa Valley Gundaroo - we offer 1 night stays,85597526,Tracy,,Mount Crawford,-34.77143,138.97557,Entire home/apt,162,1,182,2021-02-20,8.86,1,324
+36184899,Ironstone on Jollytown,192564481,Brooke & Peter,,Lyndoch,-34.60337,138.87968,Entire home/apt,202,2,83,2021-02-23,6.99,1,299
+36498929,Tal Haus - In the heart of the Barossa Valley,49747343,Maz,,Tanunda,-34.52264,138.96292,Entire home/apt,170,1,137,2021-02-22,7.54,1,287
+36774681,Rogasch Cottage,276432130,Scott,,Tanunda,-34.52729,138.95226,Entire home/apt,450,2,61,2021-02-17,3.65,1,264
+37689356,CASALE Barossa Valley - Bed & Breakfast,284867983,Rosa,,Nuriootpa,-34.46845,138.95749,Entire home/apt,200,2,24,2021-02-10,1.54,1,171
+37733817,Ruby’s Residence: LOCATION - cozy - WIFI - netflix,165561239,Marlovisa,,Tanunda,-34.52301,138.95934,Entire home/apt,247,2,28,2021-01-14,1.63,2,0
+37926946,Tamu Barossa,287327836,Bianca,,Altona,-34.59088,138.91066,Entire home/apt,139,2,40,2021-01-27,2.35,1,164
+38072313,Barossa Valley Vineyard House  8 Acres vineyard,297316869,Greenock Estate Wines,,Nuriootpa,-34.50385,139.00742,Private room,130,1,0,,,1,0
+38438917,"Entire cottage, quiet, romantic, self contained",24432943,Alexandra,,Angaston,-34.50468,139.0454,Entire home/apt,200,2,28,2021-01-08,1.65,1,331
+38473930,Beautiful guest suite in the Barossa Valley,267461364,Natalie,,Nuriootpa,-34.4655,139.01189,Private room,95,2,12,2021-02-08,0.73,1,174
+38557373,Greenock's Old Telegraph Station,120950528,Virginia,,Greenock,-34.45786,138.92946,Entire home/apt,170,2,14,2021-02-14,1.00,2,266
+38627334,Milk + Honey House,295010752,Alexandra,,Penrice,-34.48644,139.04602,Entire home/apt,250,2,19,2021-01-31,1.19,1,310
+39265464,Lavender Cottage BAROSSA - LOCATION!,165561239,Marlovisa,,Tanunda,-34.52297,138.95956,Entire home/apt,249,2,8,2021-01-09,1.33,2,55
+39973327,Kaesler Cottages (2) setting close to vineyards,9380091,Kym,,Nuriootpa,-34.4853,138.98937,Entire home/apt,250,2,0,,,23,353
+40013760,Barossa Resort Style Living - New Listing Jan 2020,2215953,Steve,,Tanunda,-34.52431,138.95589,Entire home/apt,650,4,1,2021-01-07,0.60,1,136
+40212692,Biscay Cottage: enjoy the peace and quiet,2425103,Sandra,,Bethany,-34.53929,138.96757,Entire home/apt,190,2,9,2021-01-16,1.22,2,106
+40290859,Barossa Shiraz Estate The Barn,310538520,Julieanne,,Lyndoch,-34.59343,138.87888,Private room,550,2,2,2020-10-31,0.15,2,277
+40291757,Barossa Shiraz Estate The Vines,310538520,Julieanne,,Lyndoch,-34.59173,138.87876,Private room,470,1,1,2020-05-17,0.11,2,287
+40433136,King Deluxe Room,162433043,Geoff,,Angaston,-34.49315,139.02876,Private room,125,1,0,,,6,365
+40433163,Standard Queen Room,162433043,Geoff,,Angaston,-34.49416,139.02739,Private room,105,1,2,2019-12-27,0.14,6,365
+40433180,Triple Room - Queen + Single,162433043,Geoff,,Angaston,-34.49417,139.02892,Private room,130,1,0,,,6,365
+40433196,Family Room- Queen + 2 Singles,162433043,Geoff,,Angaston,-34.49403,139.02731,Private room,140,1,2,2020-07-16,0.18,6,363
+40433230,Family Room- 2 x Queens Room,162433043,Geoff,,Angaston,-34.49248,139.02915,Private room,140,2,0,,,6,363
+40433247,Standard Twin Room,162433043,Geoff,,Angaston,-34.49462,139.02856,Private room,105,1,1,2019-12-19,0.07,6,359
+40433618,Vineyard Views,29148788,Karl,,Angaston,-34.53599,139.039,Entire home/apt,230,2,58,2021-02-23,3.89,1,140
+40710829,Pembury Mews,26147078,Jonathan And Kate,,Angaston,-34.50134,139.03853,Private room,120,2,0,,,6,0
+40789615,Bethany Room,164087050,Greg,,Tanunda,-34.52199,138.9574,Private room,246,1,0,,,4,4
+40843462,Delightful Heritage Listed Cottage in Angaston.,317874286,Karen,,Angaston,-34.5002,139.04172,Private room,210,2,1,2020-10-17,0.23,2,364
+40923237,Historical cottage in the Barossa Valley.,317874286,Karen,,Angaston,-34.49874,139.04271,Private room,220,2,0,,,2,364
+41054970,"Room in Eco-Cottage, Springton, Barossa",105534819,Ankica,,Springton,-34.70651,139.08902,Private room,55,1,13,2020-12-21,0.95,1,364
+41131702,Barossa by the Park for large family or friends,46478405,Jay,,Nuriootpa,-34.48112,138.99024,Entire home/apt,340,1,7,2021-01-23,0.51,1,1
+41405916,Triple Creek Guest House - Barossa Region,325669865,Ben,,Marananga,-34.49844,138.91357,Entire home/apt,351,1,27,2021-01-07,2.28,1,286
+41597034,Under the Vines....a Vineyard Escape!,10626104,Karen,,Tanunda,-34.5047,138.9971,Entire home/apt,260,1,6,2021-01-09,0.47,2,278
+41800154,Relaxed Contemporary living with lake view.,138630076,Liz,,Hewett,-34.57637,138.75316,Private room,65,1,2,2020-02-08,0.15,1,115
+41804891,10 Murray  Tanunda  feel like a local,196783231,Louise,,Tanunda,-34.52674,138.95273,Entire home/apt,621,2,24,2021-02-20,1.98,1,336
+42612072,Historic Valley House in the Barossa Valley,5995481,Brett,,Lyndoch,-34.60246,138.89059,Entire home/apt,150,2,35,2021-02-21,4.45,1,117
+42653260,"THE VINES   Barossa, Adelaide Hills & Murray River",175043828,Shari And Gareth,,Mount Pleasant,-34.77893,139.04251,Entire home/apt,90,1,11,2021-02-12,2.80,1,111
+42667491,Elders Office,257562725,Jasmine,,Angaston,-34.50108,139.0417,Entire home/apt,250,1,66,2021-02-13,5.59,4,281
+42718676,Auction Shed,257562725,Jasmine,,Angaston,-34.50171,139.04057,Entire home/apt,500,1,12,2021-02-10,2.02,4,329
+43047801,Central location with country views,241630453,Melissa,,Angaston,-34.49981,139.04224,Entire home/apt,207,2,29,2021-01-16,3.40,1,314
+43118837,Deluxe couple cabin - 1 night,20245136,Sharon,,Marananga,-34.4884,138.9235,Entire home/apt,311,1,15,2021-02-15,1.84,3,324
+43128151,Log Cabin Couple - 1 night,20245136,Sharon,,Marananga,-34.48836,138.92286,Entire home/apt,182,1,13,2021-02-14,1.44,3,214
+43128158,Log Cabin Family - separate bunk room - 1 night,20245136,Sharon,,Marananga,-34.48651,138.92349,Entire home/apt,197,1,3,2021-01-25,0.56,3,207
+43329785,Cirillo Guest House,52348976,Annika,,Nuriootpa,-34.49419,139.00969,Entire home/apt,390,2,14,2021-02-14,1.84,1,189
+43366530,Tanunda Apartment,257562725,Jasmine,,Tanunda,-34.52617,138.95843,Private room,220,1,31,2021-02-20,3.26,4,312
+43646190,Gateway to the Barossa,348529669,Greg And Mary,,Concordia,-34.59905,138.79915,Entire home/apt,98,1,19,2021-01-23,5.04,1,84
+44282424,Self Contained Cottage in central Barossa Valley,356994844,Debra,,Angaston,-34.49168,139.01886,Entire home/apt,135,2,10,2021-01-23,1.44,1,124
+44450394,'Mattschoss House c1890' - Barossa comfort & style,359107874,Katelin,,Tanunda,-34.49547,138.97399,Entire home/apt,300,2,4,2021-02-20,0.91,1,246
+45352792,Budburst House,45186427,Rebecca,,Tanunda,-34.51878,138.96564,Entire home/apt,251,2,26,2021-02-19,4.91,1,5
+45548496,Barossa Lofts & Wood Oven Pizza Restaurant,198156088,Jane,,Springton,-34.72354,139.06653,Entire home/apt,420,2,2,2020-10-04,0.41,3,173
+45555495,Wyndways,65827290,Hannah,,Tanunda,-34.5235,138.9528,Entire home/apt,180,2,7,2021-02-22,1.79,1,328
+45693523,Old Barossa Valley Inn & Bakery-Entire Main House!,92198370,Heather,,Lyndoch,-34.60238,138.88712,Entire home/apt,259,1,8,2021-01-23,1.82,2,341
+45714238,Barossa Loft Stay & Wood Oven Pizza Restaurant,198156088,Jane,,Springton,-34.72339,139.06674,Entire home/apt,150,1,9,2021-02-13,2.16,3,173
+45714531,Barossa Double Lofts & Wood Oven Pizza Restaurant,198156088,Jane,,Springton,-34.72344,139.06642,Entire home/apt,300,1,0,,,3,173
+45772254,Halletts Valley Hideaway,362336116,Charmaine,,Tanunda,-34.53838,138.93566,Entire home/apt,240,2,9,2021-02-12,4.03,1,110
+45855752,In the heart of Tanunda,371758404,Dianne,,Tanunda,-34.5269,138.95906,Entire home/apt,250,2,9,2021-01-25,3.91,1,147
+45978778,Draycott Cottage- Burge Family Winemakers,269879187,Dori,,Lyndoch,-34.59415,138.88366,Entire home/apt,222,1,2,2020-12-31,1.00,1,55
+46128155,Seppeltsfield Vineyard Retreat - Barossa getaway,77871395,Jodie,,Marananga,-34.48836,138.90805,Entire home/apt,685,2,0,,,2,355
+46603319,Kaesler Cottages (1) setting close to vineyards,9380091,Kym,,Nuriootpa,-34.48667,138.9899,Entire home/apt,250,2,0,,,23,347
+46603904,Kaesler Cottages (3) setting close to vineyards,9380091,Kym,,Nuriootpa,-34.48525,138.98998,Entire home/apt,250,2,0,,,23,352
+47117855,Peaceful 2br cottage in the 🖤 of Angaston,5100298,Adele,,Angaston,-34.50362,139.04832,Entire home/apt,220,2,7,2021-02-13,3.89,2,149
+47164084,Kraft House along side with old vine vineyard,378515384,Yang,,Altona,-34.5754,138.94224,Entire home/apt,1400,2,0,,,2,362
+47298269,Kangaroo farm,153563625,Aloe,,Eden Valley,-34.6784,139.143,Entire home/apt,315,1,0,,,4,351
+47322117,Rocky House-Experience the difference,378515384,Yang,,Altona,-34.59216,138.92431,Entire home/apt,1000,2,1,2021-01-10,0.64,2,180
+47449065,GRAND HISTORIC VILLA IN BAROSSA VALLEY VILLAGE,48998930,Darren,,Lyndoch,-34.6008,138.88878,Entire home/apt,595,2,0,,,1,319
+47775835,Romantic cottage in Barossa,153563625,Aloe,,Tanunda,-34.52968,138.95059,Entire home/apt,189,1,5,2021-02-16,4.41,4,139
+47925036,Whiterocks - 2 night,53620255,Peter,,Tanunda,-34.52408,138.95884,Private room,379,2,0,,,1,364
+47986501,The center of barossa valley,153563625,Aloe,,Tanunda,-34.50508,139.00756,Entire home/apt,187,1,1,2021-02-24,1,4,24
+47987559,Kangaroo granny flat,153563625,Aloe,,Eden Valley,-34.6778,139.14366,Entire home/apt,88,1,1,2021-02-11,1,4,351
+48161724,The Cottage at Riverside Farm,308444810,Louise,,Lyndoch,-34.57871,138.89575,Entire home/apt,249,2,0,,,2,334
+48248462,Peaceful 3br cottage in the 🖤 of Angaston,5100298,Adele,,Angaston,-34.50347,139.04836,Entire home/apt,256,2,0,,,2,239
+48272006,Alkina Old Quarter Luxury Homestead,389569209,Dan,,Moppa,-34.44912,138.93522,Private room,650,2,0,,,1,158
+48307556,Tanunda Abode,27555575,Lisa,,Tanunda,-34.52155643546323,138.96271100926054,Entire home/apt,195,1,0,,,1,53

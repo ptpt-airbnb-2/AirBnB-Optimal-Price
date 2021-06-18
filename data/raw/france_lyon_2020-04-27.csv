@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: france/auvergne-rhone-alpes/lyon/2020-04-27/visualisations/listings.csv</li>
+<li>RequestId: EHB961YTWE1KBF00</li>
+<li>HostId: mohhfc10v1eIueriehrxR62oBLqwkt7bv+XwJJo2XiI60SXQNTWoZYZeekr9bYNY6GmSskcayWQ=</li>
+</ul>
+<hr/>
+</body>
+</html>

@@ -1,0 +1,966 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+137110,historical house with stunning view,670655,Daan,,Elisabethbegijnhof - Papegaai,51.05785,3.71192,Private room,50,1,162,2020-07-28,1.43,1,365
+187870,Luxury studio in the centre of Ghent,904277,Tamara,,Watersportbaan - Ekkergem,51.05168,3.70283,Entire home/apt,56,2,404,2020-10-24,3.61,1,0
+203806,Flat close to Sint-Pieters Station!,999847,Lies,,Watersportbaan - Ekkergem,51.04428,3.71395,Entire home/apt,79,2,285,2019-05-27,2.58,1,261
+204245,Modern studio's in Ghent centre,1003009,Nele,,Binnenstad,51.05842,3.72721,Entire home/apt,93,1,29,2019-10-17,0.27,2,150
+216715,converted loft,911466,James,,Binnenstad,51.05756,3.7318,Entire home/apt,70,2,467,2020-08-21,4.20,1,335
+252269,Large & bright town House - Center Ghent - max 8p,1195314,Anne-Sophie,,Elisabethbegijnhof - Papegaai,51.05216,3.71993,Entire home/apt,228,2,149,2020-08-16,1.42,1,178
+291173,Bed&Bike Den Augustijn,1509503,Bed&Bike,,Sluizeken - Tolhuis - Ham,51.05954,3.722,Private room,75,2,156,2019-12-19,1.44,1,0
+392245,Bright room 1: Enjoy Sleep Study Work Read Watch!,1961511,Hans,,Stationsbuurt Zuid,51.02971,3.71369,Private room,27,2,125,2020-10-19,1.21,1,0
+432857,Tour Gent during day by boat & sleep in it @ night,2136986,Christophe,,Sint Denijs Westrem,51.03113,3.68348,Private room,350,1,3,2018-08-12,0.03,1,0
+476371,Private room in a 19th century house near station.,996824,Annabell,,Macharius - Heirnis,51.04857,3.74224,Private room,50,1,24,2018-09-16,0.23,2,365
+599325,Ghent! Need I say more?,2964980,Sas,,Ledeberg,51.03454,3.74631,Private room,31,2,112,2020-03-11,1.10,1,362
+696209,Black & White studioB central Ghent,1328011,Jan,,Elisabethbegijnhof - Papegaai,51.05021,3.71624,Entire home/apt,79,6,32,2020-02-22,0.34,2,280
+743981,Black & White studioA central Ghent,1328011,Jan,,Elisabethbegijnhof - Papegaai,51.05021,3.71624,Entire home/apt,79,6,19,2020-11-08,0.21,2,344
+782514,Garden studio,3644609,Bob,,Sint Amandsberg,51.06837,3.77456,Entire home/apt,120,3,49,2019-09-24,0.62,1,363
+835795,Koestraat 46,4369972,Koestraat 46,,Binnenstad,51.05343,3.73002,Entire home/apt,60,2,295,2020-11-22,3.13,1,352
+878177,Bed & Breakfast Geertje Henckens,4640769,Geertje,,Elisabethbegijnhof - Papegaai,51.05153,3.71807,Private room,55,2,13,2020-03-01,0.64,1,270
+879417,2-bedroom furnished apartment-Ghent,1003009,Nele,,Binnenstad,51.0578,3.72622,Entire home/apt,155,2,9,2019-08-16,0.11,2,148
+924683,Perfect apartment centre of Ghent,4974034,Carmen,,Elisabethbegijnhof - Papegaai,51.05353,3.71675,Entire home/apt,62,2,337,2020-09-15,3.57,2,280
+944573,Stylish newly renovated small house,5114342,Kurt,,Bloemekenswijk,51.07052,3.70806,Entire home/apt,129,2,19,2020-02-18,0.22,1,330
+1018048,"Large airy studio, central location",5600970,Johan,,Sluizeken - Tolhuis - Ham,51.0591,3.7193,Entire home/apt,30,1,611,2020-11-18,7.54,1,280
+1102289,Beautiful cosy apartment in Ghent,6054596,Ingrid Saran,,Stationsbuurt Zuid,51.0325,3.7152,Entire home/apt,118,2,200,2020-11-13,2.19,1,0
+1121033,'Knighty night' at Prinsenhof,6150298,Sarah,,Elisabethbegijnhof - Papegaai,51.05661,3.71914,Private room,90,2,74,2020-07-19,0.80,1,348
+1135017,RAAMHOF  top location / spacious / comfy beds,6226459,Simon,,Elisabethbegijnhof - Papegaai,51.05683,3.71639,Entire home/apt,101,2,218,2020-07-15,2.40,2,363
+1141163,Luxury apartment in Ghent city,5082339,Joost,,Binnenstad,51.04531,3.73526,Entire home/apt,84,2,129,2020-08-10,1.40,1,0
+1159353,Big & cosy riverside apartment,1774984,Melanie,,Stationsbuurt Noord,51.03702,3.73016,Entire home/apt,74,4,389,2020-01-31,4.35,1,175
+1222069,B&B Marie Reine in old Monastry,5456443,Ruth,,Watersportbaan - Ekkergem,51.05194,3.70333,Private room,80,2,346,2020-10-18,3.82,2,122
+1271802,"cozy bedroom, private bathroom",6922134,Tasja,,Nieuw Gent - UZ,51.03137,3.72882,Private room,44,2,40,2020-04-01,0.45,2,336
+1339383,"Heaven@11, a charming studio in historic Gent",7258638,Ina Karina & Patrick,,Binnenstad,51.05824,3.72243,Private room,98,2,31,2020-07-19,0.36,3,363
+1354090,Beautiful calm room in centre of Ghent/Gent,7349426,Barnabé,,Binnenstad,51.05421,3.73203,Private room,52,1,136,2020-02-24,1.52,1,262
+1368957,Private room near Gent city center,6747265,Arnoud,,Oud Gentbrugge,51.04206,3.74747,Private room,42,1,261,2020-07-11,3.98,1,337
+1378568,Beautiful Park View,7467550,Anne-Marie,,Sint Amandsberg,51.07289,3.75223,Private room,55,2,105,2020-03-12,1.18,1,364
+1425838,Cosy room in green area,6976593,Hilde,,Mariakerke,51.07391,3.69128,Private room,50,2,7,2014-08-11,0.08,2,329
+1455446,Renovated house in Ghent,7758609,Dieter,,Oud Gentbrugge,51.0427,3.75586,Entire home/apt,150,3,30,2017-04-06,0.46,1,86
+1482891,"Private floor with bedroom, bathroom and living",2091743,Paul,,Dampoort,51.04821,3.75034,Private room,36,2,82,2020-03-08,1.61,1,86
+1505180,Tasteful & bright app near the city.,8041545,Dave,,Sint Amandsberg,51.0665,3.7523,Entire home/apt,100,2,11,2019-04-08,0.38,1,90
+1607894,Spacious duplex (shower + kitchen),6922134,Tasja,,Stationsbuurt Noord,51.03189,3.72787,Private room,54,2,28,2020-07-31,0.32,2,335
+1616843,Beautiful large apartment facing the Leie,8604293,Maaike,,Elisabethbegijnhof - Papegaai,51.04787,3.71958,Entire home/apt,75,5,17,2018-01-31,0.19,2,5
+1627743,band resort 0.1,8651909,Gerald,,Binnenstad,51.05661,3.72775,Entire home/apt,194,2,189,2020-08-02,2.16,3,336
+1638170,Spacious studio in center of Ghent,879188,Dorothee,,Elisabethbegijnhof - Papegaai,51.05545,3.70902,Entire home/apt,55,2,226,2020-03-08,2.57,1,217
+1670943,Room in cosy and little house near centre of Ghent,5390128,Mieke,,Muide - Meulestede - Afrikalaan,51.07376,3.7317,Private room,61,2,26,2019-09-15,0.35,2,0
+1710185,Design house with garden and private free garage,9022623,Bart & Daisy,,Ledeberg,51.03455,3.74213,Entire home/apt,170,3,36,2019-09-23,0.42,1,363
+1720808,unique loftspace with garden,9071229,Mieke,,Sluizeken - Tolhuis - Ham,51.05873,3.73785,Entire home/apt,120,4,17,2019-08-10,0.20,1,0
+1723685,warm and cosy 2 bedroom appartment central Gent,9072131,Mieke,,Elisabethbegijnhof - Papegaai,51.05533,3.71361,Entire home/apt,65,3,262,2020-07-24,3.02,1,0
+1754719,Band Resort 1.1. - Rent Appartment,9228510,Vincent,,Binnenstad,51.05478,3.72724,Entire home/apt,340,2,162,2020-03-08,1.88,1,346
+1790941,CLEAR AND LIGHTFULL APARTMENT CENTRE OF GHENT,4974034,Carmen,,Elisabethbegijnhof - Papegaai,51.05353,3.71675,Entire home/apt,67,2,170,2020-07-03,2.02,2,316
+1858310,"Sunny duplex, small and all-in loft studio",9696770,Tomas,,Stationsbuurt Noord,51.04114,3.71358,Entire home/apt,35,1,454,2020-10-18,5.28,1,0
+1894366,Spacious Apartment in centre Ghent,9844612,Sofia,,Binnenstad,51.05534,3.72888,Entire home/apt,77,2,273,2020-09-19,3.36,1,0
+1981738,Small loft + private bathroom,10225820,Peter,,Oud Gentbrugge,51.04052,3.74554,Entire home/apt,55,2,238,2020-10-31,2.83,1,365
+2031176,Modern flat 2 bedr close to  center,10429259,Christel,,Elisabethbegijnhof - Papegaai,51.05393,3.71171,Entire home/apt,134,3,59,2020-07-25,0.75,7,187
+2031654,Duplex Studio near historical center Ghent,10429259,Christel,,Elisabethbegijnhof - Papegaai,51.05393,3.71171,Entire home/apt,115,3,39,2019-08-28,0.50,7,178
+2043584,Lounge in the Intimate Urban Garden at a Retro Getaway,10479270,Nina,,Elisabethbegijnhof - Papegaai,51.05872,3.7138,Entire home/apt,83,2,429,2020-10-13,5.13,1,178
+2048007,"Modern flat - 2 bed, 2 bath",10429259,Christel,,Elisabethbegijnhof - Papegaai,51.05393,3.71171,Entire home/apt,143,3,45,2020-07-31,0.54,7,146
+2048223,Cute House at 7km from Ghent center,10429259,Christel,,Drongen,51.03791,3.63117,Entire home/apt,139,3,40,2020-06-28,0.54,7,92
+2082353,"Cosy, sunny and spacious house with city garden",9075008,Wouter,,Ledeberg,51.03921,3.74119,Entire home/apt,185,2,122,2020-08-09,1.45,1,26
+2125334,Home: Cosy Modern Flat near Center + Free Parking,10840696,Frederik,,Brugse Poort - Rooigem,51.05762,3.70499,Entire home/apt,55,1,149,2020-10-06,1.81,1,173
+2138676,Appartement Centrum aan het water,10913980,Ronny,,Macharius - Heirnis,51.04364,3.74016,Entire home/apt,90,2,88,2020-07-23,1.05,1,360
+2216415,Privé appartement in Gent (50m2),11304146,Kristof,,Macharius - Heirnis,51.05421,3.73572,Entire home/apt,51,40,61,2020-06-29,0.73,2,0
+2398101,Ingericht appartement aan de rand van de stad,5298594,Isabelle,,Ledeberg,51.03439,3.73389,Entire home/apt,120,3,9,2020-07-12,0.43,1,358
+2495356,Entrée d'Artistes@Historical Ghent-Centre,12772331,Ann,,Sluizeken - Tolhuis - Ham,51.0609,3.72541,Private room,51,1,341,2020-08-12,4.20,1,347
+2600085,Brand new studio flat,13314551,Kris &  Marie,,Macharius - Heirnis,51.05111,3.73608,Entire home/apt,70,2,34,2018-02-18,0.42,1,54
+2737715,Marcel de Gand Business & Travel Flats II,10867946,Sandra,,Mariakerke,51.06769,3.68042,Private room,120,2,0,,,2,179
+2737739,Marcel de Gand Business & Travel Flats I,10867946,Sandra,,Mariakerke,51.06858,3.681,Private room,120,2,1,2019-07-06,0.06,2,179
+2753095,Studio 1 - Modern on first floor,10429259,Christel,,Elisabethbegijnhof - Papegaai,51.05884,3.71375,Entire home/apt,96,3,15,2020-02-17,0.20,7,0
+3120783,Villa-Emma - 3000m2 tuin:Tilia,15853573,Georges,,Sint Amandsberg,51.07352,3.75701,Private room,120,1,8,2018-11-02,0.10,2,332
+3124062,Villa-Emma - 3000m2 tuin:Acacia,15853573,Georges,,Sint Amandsberg,51.07476,3.75701,Private room,130,1,5,2019-02-23,0.06,2,336
+3331706,Studio 2 - new in center of Ghent,10429259,Christel,,Elisabethbegijnhof - Papegaai,51.05886,3.71374,Entire home/apt,96,3,17,2020-07-12,0.22,7,239
+3373603,Studio 3 - new in center of Ghent,10429259,Christel,,Elisabethbegijnhof - Papegaai,51.06004,3.71355,Entire home/apt,89,3,2,2018-12-30,0.03,7,136
+3406443,spacious loft/apartment up to 5  people,17180388,Gerda,,Sluizeken - Tolhuis - Ham,51.06337,3.72906,Entire home/apt,175,10,89,2019-01-02,1.14,5,86
+3416308,Double room/studio with terrace,17180388,Gerda,,Sluizeken - Tolhuis - Ham,51.06467,3.72911,Private room,40,210,17,2019-08-13,0.22,5,274
+3449406,furnished apartment with 3 bedrooms,17180388,Gerda,,Sluizeken - Tolhuis - Ham,51.06331,3.72953,Entire home/apt,95,5,30,2019-08-31,0.39,5,180
+3519738,SINT-IVO  Deluxe Appartement,17549371,Barbara,,Elisabethbegijnhof - Papegaai,51.05729,3.71852,Entire home/apt,139,3,124,2020-02-17,1.66,1,158
+3611653,Duplex in historical Ghent /parking,18198634,Isabelle,,Binnenstad,51.05217,3.72546,Entire home/apt,160,2,278,2020-09-15,3.61,1,342
+3771542,Welcome to Ghent!,14010952,Filip,,Watersportbaan - Ekkergem,51.05479,3.70792,Private room,60,1,43,2017-06-10,0.58,1,0
+3798332,"Design loft, super view + parking!",8471665,Glynis,,Watersportbaan - Ekkergem,51.04658,3.7205,Entire home/apt,64,2,245,2020-11-09,3.21,1,307
+3803585,Beautiful and comfortable bedroom,19543730,Vera,,Binnenstad,51.04973,3.73526,Private room,65,2,113,2019-12-08,1.48,1,54
+3831324,Home Trietje **,19054548,Ly,,Mariakerke,51.07219,3.68789,Entire home/apt,200,5,29,2020-03-13,0.41,2,65
+3932670,"Cosy room in medieval house, centre",3545702,Trui,,Sluizeken - Tolhuis - Ham,51.06027,3.72539,Private room,27,3,200,2020-10-30,3.49,1,0
+3944527,Beautiful duplex with large terrace,20440272,An & Jacky,,Stationsbuurt Zuid,51.02532,3.70895,Entire home/apt,119,7,12,2018-11-11,0.18,1,0
+4042376,"Ruime, lichte stadswoning in Gent",20476306,Tammy,,Sint Amandsberg,51.05904,3.74713,Entire home/apt,100,3,32,2020-08-10,0.42,1,298
+4104274,"Room in nice appt 15min walk to centre, free bikes",21290432,Sofie,,Binnenstad,51.03752,3.73251,Private room,55,2,104,2020-10-01,1.38,1,0
+4275275,"Central Classy App, free CoffeeHouse Breakfast",22195789,Thomas,,Elisabethbegijnhof - Papegaai,51.05387,3.71612,Entire home/apt,47,1,253,2020-11-15,3.43,4,252
+4330284,Séjour de charme au coeur de Gand.,8203256,Annik & Kristof,,Binnenstad,51.05448,3.72842,Private room,125,1,25,2019-12-28,0.39,2,355
+4458417,house with 3 bedrooms and garden,6316738,Lies,,Brugse Poort - Rooigem,51.06183,3.69531,Entire home/apt,80,4,11,2020-08-11,0.16,1,144
+4498791,Center Gent Belle Epoque House Flat,23333629,Mia,,Binnenstad,51.04287,3.72095,Entire home/apt,68,3,93,2020-07-26,1.26,2,0
+4550799,Artist habitat in the center (6pax),23595340,Gaby,,Binnenstad,51.05643,3.72107,Private room,100,2,57,2019-12-15,0.79,2,363
+4591763,Romantic boat in Gent,23801608,Hans,,Oud Gentbrugge,51.04363,3.74312,Entire home/apt,80,1,281,2020-11-02,3.84,1,177
+4595143,Mayflower Studio,23819348,Carine,,Gentbrugge,51.04433,3.76241,Private room,74,1,8,2020-09-30,0.11,4,341
+4595400,Bellevue Apartment,23819348,Carine,,Ledeberg,51.03688,3.7351,Entire home/apt,80,1,49,2020-02-21,0.67,4,347
+4645775,"★Charming & Historic villa, garden & free parking★",5438353,Sofie,,Stationsbuurt Noord,51.03903,3.71318,Entire home/apt,108,3,184,2020-09-07,3.01,1,316
+4696196,Artist habitat in the center (2pax),23595340,Gaby,,Binnenstad,51.05679,3.7233,Private room,95,2,34,2020-03-09,0.47,2,0
+4861996,Quiet neighbourhood close to the city center.,25009089,Siel,,Oud Gentbrugge,51.0442,3.74658,Entire home/apt,55,2,21,2020-11-08,2.01,1,364
+4906218,Spacious fully equipped camper !,25257517,Leslie,,Wondelgem,51.06976,3.72798,Entire home/apt,38,1,48,2019-11-17,0.67,1,365
+4975295,RAAMHOF Luxurious Family Duplex,6226459,Simon,,Elisabethbegijnhof - Papegaai,51.0552,3.71664,Entire home/apt,120,2,126,2020-03-13,1.79,2,362
+5224982,Water side stay in art deco cabin,13829824,Francis,,Wondelgem,51.0752,3.72692,Entire home/apt,105,2,157,2020-11-08,2.23,3,0
+5273113,Your home for a stay of minimum 2 nights.,27297880,Kristiaan,,Stationsbuurt Noord,51.03323,3.72638,Private room,64,5,6,2019-12-20,0.23,1,0
+5303608,La cabane,18097910,Gino,,Sint Amandsberg,51.06084,3.74396,Entire home/apt,60,1,614,2020-11-29,8.72,1,355
+5321887,"Bright, spacious room with priv bathroom + terrace",2508856,Tibbe,,Stationsbuurt Noord,51.04214,3.70473,Private room,40,1,66,2020-09-19,1.29,1,117
+5360086,B&B Au contraire,27785737,Griet,,Stationsbuurt Noord,51.03344,3.72238,Private room,70,1,91,2020-03-15,1.30,2,365
+5361495,B&B Aucontraire - red room,27785737,Griet,,Stationsbuurt Noord,51.03525,3.72062,Private room,70,1,42,2020-02-22,0.61,2,364
+5498400,"Entre dos aguas, next to a citypark",310389,Dirk,,Macharius - Heirnis,51.04415,3.74018,Entire home/apt,118,2,77,2020-10-31,1.12,1,331
+5532266,Happy house in the city center,11739213,Sam,,Elisabethbegijnhof - Papegaai,51.0543,3.71222,Private room,50,1,7,2015-04-19,0.10,1,365
+5579884,Villa Casita Loquita (ROOM/ STUDIO) Ghent 3km,5077877,Frauke,,Sint Amandsberg,51.06476,3.77806,Private room,43,3,30,2018-08-13,0.46,1,0
+5590250,"Modern, Luxurious, Quiet",28983914,Birger,,Stationsbuurt Zuid,51.02975,3.70935,Private room,38,3,77,2020-03-06,1.14,2,365
+5694820,Baudelo's duplex apartment (air conditioning),29523955,Anne-Marie,,Binnenstad,51.0583,3.72895,Entire home/apt,220,2,337,2020-08-14,4.87,1,236
+5808759,Nice room in an old brickyard,30138838,Chantal,,Brugse Poort - Rooigem,51.06147,3.70259,Private room,96,1,8,2020-01-01,0.12,1,0
+5857149,Spacious room in 19th cent. house,11350258,Giovanna,,Macharius - Heirnis,51.04837,3.74378,Private room,50,1,135,2020-08-11,2.00,1,365
+5908287,Designer Loft,29314978,Martine,,Brugse Poort - Rooigem,51.05447,3.69901,Entire home/apt,81,2,148,2020-11-21,2.27,1,0
+6047932,"Eigentijds, modern met veel charme",31386948,Christine,,Binnenstad,51.05603,3.72986,Entire home/apt,93,3,8,2018-11-02,0.18,1,85
+6054825,Bright apt. with free parking and free bicycles,757037,Wim,,Mariakerke,51.07149,3.69344,Entire home/apt,65,2,240,2020-11-22,3.51,1,241
+6212644,Nieuwe woning in historisch centrum,32214647,Gino,,Elisabethbegijnhof - Papegaai,51.05851,3.71744,Private room,350,2,49,2020-09-07,0.76,1,345
+6279703,"Boutique B&B with free bikes, wifi, coffee or tea.",9627775,Maison MIELOU,,Sint Amandsberg,51.06104,3.74841,Private room,125,2,12,2016-10-23,0.18,4,0
+6290026,"COSY APARTMENT, free bikes, wifi, coffee/tea",9627775,Maison MIELOU,,Sint Amandsberg,51.06053,3.7474,Entire home/apt,115,5,14,2020-01-04,0.21,4,67
+6441548,Classy house close to town center,33631603,Peter,,Binnenstad,51.04567,3.73233,Entire home/apt,89,14,67,2020-01-20,1.11,1,325
+6517280,Vintage appartement/penthouse!,4817718,Stijn,,Watersportbaan - Ekkergem,51.05006,3.71056,Entire home/apt,67,2,38,2020-08-07,1.42,1,130
+6695016,Luxury Duplex in Historic Centre,34821696,Oliver,,Binnenstad,51.05749,3.72677,Entire home/apt,88,1,399,2020-11-08,6.07,1,0
+6722473,Quiet 'antique room' near station!,26787873,Greet,,Stationsbuurt Zuid,51.03261,3.71081,Private room,47,2,421,2020-08-15,6.35,1,144
+6807238,Uniek huisje in tuin centrum Gent,5050531,Bart,,Sluizeken - Tolhuis - Ham,51.06078,3.72914,Entire home/apt,80,2,27,2020-03-02,0.41,1,365
+6810537,For lovers of green and vintage :-),35652922,Thomas,,Ledeberg,51.03308,3.74379,Entire home/apt,72,5,29,2020-01-03,0.44,1,0
+6845309,Bed and Breakfast Mentari - Teratai,35857974,Pieter En Kartini,,Wondelgem,51.08519,3.69991,Private room,80,2,3,2019-01-02,0.05,2,179
+6883371,Bed and Breakfast Mentari - Melati,35857974,Pieter En Kartini,,Wondelgem,51.08343,3.69947,Private room,85,2,2,2016-04-01,0.03,2,179
+6918908,Private and peaceful studio,10349286,Emilia,,Zwijnaarde,50.99913,3.71605,Entire home/apt,35,3,33,2020-08-21,0.50,1,307
+6951050,Bright & Cosy City Centre apartment Ghent,15300260,"Aron, Dave & Myriam",,Rabot  - Blaisantvest,51.06098,3.71502,Entire home/apt,76,30,95,2020-07-17,1.51,3,315
+7089121,Cosy spatious room near tourist-centre.,37156585,Bart,,Sluizeken - Tolhuis - Ham,51.06469,3.73366,Private room,58,1,45,2020-03-08,0.69,1,329
+7272565,Cosy rooms near  Ghent center with free parking!,7382978,Linze,,Sint Amandsberg,51.05579,3.75596,Entire home/apt,110,2,60,2020-08-01,0.92,1,184
+7303560,Chez Moi,38257275,Inge,,Stationsbuurt Noord,51.03986,3.71075,Private room,43,1,7,2015-09-27,0.11,1,364
+7378878,Family house in Ghent city center,138572,Tom,,Binnenstad,51.04386,3.72971,Entire home/apt,200,5,9,2020-01-02,0.32,1,89
+7556348,RENOVATED DUPLEX IN THE CENTRE,3362271,Céline,,Sluizeken - Tolhuis - Ham,51.06449,3.72623,Private room,49,2,138,2020-03-15,2.15,1,363
+7568806,Citycentre design app+garage+breakf,39681783,Ben/Barbara,,Binnenstad,51.05809,3.72714,Entire home/apt,95,1,461,2020-09-30,7.09,1,272
+7683600,Studio Guarda La Fotografia - Ghent,40352209,Filip,,Binnenstad,51.05123,3.7253,Entire home/apt,30,1,253,2020-11-22,4.07,2,0
+7906845,"Complete renovated house, spacious!",7679698,Wim,,Brugse Poort - Rooigem,51.06161,3.69804,Entire home/apt,125,3,73,2020-11-01,1.13,2,290
+7906941,"Volledig huis,alle comfort,privacy!",7679698,Wim,,Brugse Poort - Rooigem,51.06162,3.69804,Entire home/apt,125,3,104,2020-06-30,1.63,2,289
+7918142,Peaceful apartment surrounded by nature,12733830,Jelle,,Brugse Poort - Rooigem,51.05387,3.69125,Entire home/apt,69,2,41,2020-11-10,2.52,1,87
+8066950,"Sleepin'Bont, a central & spacious spot",42607240,Karen,,Macharius - Heirnis,51.05271,3.73712,Entire home/apt,95,2,119,2020-03-08,2.28,1,8
+8067694,Quiet room(s) with private terrace,42611651,Katrijn,,Macharius - Heirnis,51.04507,3.74132,Private room,65,1,34,2018-07-27,0.54,1,247
+8077970,Loft Lien in Gent Centrum,42670243,Herlinde,,Watersportbaan - Ekkergem,51.05189,3.70813,Private room,80,2,37,2020-02-26,0.60,1,0
+8282345,B&B Halewijn,43671238,Christine,,Drongen,51.05343,3.61825,Private room,91,1,9,2020-08-23,0.14,2,351
+8296779,B&B Halewijn,43671238,Christine,,Drongen,51.05164,3.61841,Private room,93,1,12,2020-09-13,0.19,2,350
+8338763,Romantic suite along the waterfront,43955111,Stijn En Edith,,Brugse Poort - Rooigem,51.06295,3.70238,Private room,75,2,19,2018-07-22,0.30,1,25
+8347942,Spacious loft in the historical centre,39837750,Sophie,,Elisabethbegijnhof - Papegaai,51.05237,3.72016,Entire home/apt,72,2,290,2020-11-15,5.32,1,19
+8366610,Sunny & Stylish Loft in the Heart of the Old Town.,20327558,Dirk,,Binnenstad,51.05367,3.72258,Entire home/apt,79,2,159,2020-08-23,2.52,1,356
+8482980,Modern spacious house near the city centre.,24314613,Klaas,,Sint Amandsberg,51.06423,3.75269,Entire home/apt,95,4,1,2020-07-22,0.23,1,0
+8512243,Apartment in the Prinsenhof quarter,44823655,Francis,,Elisabethbegijnhof - Papegaai,51.0572,3.71549,Private room,78,1,7,2020-03-19,0.12,2,364
+8685709,Citycenter trendy rooftop apartment,38890537,Julie,,Binnenstad,51.05203,3.72166,Entire home/apt,34,7,263,2020-09-27,4.19,5,329
+8734636,Peacefull located room in Gent,19441734,Liesbeth,,Oud Gentbrugge,51.04105,3.74821,Private room,29,2,11,2019-01-02,0.19,1,329
+8766948,Stylish apartment city centre Ghent,10131924,Dymphne,,Binnenstad,51.0507,3.73034,Entire home/apt,70,2,62,2020-11-17,0.99,1,0
+8770187,"Room in Ghent, close to center + public transport",5566420,Jerome,,Stationsbuurt Noord,51.03674,3.71382,Private room,50,2,85,2020-02-23,1.36,1,87
+8836731,Modern appartement met sauna + zonovergoten terras,11361327,Leen,,Watersportbaan - Ekkergem,51.04933,3.70871,Private room,150,1,0,,,1,90
+8963647,2 Bedroom apartment centre Ghent,14549050,Wouter,,Elisabethbegijnhof - Papegaai,51.05376,3.71152,Entire home/apt,143,2,73,2020-03-01,1.27,1,0
+8977004,Cosy House Near Citycenter,27210305,Isabelle,,Macharius - Heirnis,51.0459,3.74524,Entire home/apt,110,2,9,2018-10-21,0.19,1,90
+8988182,Central flat 2 beds - 2 baths,46953923,Suzanne,,Binnenstad,51.05161,3.72583,Entire home/apt,115,2,99,2020-07-29,1.61,1,298
+9038976,Trendy flat in historical centre,46955407,Marleen,,Binnenstad,51.05797,3.72291,Entire home/apt,202,2,19,2020-02-24,0.31,2,329
+9048939,Breathtaking Views in ❤ of Ghent with Hot Tub,17321727,Bert,,Elisabethbegijnhof - Papegaai,51.05314,3.72057,Entire home/apt,109,5,108,2020-09-02,1.75,1,59
+9087777,Private room in a Belle-Epoque house,47388258,F,,Dampoort,51.05048,3.74484,Private room,19,1,467,2020-11-22,7.56,3,178
+9213284,Furnished 2 person apartment for rent in Ghent,25065540,Ram,,Zwijnaarde,51.01164,3.70341,Entire home/apt,49,14,1,2018-12-22,0.04,1,365
+9405140,Small houseboat - Kleine woonboot (12 meter),48772653,Eddie,,Brugse Poort - Rooigem,51.06229,3.70207,Entire home/apt,20,30,59,2019-06-02,0.97,1,173
+9510054,"Central, clean and fully equipped",11605084,Billy,,Macharius - Heirnis,51.05611,3.736,Private room,36,2,112,2018-05-23,1.86,2,0
+9517251,comfortable 2 bedroom apartment,17180388,Gerda,,Sluizeken - Tolhuis - Ham,51.06502,3.72944,Entire home/apt,70,7,3,2016-04-06,0.05,5,94
+9576300,Spatious app  with terras - garden,49569416,Wim,,Rabot  - Blaisantvest,51.05792,3.70895,Entire home/apt,156,3,144,2019-12-08,2.37,1,0
+9641974,"M/S Carpe-Diem ""Deck House"" - Studio on a Barge",49858029,Filip,,Muide - Meulestede - Afrikalaan,51.06499,3.73675,Entire home/apt,75,3,1,2020-07-20,0.23,2,0
+9743759,"Ruim huis in rustige straat, ideaal voor families.",50268558,Eva,,Dampoort,51.04925,3.75158,Entire home/apt,172,7,27,2019-08-08,0.47,1,0
+9763159,Charming studio near train station,18624377,Stefan,,Stationsbuurt Zuid,51.03694,3.70045,Private room,48,1,343,2020-03-05,5.66,1,0
+9871840,Maison Mahy - Gentse zolderkamer/studio,46370328,Ben & Lilla,,Sint Amandsberg,51.07093,3.76333,Private room,50,1,8,2020-09-08,1.97,1,180
+9892022,Nieuwe flat in historisch centrum,46955407,Marleen,,Binnenstad,51.05406,3.7208,Entire home/apt,169,2,7,2019-12-31,0.12,2,365
+9895777,Studio lumineux et confortable,38437518,Catherine,,Stationsbuurt Zuid,51.03704,3.70164,Entire home/apt,74,3,53,2020-09-12,0.90,1,365
+9982414,Leuk appartement in het Prinsenhof,44823655,Francis,,Elisabethbegijnhof - Papegaai,51.05882,3.71398,Private room,78,2,0,,,2,364
+10015215,Ruim appartement hartje Gent.,51433840,Collin,,Binnenstad,51.05424,3.72308,Entire home/apt,260,3,95,2020-03-08,1.66,1,349
+10083084,Curiosity room in a Belle-Epoque house,47388258,F,,Dampoort,51.05032,3.74704,Private room,19,1,538,2020-11-08,8.96,3,0
+10155409,Downtown Ghent centre,38890537,Julie,,Binnenstad,51.05116,3.72057,Entire home/apt,30,7,194,2020-07-19,3.25,5,357
+10201604,Well-situated and Comfortable Home.,1792071,Sabine,,Stationsbuurt Zuid,51.03176,3.72289,Entire home/apt,90,1,370,2020-11-06,6.22,1,352
+10308285,LOFT- Duplex-in canopy of trees center Ghent,53039258,Veerle,,Binnenstad,51.04152,3.72741,Entire home/apt,53,4,16,2019-07-08,0.41,2,0
+10312116,Something Els. Appartment in the heart of the city,53059501,Els,,Elisabethbegijnhof - Papegaai,51.05174,3.7182,Entire home/apt,73,2,184,2020-10-02,3.11,1,0
+10325779,Charming old center apartment,53135103,Akira & Aris,,Binnenstad,51.0579,3.72054,Entire home/apt,64,1,363,2020-09-27,6.13,3,87
+10333830,Gorgeous big modern apartment,18273119,Cesar,,Binnenstad,51.04058,3.73584,Entire home/apt,120,2,52,2020-01-01,0.88,1,0
+10350818,Center Gent bright charming apartm.,23333629,Mia,,Binnenstad,51.0449,3.72118,Entire home/apt,70,3,90,2020-03-15,1.53,2,24
+10831917,Spacious apartment with terrace.,56088666,Lieven,,Sint Amandsberg,51.06152,3.75648,Entire home/apt,77,7,1,2016-04-06,0.02,1,361
+10842431,Bright & Luxury City Centre apartment in Ghent,15300260,"Aron, Dave & Myriam",,Rabot  - Blaisantvest,51.06072,3.71552,Entire home/apt,74,7,63,2020-10-24,1.11,3,147
+10915447,Jack's House,53749738,Barbara,,Binnenstad,51.05428,3.72093,Entire home/apt,105,1,419,2020-11-01,7.29,1,0
+11198991,Appartement Gent,58311247,An,,Stationsbuurt Noord,51.03556,3.71695,Entire home/apt,65,1,37,2020-09-13,0.64,1,46
+11308674,Luxurious suite in the historic centre of Ghent,28517059,Astrid & Gilles,,Binnenstad,51.0564,3.7231,Entire home/apt,109,1,13,2020-11-13,4.76,3,358
+11408443,Bright & modern studio near center,49333169,Sabine,,Binnenstad,51.05073,3.73247,Entire home/apt,65,5,75,2020-03-22,1.32,1,48
+11499487,charming house with garden,11153777,Tom,,Sint Amandsberg,51.05499,3.75337,Entire home/apt,70,30,0,,,1,0
+11504603,Zonnige bungalow,47121690,Liesbet,,Mariakerke,51.07194,3.66859,Entire home/apt,70,2,35,2020-08-01,0.66,1,0
+11520446,Gezellige kamer,16056459,Line,,Oostakker,51.10539,3.76835,Private room,35,2,28,2020-08-31,0.49,1,0
+11538310,Bright spacious room for 2 to 4 persons @Ghent,39312954,Tamara,,Drongen,51.03929,3.66652,Private room,52,2,30,2019-04-07,0.56,2,51
+11543219,Cosy room in luxury appartment,15728434,Laurent,,Stationsbuurt Noord,51.03881,3.71767,Private room,55,2,40,2020-02-14,0.70,1,88
+11616146,Big app in historical centre ghent,5399279,Florien,,Binnenstad,51.05795,3.73163,Entire home/apt,160,1,31,2019-12-08,0.54,1,363
+11727193,"central, 5mins to main rail station",1857887,Lucy,,Stationsbuurt Zuid,51.03363,3.71174,Entire home/apt,50,250,5,2016-08-14,0.09,1,86
+11855537,"Rooftop terrace, stunning view in city center",63191355,Dino,,Binnenstad,51.05593,3.72656,Entire home/apt,113,3,48,2020-03-08,1.11,1,362
+11867407,Bohemian Rhapsody,63264923,Hilde,,Oud Gentbrugge,51.04224,3.75549,Entire home/apt,130,2,125,2020-09-13,2.20,2,315
+11939475,Spacious studio with private patio,60345129,Imschoot,,Elisabethbegijnhof - Papegaai,51.05253,3.71447,Private room,48,2,213,2020-10-24,3.82,1,365
+12103538,Living The Dream - A Hidden Gem,64426079,Bart,,Binnenstad,51.05424,3.72308,Entire home/apt,300,2,88,2020-10-04,1.58,2,0
+12104123,Wonderful apartment in the historic center,44774304,Marieke,,Elisabethbegijnhof - Papegaai,51.05039,3.71906,Entire home/apt,92,3,156,2020-07-28,2.88,1,364
+12139439,Centre Ghent: design 2p apartment,15903511,Caroline,,Binnenstad,51.04773,3.72394,Private room,81,2,100,2020-01-01,1.80,1,365
+12195039,Beautiful & modern /garden/station,27889944,Rebekah,,Moscou - Vogelhoek,51.02062,3.76047,Private room,45,1,7,2016-09-13,0.13,1,0
+12199107,Welcome in our beautiful house,65585483,Annelies,,Sluizeken - Tolhuis - Ham,51.06263,3.72754,Private room,50,2,239,2020-09-21,4.23,1,362
+12242630,"Modern, Luxurious, Quiet - 1 Person",28983914,Birger,,Stationsbuurt Zuid,51.02899,3.71055,Private room,35,4,84,2019-09-07,1.50,2,337
+12423613,New duplex guesthouse,24194314,Caroline,,Dampoort,51.0541,3.74264,Entire home/apt,85,2,208,2020-08-02,3.85,1,0
+12689118,Cosy City center Suite,38890537,Julie,,Elisabethbegijnhof - Papegaai,51.05275,3.72066,Entire home/apt,27,7,209,2020-09-26,3.79,5,354
+12749066,Good bed in colourfull house,69343106,Ingeborg,,Ledeberg,51.03554,3.74434,Private room,26,2,37,2020-01-03,0.74,2,165
+13000667,Central located cosy house,15714372,Els,,Sluizeken - Tolhuis - Ham,51.06004,3.71629,Entire home/apt,75,2,121,2020-07-25,2.21,2,329
+13093076,Bright spacious room with gardenview @Ghent,39312954,Tamara,,Drongen,51.03922,3.66659,Private room,44,1,41,2020-03-08,0.77,2,43
+13112422,"Trendy, Cosy, Historical Center",9526236,Marc,,Elisabethbegijnhof - Papegaai,51.05151,3.71614,Entire home/apt,78,3,49,2020-09-27,0.91,2,0
+13170409,Vintage urban family house,17951161,Peter,,Ledeberg,51.03532,3.75295,Entire home/apt,140,2,13,2019-12-30,0.26,1,363
+13537299,hof van spanje 1,77860805,Pieter,,Binnenstad,51.05651,3.72624,Entire home/apt,164,2,36,2020-02-18,0.71,2,20
+13561939,hof van spanje 2,77860805,Pieter,,Binnenstad,51.05631,3.72719,Entire home/apt,164,2,34,2020-08-08,0.68,2,32
+13633848,"COSY, STYLISH, BRIGHT apartment - city of Ghent",15123546,Tine,,Sluizeken - Tolhuis - Ham,51.06476,3.73008,Entire home/apt,101,2,88,2020-11-03,1.69,1,179
+13649596,Well situated apartment for 4-6 in centre Ghent,5883895,Annelore,,Macharius - Heirnis,51.04769,3.7439,Entire home/apt,85,15,307,2020-03-09,5.70,4,365
+13650841,ART DECO Design Apartment Ghent Centre,29513964,Christel,,Elisabethbegijnhof - Papegaai,51.05492,3.71315,Entire home/apt,120,2,200,2020-01-08,3.75,1,0
+13704632,Historic house in center Gent,15300260,"Aron, Dave & Myriam",,Binnenstad,51.05115,3.73138,Entire home/apt,69,2,227,2020-09-20,4.23,3,347
+13730220,zonnig verblijf met dakterras,80301064,Inge,,Oud Gentbrugge,51.04087,3.74448,Private room,65,1,139,2020-11-21,2.62,1,128
+13781790,Cozy and clean room :),53459941,Iman,,Stationsbuurt Noord,51.03304,3.7247,Private room,25,1,94,2020-03-10,1.75,2,364
+13807393,Small cozy room on second floor,53459941,Iman,,Stationsbuurt Noord,51.03515,3.72507,Private room,29,1,44,2020-03-11,0.82,2,365
+13807432,Characterful loft in the historical city center,77414895,Clara,,Elisabethbegijnhof - Papegaai,51.0575,3.71829,Entire home/apt,85,2,15,2017-04-17,0.28,1,0
+13827261,Spacious Top Floor,982271,Ben,,Elisabethbegijnhof - Papegaai,51.05652,3.7188,Private room,70,2,125,2020-07-19,2.34,1,180
+13839827,Spacious home with garden and free parking,17882332,Lori,,Oud Gentbrugge,51.04087,3.75496,Entire home/apt,85,1,75,2020-07-14,1.40,1,22
+13888897,Designer suite with large tub close to the station,43570873,Peter,,Stationsbuurt Noord,51.03815,3.70666,Entire home/apt,95,1,126,2020-07-27,2.45,1,23
+13952023,Cosy studio near the center,83059689,Wouter,,Binnenstad,51.0502,3.73353,Entire home/apt,45,5,46,2019-08-04,0.87,1,60
+13955501,Modern apartment with a great view + location,1346281,Julie,,Watersportbaan - Ekkergem,51.04927,3.70905,Entire home/apt,85,2,3,2017-08-30,0.07,1,1
+14053072,"""Little footprint "" - Eco B&B",1734521,Klaartje,,Brugse Poort - Rooigem,51.06347,3.70061,Private room,39,1,37,2020-03-09,0.72,1,179
+14171568,Lux Apt w/Parking to visit amazing Ghent + Belgium,85785507,Edward,,Brugse Poort - Rooigem,51.06754,3.69618,Entire home/apt,99,2,135,2020-03-08,2.59,5,199
+14227218,BnB Renee - bright apartment near station,86455568,Frederik,,Stationsbuurt Noord,51.03948,3.71806,Entire home/apt,63,10,34,2020-01-24,0.66,1,0
+14234623,Charming duplex retreat in the centre of Ghent,13497008,Brecht,,Elisabethbegijnhof - Papegaai,51.05209,3.71958,Entire home/apt,91,12,37,2019-11-03,0.71,2,58
+14417354,"Big trendy loft, free parking, nearby city centre",16289639,Len,,Sluizeken - Tolhuis - Ham,51.06019,3.72922,Entire home/apt,188,3,91,2020-11-04,2.04,1,247
+14420137,Portus Ganda House,88726749,Ina,,Macharius - Heirnis,51.05132,3.73816,Entire home/apt,88,1,25,2017-08-15,0.49,1,1
+14466061,"Private room with big terras, shower and parking",89142902,Anna,,Binnenstad,51.04075,3.72252,Private room,45,1,412,2020-09-21,7.94,1,353
+14541530,Modern gardenhouse (80m²) with terrace and garden,89977974,Erwin,,Mariakerke,51.06805,3.66364,Entire home/apt,85,2,129,2020-08-08,3.24,1,361
+14541839,Icarus' Home,40930356,Hilde En Filip,,Dampoort,51.04973,3.74725,Entire home/apt,44,2,174,2020-03-15,3.37,1,0
+14591643,Studio in a restful area in Ghent,30552325,Ann,,Sint Amandsberg,51.07135,3.76324,Entire home/apt,55,2,17,2020-02-15,0.33,1,329
+14651402,"Central, clean and fully equipped.",11605084,Billy,,Macharius - Heirnis,51.05679,3.73614,Private room,36,1,92,2020-03-10,1.93,2,89
+14682320,Prachtige zolderkamer mét terras,55033640,Kim,,Dampoort,51.05109,3.74544,Private room,50,1,1,2016-09-25,0.02,1,0
+14721207,Lascars' Guesthouse near city center,29497600,Kris,,Stationsbuurt Zuid,51.02816,3.7231,Entire home/apt,75,1,257,2020-12-02,5.27,1,269
+14779690,Stylish historic rooftop apartement w/ fireplace,6173997,Simon,,Elisabethbegijnhof - Papegaai,51.05678,3.71577,Entire home/apt,66,1,325,2019-09-11,6.39,1,54
+14792281,Modern studio in the city centre,92383374,Bart,,Elisabethbegijnhof - Papegaai,51.05318,3.71724,Entire home/apt,78,3,72,2020-08-04,1.41,1,365
+14815080,* Nice room in Ghent *,9593145,Helena,,Sluizeken - Tolhuis - Ham,51.06921,3.72864,Private room,50,2,28,2020-10-29,0.54,1,365
+14831444,Guestroom Creativo,92767961,Kitty,,Mariakerke,51.07756,3.6907,Private room,59,2,34,2020-07-20,0.69,1,365
+14877515,Room & ensuite bathroom near Ghent,93264204,Wim,,Dampoort,51.05066,3.76195,Private room,36,1,230,2020-10-18,4.52,1,0
+14881274,Private room near Ghent,26806492,Elien & Filip,,Ledeberg,51.03629,3.74342,Private room,41,1,276,2020-09-13,5.37,1,361
+14896674,Sunny apartment in townhouse next to the park,6148809,Amaryllis,,Elisabethbegijnhof - Papegaai,51.05738,3.71743,Entire home/apt,39,1,372,2020-11-09,7.22,3,59
+14897622,Bright apartment in historic townhouse,6148809,Amaryllis,,Elisabethbegijnhof - Papegaai,51.05608,3.7179,Entire home/apt,39,1,520,2020-11-21,10.23,3,45
+14963441,"Cosy, light vintage design appartment",5883895,Annelore,,Macharius - Heirnis,51.04782,3.74419,Entire home/apt,80,14,137,2019-10-31,2.67,4,333
+15078227,Cosy Apartment near city centre Gent / Ghent.,7798727,Anelda,,Bloemekenswijk,51.06638,3.70915,Entire home/apt,60,1,8,2020-07-25,0.84,2,37
+15098520,Room 'Olga' - B&B Graaf.,43889699,Kenzo,,Sluizeken - Tolhuis - Ham,51.06185,3.7211,Private room,60,1,1,2019-04-13,0.05,3,126
+15158816,"Flats with a soul, in the heart of Ghent.",96173226,Ingrid,,Binnenstad,51.0564,3.72097,Entire home/apt,140,2,5,2019-05-28,0.10,1,362
+15161663,Big house & spacious garden near the city centre,20195326,Joke,,Sint Amandsberg,51.07168,3.75938,Entire home/apt,120,3,17,2020-08-03,0.34,1,0
+15263209,B & B Martijn Dewulf Ghent (Studio Gina),29746993,Martijn,,Sint Amandsberg,51.0636,3.75129,Entire home/apt,70,1,36,2020-08-01,0.71,2,344
+15266842,Room near public transport/city center.,16979747,Tom,,Stationsbuurt Zuid,51.03247,3.71313,Private room,48,2,165,2020-07-26,3.42,1,0
+15279587,Duplex room with mezzanine and ensuite bathroom,1155760,Caroline,,Gentbrugge,51.03284,3.76246,Private room,45,2,139,2020-09-21,2.90,1,28
+15306836,Cosy room with King size bed,9347190,Annelies,,Dampoort,51.05727,3.74099,Private room,50,3,74,2020-03-31,1.48,1,85
+15358026,'t Langeveld -1e verdieping+parking- OMG! VAN EYCK,29465860,Lidwine,,Wondelgem,51.0897,3.70699,Entire home/apt,59,2,102,2020-07-26,2.05,1,179
+15402420,B & B Martijn Dewulf Ghent (Studio Febe),29746993,Martijn,,Sint Amandsberg,51.06481,3.75081,Entire home/apt,65,1,8,2020-08-19,0.16,2,348
+15407588,Room in an artistic house near the centre of Ghent,50509069,Reintje,,Rabot  - Blaisantvest,51.06418,3.70996,Private room,20,6,42,2020-09-16,0.84,1,278
+15595674,Double room,64317133,Tom,,Bloemekenswijk,51.06895,3.70488,Private room,35,1,206,2020-09-21,4.13,1,7
+15660061,"Belle Epoque, in the heart of the Historic Centre",101087428,Veerle,,Binnenstad,51.05361,3.72425,Entire home/apt,98,2,253,2020-11-09,5.10,1,159
+15924258,Just  feel@home in Ghent,14896039,Kaat,,Brugse Poort - Rooigem,51.05932,3.69674,Entire home/apt,80,2,52,2020-02-10,1.08,1,0
+15925176,Brand new private top floor in a travelers house!,9175868,Elke,,Brugse Poort - Rooigem,51.06117,3.69004,Private room,50,1,56,2020-03-08,1.16,1,270
+15937307,Edville studio Duplex A301  (2p-4p),414263,Edward En Daphné,,Binnenstad,51.03787,3.73042,Entire home/apt,92,1,9,2019-09-02,0.19,10,0
+16436629,cosy home in Ghent near Bruges,17970736,Bernard,,Elisabethbegijnhof - Papegaai,51.05631,3.717,Entire home/apt,179,3,2,2019-06-02,0.07,1,179
+16451045,Lovely apartment near historic centre,107909354,Barbara,,Elisabethbegijnhof - Papegaai,51.04945,3.71344,Entire home/apt,79,2,119,2020-10-25,2.50,1,0
+16484658,Spatious city centre apartment Ghent,14531718,Frederik,,Elisabethbegijnhof - Papegaai,51.04982,3.7126,Entire home/apt,56,2,130,2020-10-18,2.73,1,332
+16555758,"Bright double big room (5m walk 2 centre, station)",18214451,Leen,,Stationsbuurt Noord,51.03735,3.71054,Private room,14,2,18,2020-11-04,0.55,2,0
+16592801,cozy studio in the canopy of trees center Ghent,53039258,Veerle,,Binnenstad,51.03955,3.73126,Entire home/apt,75,4,34,2018-04-02,0.72,2,0
+16684903,Top new stylish apartment @ heart historic Ghent!,42607614,Catherine,,Binnenstad,51.05824,3.72104,Entire home/apt,240,2,73,2020-03-08,1.64,1,0
+16744699,Bed Resort - Lucas Munich,8651909,Gerald,,Macharius - Heirnis,51.0547,3.73628,Entire home/apt,84,7,67,2020-09-25,1.45,3,0
+16806888,Luxury 2 room apartment with Patio & Free parking!,10143101,Olivier,,Stationsbuurt Noord,51.0347,3.71578,Entire home/apt,69,1,94,2020-09-15,2.02,1,13
+16952327,Cosy shared house next to the water,6758108,Ellen,,Bloemekenswijk,51.06893,3.69547,Private room,50,2,27,2020-09-02,0.59,1,175
+17101107,House with history in the city centre of Ghent,35204778,Steven,,Binnenstad,51.05149,3.7307,Entire home/apt,109,2,54,2020-01-01,1.19,2,55
+17174625,"Cosy, vintage apartment in quiet neighbourhood.",15514726,Sofie,,Oud Gentbrugge,51.03668,3.75817,Entire home/apt,30,1,10,2020-09-25,0.23,1,0
+17196233,Centre of Ghent:authentic apartment,115767658,Marie Jeanne,,Binnenstad,51.04554,3.72371,Entire home/apt,75,3,78,2020-02-24,1.72,1,180
+17196478,@Marieke,115769155,Marieke,,Ledeberg,51.03838,3.74043,Private room,39,2,194,2020-03-14,4.26,1,0
+17341843,New modern studio,18156019,Marleen,,Binnenstad,51.04025,3.73841,Entire home/apt,30,2,19,2020-09-01,0.43,1,0
+17384238,bed breakfast and smile,55085840,Claire,,Watersportbaan - Ekkergem,51.04933,3.71035,Private room,42,1,182,2020-08-04,4.07,3,16
+17411938,Apartment /loft up to 5 people,17180388,Gerda,,Sluizeken - Tolhuis - Ham,51.06253,3.73055,Entire home/apt,125,10,19,2019-09-01,0.42,5,203
+17415373,Edville studio Duplex A302 (2p-4p),414263,Edward En Daphné,,Binnenstad,51.03782,3.73044,Entire home/apt,92,2,6,2020-01-17,0.35,10,128
+17415762,Duplexstudio Edville Ghent 4p (studio D6),414263,Edward En Daphné,,Stationsbuurt Noord,51.03728,3.72965,Hotel room,89,2,6,2018-06-01,0.14,10,117
+17415990,Edville studio Duplex (2p-4p),414263,Edward En Daphné,,Binnenstad,51.03782,3.73044,Entire home/apt,76,7,4,2019-04-14,0.10,10,64
+17416223,Edville studio Duplex A304 (2p-4p),414263,Edward En Daphné,,Binnenstad,51.03782,3.73044,Entire home/apt,92,2,2,2019-09-29,0.06,10,149
+17416354,Edville Studio A102,414263,Edward En Daphné,,Binnenstad,51.03782,3.73044,Entire home/apt,79,2,3,2019-10-02,0.07,10,271
+17416437,Edville Studio,414263,Edward En Daphné,,Binnenstad,51.03782,3.73044,Entire home/apt,72,2,11,2019-06-10,0.29,10,279
+17416518,Edville Studio,414263,Edward En Daphné,,Binnenstad,51.03782,3.73044,Entire home/apt,62,1,12,2020-09-17,0.28,10,67
+17420258,Sleep at the waterside,5476697,Joksie,,Macharius - Heirnis,51.04828,3.73863,Entire home/apt,35,1,36,2020-10-04,0.79,1,13
+17585223,Deluxe Suite Apartment 6P Lord of Ghent,46082978,Vic,,Binnenstad,51.05364,3.72316,Entire home/apt,236,2,21,2020-09-06,0.48,2,351
+17883395,Oasis of Ghent,76402457,Bhakti,,Ledeberg,51.03856,3.74073,Entire home/apt,40,3,18,2020-07-30,0.43,1,240
+17904649,FEEL your own home,122699112,Ramchandra,,Dampoort,51.05944,3.74384,Private room,57,1,42,2019-06-30,0.94,1,271
+17922879,Ground floor apartment in 19th century house,122838042,Loes,,Ledeberg,51.03415,3.74171,Private room,42,2,166,2020-11-01,3.74,1,54
+18250197,Captains room on Riverboat with riverview,9801533,Maarten,,Brugse Poort - Rooigem,51.05842,3.70699,Entire home/apt,121,1,39,2020-11-14,0.90,2,357
+18251661,Sailorsroom on a Riverboat,9801533,Maarten,,Brugse Poort - Rooigem,51.05975,3.70525,Entire home/apt,121,1,17,2020-09-06,0.44,2,0
+18287400,Spacious-Modern Vacation House for 6 pers,10103253,Lot,,Oud Gentbrugge,51.03686,3.75558,Entire home/apt,149,3,20,2019-09-22,0.46,1,86
+18291583,Bright room + bathroom in THE HEART OF GHENT <3,36509648,Ibel,,Sluizeken - Tolhuis - Ham,51.0615,3.73539,Private room,36,2,0,,,1,64
+18342213,En suite kamer met mezzanine in historisch centrum,8203256,Annik & Kristof,,Binnenstad,51.05528,3.73152,Private room,74,2,37,2019-10-15,0.85,2,1
+18370024,Paparazzo - Ghent (city center),40352209,Filip,,Binnenstad,51.05122,3.72157,Entire home/apt,39,1,114,2020-10-10,3.00,2,329
+18378471,Cosy house Gent,7123934,Aline,,Brugse Poort - Rooigem,51.06176,3.69851,Entire home/apt,52,7,10,2020-07-17,0.23,1,1
+18555913,Apartment in the centre of Ghent with car park,46127163,Anneke,,Elisabethbegijnhof - Papegaai,51.05125,3.71874,Entire home/apt,89,2,171,2020-11-17,4.08,4,329
+18761830,single room in colourfull house,69343106,Ingeborg,,Ledeberg,51.03528,3.74425,Private room,21,2,19,2020-03-01,0.45,2,179
+18834578,Renovated triplex in the city centre of Ghent,131163319,Aydan,,Elisabethbegijnhof - Papegaai,51.05316,3.71224,Entire home/apt,69,2,192,2020-10-12,4.70,1,28
+18835603,Duplex in authentic house in centre of Ghent,38463197,Tom,,Macharius - Heirnis,51.04864,3.73921,Private room,70,1,89,2020-02-29,2.19,1,363
+18875514,Private studio near city center,48898791,Joren,,Brugse Poort - Rooigem,51.06138,3.68983,Entire home/apt,55,2,90,2020-10-30,2.22,1,135
+18891699,Maison Arlette Louise,131643434,Mileen,,Binnenstad,51.05237,3.72686,Entire home/apt,100,2,153,2020-03-08,3.61,2,162
+18892469,Maison Joris Cyriel,131643434,Mileen,,Binnenstad,51.05207,3.72555,Entire home/apt,100,2,73,2020-08-10,1.72,2,180
+18920831,Eve's room Spacious rooftop in Ghent,10881977,Nancy,,Sluizeken - Tolhuis - Ham,51.06351,3.73491,Private room,85,2,55,2020-10-11,3.14,1,0
+18966574,Duplex Apartment near city centre,7506706,Joachim,,Dampoort,51.0485,3.7522,Entire home/apt,52,14,7,2020-07-31,0.19,1,0
+18986082,Unique artist home in the very heart of Ghent.,7553700,Bram,,Elisabethbegijnhof - Papegaai,51.05648,3.71205,Entire home/apt,65,1,141,2020-08-16,3.30,1,348
+19014129,House of Trade - Private Apartment with Terrace,94136253,Caroline,,Binnenstad,51.05936,3.72464,Entire home/apt,109,1,2,2020-07-05,0.06,4,81
+19090011,Spacious top floor apartment in historic center.,4739451,Lieve,,Elisabethbegijnhof - Papegaai,51.05455,3.71706,Entire home/apt,86,5,0,,,2,83
+19090630,Luxurious and spacious city center Penthouse,59586249,Wouter,,Binnenstad,51.04946,3.73022,Entire home/apt,200,2,45,2018-09-27,1.07,1,178
+19097524,authentic spacious apartement in historic centre,133404776,Femke,,Binnenstad,51.05555,3.7251,Entire home/apt,185,2,32,2019-12-24,0.78,3,354
+19149894,Cosy room near the center,133891026,Matti,,Bloemekenswijk,51.06909,3.70552,Private room,40,2,2,2020-08-28,0.39,3,94
+19152623,design/retro apartment,7561538,Llotte,,Binnenstad,51.05061,3.73146,Private room,45,1,345,2020-11-15,8.35,1,258
+19179954,JACK'S VINTAGE PLACE - Cosy in Center Ghent,103553714,Christel & Jean Pierre,,Binnenstad,51.05622,3.7313,Entire home/apt,80,2,46,2020-02-29,1.68,1,240
+19184277,New trendy studio in a great location,134192357,Nathalie,,Binnenstad,51.04015,3.73687,Entire home/apt,64,1,190,2020-09-27,4.48,2,213
+19230128,In the middle of the city center in Ghent,38272653,Radouane,,Elisabethbegijnhof - Papegaai,51.05667,3.71088,Private room,237,1,2,2020-01-01,0.08,1,179
+19279395,Cosy studio near the historical center of Gent.,121003233,Hilde,,Sluizeken - Tolhuis - Ham,51.06267,3.71693,Entire home/apt,70,2,133,2020-10-20,3.25,1,0
+19420706,Cosy house near the city center,133891026,Matti,,Bloemekenswijk,51.07046,3.70623,Entire home/apt,120,2,0,,,3,162
+19421930,Private room with a terrace,133891026,Matti,,Bloemekenswijk,51.06986,3.70591,Private room,40,2,0,,,3,365
+19444574,Apartment Gent (Citadel Area),136340475,Valerie,,Stationsbuurt Noord,51.03597,3.71698,Entire home/apt,65,1,42,2020-10-02,1.01,1,6
+19526484,Modern family house in old beguinage in the center,33514941,Tom,,Elisabethbegijnhof - Papegaai,51.05824,3.71122,Entire home/apt,289,4,15,2019-12-29,0.37,1,0
+19569417,House of Trade - King Suite for 3,94136253,Caroline,,Binnenstad,51.05936,3.72464,Entire home/apt,118,1,10,2020-10-03,0.24,4,0
+19613603,House of Trade - Suite for 3 with 2 balconies,94136253,Caroline,,Binnenstad,51.05936,3.72464,Entire home/apt,118,1,24,2020-07-21,0.58,4,348
+19616679,House of Trade - Duplex king Suite with balcony,94136253,Caroline,,Binnenstad,51.05936,3.72464,Entire home/apt,118,1,42,2020-10-18,1.04,4,348
+19645720,Welcome in the world of Chanel (private),4552523,Leonard,,Binnenstad,51.05076,3.73211,Entire home/apt,58,1,318,2020-07-30,7.79,4,360
+19667164,Beautiful Design Loft in Gent with large garden,22044540,Tomas,,Stationsbuurt Noord,51.0327,3.72371,Entire home/apt,145,1,64,2020-07-11,1.64,1,0
+19785070,Cosy private urban studio + FREE bikes!,3385245,Lesley,,Sint Amandsberg,51.06619,3.74946,Entire home/apt,69,1,240,2020-09-20,5.85,1,0
+19787809,Spacious room near to centrum,139715560,Erick,,Oud Gentbrugge,51.04178,3.74467,Private room,37,1,6,2020-01-01,0.15,2,179
+19891235,Private room in cosy and colourful home #1,45160327,Justine,,Binnenstad,51.0385,3.7318,Private room,42,2,44,2020-09-27,1.08,3,79
+19897157,Mooie kamer niet ver van het centrum.,125572769,Marleen,,Ledeberg,51.03489,3.74572,Private room,29,2,11,2019-10-17,0.27,2,86
+19914949,Welcome in this golden place...,4552523,Leonard,,Binnenstad,51.05055,3.73152,Entire home/apt,58,1,283,2020-07-31,6.93,4,361
+19927493,Cool Studio in Castle Garden...,135773114,Eline & Daan,,Elisabethbegijnhof - Papegaai,51.05849,3.71875,Entire home/apt,39,10,230,2020-03-15,5.66,1,0
+19941444,Flat in Gent centrum met terras & gratis parking,46127163,Anneke,,Elisabethbegijnhof - Papegaai,51.05124,3.71806,Entire home/apt,99,2,91,2020-11-15,2.54,4,0
+19965497,Fully furbished holiday house near Ghent,141556808,Gastenverblijf,,Mariakerke,51.07366,3.69304,Entire home/apt,90,5,4,2020-11-13,0.46,1,249
+20096647,Cosy studio in city centre.,4552523,Leonard,,Binnenstad,51.05236,3.73296,Entire home/apt,58,1,260,2020-03-13,6.41,4,364
+20183287,Maison Bontinck 44/2,41365502,Caroline,,Binnenstad,51.04962,3.72713,Entire home/apt,99,2,0,,,2,364
+20183709,Brabantdam 44/3,41365502,Caroline,,Binnenstad,51.05133,3.7294,Entire home/apt,99,2,1,2017-10-23,0.03,2,363
+20319269,Renovated appartment  centrum Gent,144147367,Ilyes,,Elisabethbegijnhof - Papegaai,51.05187,3.71836,Entire home/apt,100,1,101,2020-07-14,2.52,1,89
+20379887,Welcome in the Andy Warhol suite (private),4552523,Leonard,,Binnenstad,51.05243,3.73215,Entire home/apt,58,1,334,2020-07-11,8.34,4,361
+20491275,Perfect Covid-proof place to stay in Ghent.,47275109,Dirk,,Rabot  - Blaisantvest,51.06584,3.71889,Entire home/apt,51,1,103,2020-10-11,2.60,1,258
+20612508,La pensée sauvage (A wild thought),147323902,Rudy,,Elisabethbegijnhof - Papegaai,51.05162,3.71677,Entire home/apt,85,1,264,2020-11-15,6.71,3,0
+20644692,Modern appartement with park-view,15514725,Julie,,Oud Gentbrugge,51.04487,3.75433,Entire home/apt,90,2,12,2020-02-16,0.30,1,11
+20832097,Your own loft in city centre with indoor parking,9734743,Maxime,,Sluizeken - Tolhuis - Ham,51.06261,3.71787,Entire home/apt,70,1,37,2020-11-06,1.47,1,62
+20832785,Charming 3 Bedroom on the Canal Near the City,3149265,Simela,,Brugse Poort - Rooigem,51.06179,3.70339,Entire home/apt,81,3,56,2019-11-29,1.47,2,144
+20842771,Gezinswoning in rustige buurt,35397446,Manon,,Bloemekenswijk,51.07333,3.6991,Entire home/apt,90,7,7,2020-08-21,0.24,1,188
+20976715,Mayflower Building,23819348,Carine,,Gentbrugge,51.04348,3.76377,Entire home/apt,84,2,6,2019-05-13,0.16,4,340
+21021842,Stylish penthouse apartment with 2 big terraces!,19346897,Louise,,Binnenstad,51.04475,3.72994,Entire home/apt,95,3,26,2020-10-26,0.68,1,65
+21042093,Elegant charming duplex in historic center house,30925639,Polo,,Binnenstad,51.05626,3.72638,Entire home/apt,92,2,136,2020-09-20,3.56,4,365
+21194829,Bed Resort - Belfort,8651909,Gerald,,Binnenstad,51.05506,3.72798,Entire home/apt,94,5,20,2020-06-14,0.56,3,364
+21201872,Julie’s trendy Ghent center studio,38890537,Julie,,Binnenstad,51.05198,3.72073,Entire home/apt,49,1,44,2020-07-01,1.21,5,308
+21214879,"ATELIER 7
+Unique place in city center",29742444,Mattias,,Elisabethbegijnhof - Papegaai,51.04972,3.71625,Entire home/apt,106,2,104,2020-09-03,3.20,1,0
+21222837,"Room in Ghent, Belgium",13589979,Maria,,Brugse Poort - Rooigem,51.05882,3.70134,Private room,29,2,32,2020-03-01,0.84,1,54
+21263681,Penthouse centrum Gent,63794642,David,,Binnenstad,51.05039,3.73116,Entire home/apt,320,1,45,2020-09-14,1.24,1,337
+21342969,Ghent city guest house_free parking,34274994,Ann-Sophie,,Elisabethbegijnhof - Papegaai,51.05516,3.71307,Entire home/apt,130,2,95,2020-07-13,2.56,1,165
+21474259,Guesthouse 't Pandje,24755063,Simon,,Watersportbaan - Ekkergem,51.05164,3.70467,Private room,41,2,69,2020-03-13,1.88,1,19
+21487839,Your Suite Ghent,134192357,Nathalie,,Binnenstad,51.05059,3.73015,Entire home/apt,68,1,207,2020-09-18,5.71,2,301
+21570759,Architectural house near city center - 20min walk,4896545,Karolien,,Oud Gentbrugge,51.04299,3.74594,Entire home/apt,180,1,97,2020-08-19,2.68,3,342
+21571187,The Lighthouse Atelier,4009178,Leen,,Rabot  - Blaisantvest,51.05702,3.70975,Entire home/apt,75,2,127,2020-10-01,3.43,1,33
+21606699,Stay in the center of Ghent!,157161550,Nathalie,,Sluizeken - Tolhuis - Ham,51.06186,3.72402,Entire home/apt,140,2,10,2019-10-15,0.55,1,0
+21767980,Charming duplex in mansion close to city centre.,158599459,Toon En Ingrid,,Elisabethbegijnhof - Papegaai,51.05792,3.71404,Entire home/apt,140,2,83,2020-07-14,2.30,1,180
+21907317,"Near the station, free parking",119242405,Daniel,,Drongen,51.04534,3.65309,Private room,31,1,24,2019-09-30,0.66,2,356
+21911071,RAPPIZZA Holiday Home,159867374,Gaby,,Sint Denijs Westrem,51.0154,3.66425,Entire home/apt,85,2,3,2020-01-17,0.10,1,65
+21941354,Welcome in the world of Salvador Dali,109991056,Léonard En Mercutio,,Binnenstad,51.05156,3.73154,Entire home/apt,58,1,129,2020-08-04,3.55,4,360
+22047333,Renovated historic mill loft,22753242,Michiel,,Binnenstad,51.05839,3.72373,Entire home/apt,85,2,112,2020-10-29,3.23,1,0
+22061504,"cosy studio (Ghent), 2p, separate bathroom",15982903,Sarah En Jan,,Ledeberg,51.03428,3.74255,Private room,50,3,9,2019-12-30,0.25,1,87
+22094809,Spacious app with terrace. Close to trains.,98213585,David,,Dampoort,51.0555,3.74192,Entire home/apt,205,3,48,2020-03-01,1.48,3,351
+22300283,Cool apartment at perfect location in city centre,113337363,Frederik,,Watersportbaan - Ekkergem,51.04465,3.71343,Entire home/apt,103,3,22,2019-11-22,0.63,1,144
+22314526,Stylish Loft in Charming Townhouse in City Center,105326422,Matthias,,Binnenstad,51.05777,3.72162,Entire home/apt,109,2,137,2020-11-15,3.83,3,55
+22324768,Water side stay in luxury suite,13829824,Francis,,Muide - Meulestede - Afrikalaan,51.07128,3.7296,Private room,100,1,46,2020-09-20,1.39,3,0
+22330886,Completely private and equiped studio/apartment,163267642,Luc,,Stationsbuurt Zuid,51.02865,3.72368,Entire home/apt,58,7,39,2020-09-06,1.16,1,117
+22460391,Private room in Ghent near station and Flixbus,163622698,Adon,,Macharius - Heirnis,51.05321,3.73992,Private room,26,1,143,2020-08-10,4.07,1,66
+22517900,Nice double bedroom in Gent ~ station & centre,18214451,Leen,,Stationsbuurt Noord,51.03927,3.71327,Private room,15,2,5,2019-08-07,0.15,2,90
+22581838,Bright and Comfortable ROOM on the Canal,3149265,Simela,,Brugse Poort - Rooigem,51.061,3.70394,Private room,23,2,3,2018-02-11,0.09,2,24
+22630396,Ghent/3 private rooms in villa  (5 p max),166600474,Miche,,Sint Amandsberg,51.06907,3.78224,Private room,72,2,32,2020-08-08,1.03,4,0
+22634155,Design duplex city center appartement,38890537,Julie,,Binnenstad,51.05026,3.72836,Entire home/apt,29,7,148,2020-10-18,4.37,5,340
+22679820,B&B Schopenhauer in the historical centre of Ghent,83766425,Erik,,Elisabethbegijnhof - Papegaai,51.05073,3.71981,Private room,120,2,0,,,2,268
+22819209,Gent-Villa 'le bon chat'-safari-room,166600474,Miche,,Sint Amandsberg,51.06713,3.78414,Private room,55,2,3,2019-11-02,0.17,4,323
+22840018,Maison Bleue,27465310,Annik,,Sluizeken - Tolhuis - Ham,51.05956,3.71809,Private room,70,2,47,2020-02-24,1.45,1,209
+22842325,Gent-Villa 'le bon chat'-sunsetroom,166600474,Miche,,Sint Amandsberg,51.06707,3.7827,Private room,39,2,26,2020-01-05,0.97,4,0
+22857049,Bright room perfect location,169057037,Lena,,Stationsbuurt Noord,51.04158,3.70366,Private room,1000,90,90,2020-07-19,2.61,1,125
+22902890,Whale,169515739,Margot,,Drongen,51.04249,3.602,Entire home/apt,100,2,0,,,1,88
+23018101,Cosy Private Bedroom,42442313,Metwally,,Stationsbuurt Noord,51.04423,3.70214,Private room,32,3,17,2019-09-16,0.70,2,269
+23056517,Spacious and sunny apartment in Ghent!,36528763,Karen,,Sint Amandsberg,51.05578,3.75301,Entire home/apt,75,3,12,2020-01-04,0.36,1,83
+23194225,Helena's Captain's Cabin,10631375,Inge,,Muide - Meulestede - Afrikalaan,51.06401,3.73736,Entire home/apt,80,2,28,2020-03-08,0.88,1,305
+23227439,private room2 in historical city TOP LOCATION!,63080910,Jeremy,,Elisabethbegijnhof - Papegaai,51.05787,3.71757,Private room,40,1,290,2020-10-13,8.66,3,364
+23245483,Cosynest: your home in Ghent,59239296,Voornaam,,Dampoort,51.05083,3.7498,Entire home/apt,156,4,8,2020-03-11,0.29,1,180
+23264265,!Pleasure and commodity in the Historical Heart!,157229048,Julieta,,Elisabethbegijnhof - Papegaai,51.05579,3.71513,Private room,33,2,155,2020-10-31,4.62,2,0
+23298129,"GUSTAV's HOUSE. A trendy spot to work, love & play",67197572,Bert,,Drongen,51.04987,3.66678,Entire home/apt,106,2,97,2020-11-02,2.87,1,348
+23298478,wellnest,12819894,Koen,,Drongen,51.04377,3.66664,Private room,56,2,28,2019-09-22,0.87,1,4
+23300438,Luxury Apartment  Atelier Ecru,7423873,Stéphanie,,Elisabethbegijnhof - Papegaai,51.05762,3.71787,Entire home/apt,173,2,15,2020-03-16,0.46,1,31
+23300768,Private room1 in historical city TOP LOCATION,63080910,Jeremy,,Elisabethbegijnhof - Papegaai,51.05647,3.71801,Private room,42,1,249,2020-10-18,7.58,3,328
+23425309,Spacious room - private bathroom near Ghent,15850802,Lotte,,Zwijnaarde,51.01743,3.70425,Private room,46,1,28,2020-06-29,1.10,1,0
+23445659,2 private rooms in historical city TOP LOCATION!,63080910,Jeremy,,Elisabethbegijnhof - Papegaai,51.05637,3.71677,Private room,85,1,72,2020-08-09,2.19,3,328
+23460733,Hostel Sport Gent voor groepen vanaf 8 personen,175061199,Anton,,Watersportbaan - Ekkergem,51.04823,3.70291,Shared room,25,2,26,2020-02-16,0.81,1,329
+23500215,Modern appartement met klein terras en parking,46127163,Anneke,,Elisabethbegijnhof - Papegaai,51.05029,3.71694,Entire home/apt,64,1,51,2020-11-18,1.56,4,0
+23518039,"Luxury and charming apartment, with terrace and view over towers of Ghent.",24893740,Mia,,Binnenstad,51.05559,3.72453,Entire home/apt,140,1,132,2020-11-10,3.96,2,338
+23636327,Quiet family house in a unique car-free street,28701190,Sara,,Brugse Poort - Rooigem,51.05541,3.69914,Entire home/apt,85,3,9,2019-12-24,0.28,1,121
+23643843,Volop ruimte en romantische accenten in een historisch pand in hartje Gent,69788907,Myriam,,Binnenstad,51.05409,3.72985,Entire home/apt,224,2,98,2020-08-23,3.37,1,0
+23730534,Sien (3 km from Gent),67287371,Sien,,Moscou - Vogelhoek,51.02554,3.75926,Private room,38,1,165,2020-10-11,5.09,1,70
+23837044,Design Apartment with Balcony and View over Ghent Towers,24893740,Mia,,Binnenstad,51.05498,3.72542,Entire home/apt,135,1,110,2020-11-22,3.37,2,325
+23837349,Charming garden studio in the historic center,53135103,Akira & Aris,,Sluizeken - Tolhuis - Ham,51.05938,3.72161,Entire home/apt,76,1,276,2020-11-11,8.54,3,65
+23849387,"!Historical Center of Gent, comfort and privacy!",157229048,Julieta,,Elisabethbegijnhof - Papegaai,51.05621,3.71537,Private room,39,1,6,2020-02-24,0.59,2,337
+23863782,Superclean & completely private studio/workplace,179287710,Mario,,Sint Amandsberg,51.05737,3.75611,Private room,49,1,198,2020-10-18,6.01,1,300
+23949863,StudioLudo,36436221,Ludo,,Watersportbaan - Ekkergem,51.04192,3.71482,Entire home/apt,78,3,25,2020-07-21,1.17,1,182
+24272178,Spacious duplex with terrace. Centrally located,31030190,Gaelle,,Macharius - Heirnis,51.04767,3.74098,Private room,80,1,55,2019-12-22,1.72,1,16
+24307488,Art house located at the centre of Ghent,62303087,Mieke,,Binnenstad,51.04477,3.73456,Entire home/apt,59,2,56,2020-08-09,1.78,1,270
+24331315,@303,183575014,Bernard,,Nieuw Gent - UZ,51.0308,3.73046,Entire home/apt,48,4,40,2020-09-01,1.43,2,156
+24361777,"Bright apartment for studies,expats or Holidays",11304146,Kristof,,Brugse Poort - Rooigem,51.0613,3.69926,Entire home/apt,50,60,7,2020-01-31,0.24,2,364
+24375992,Eclectic Design Apartment in Renovated Town House,183963346,Hendrik,,Macharius - Heirnis,51.0567,3.73663,Entire home/apt,39,1,257,2020-11-21,8.08,3,16
+24376390,Large rooftop apartment w/ fireplace,183963346,Hendrik,,Macharius - Heirnis,51.05527,3.73565,Entire home/apt,39,1,317,2020-11-20,9.98,3,10
+24399863,Renovated Apartment in Town House w/ free parking,183963346,Hendrik,,Macharius - Heirnis,51.05428,3.73834,Entire home/apt,39,1,260,2020-11-26,8.17,3,44
+24400600,"Cosy three-bedroom, close to train station.",98213585,David,,Dampoort,51.05572,3.74245,Entire home/apt,246,3,47,2020-03-01,1.52,3,336
+24407051,Ground Floor Loft With High Ceilings,6148809,Amaryllis,,Elisabethbegijnhof - Papegaai,51.05744,3.71711,Entire home/apt,39,1,239,2020-11-20,7.64,3,144
+24449020,Mayflower,23819348,Carine,,Oud Gentbrugge,51.0431,3.76162,Entire home/apt,120,7,7,2019-05-02,0.30,4,329
+24512050,"Overlook the City's Rooftops at a Bright, Bohemian Haven",185166822,Filip,,Binnenstad,51.04999,3.72655,Entire home/apt,130,2,147,2020-10-26,4.96,1,0
+24685240,The Cover Hostel - Room 2,152817797,Maxim,,Binnenstad,51.05796,3.72715,Hotel room,300,1,28,2020-03-08,0.92,2,0
+24726518,Loftin'Gent,34918162,Alice,,Elisabethbegijnhof - Papegaai,51.04909,3.71805,Entire home/apt,96,2,119,2019-12-23,3.81,1,3
+24789666,A beautiful & cosy apartment - feels like home,8726103,Bart,,Sluizeken - Tolhuis - Ham,51.06093,3.72326,Entire home/apt,68,2,186,2020-10-25,6.08,1,176
+24933623,2 private rooms in quiet neighbourhood of Ghent,183363863,Martine,,Sint Denijs Westrem,51.01307,3.667,Private room,74,2,19,2020-02-16,0.62,3,0
+25007519,Bright lovely vintage studio,7802210,Barbara,,Dampoort,51.05413,3.74899,Entire home/apt,47,2,70,2019-11-08,2.38,1,337
+25047059,Private room 1 in quiet neighbourhood of Ghent,183363863,Martine,,Sint Denijs Westrem,51.01322,3.66708,Private room,39,2,24,2020-07-10,0.79,3,179
+25049604,Private room  2  in quiet neighbourhood of Gent,183363863,Martine,,Sint Denijs Westrem,51.01323,3.66771,Private room,39,2,23,2020-02-28,0.76,3,179
+25124986,Gezellige loft in centrum Gent met privé terras!,58928,Virginie,,Binnenstad,51.05046,3.72572,Entire home/apt,110,2,76,2020-09-06,3.26,1,270
+25160240,Cosy room near the historical center of Gent.,190123238,Johan,,Mariakerke,51.07086,3.69242,Private room,28,2,51,2020-09-26,1.74,1,71
+25218066,Cozy Green Apartment in Historic Center of Ghent,190542390,Pj,,Binnenstad,51.05618,3.72473,Entire home/apt,75,2,102,2020-11-11,3.42,1,39
+25309283,"Boutique Studio, free CoffeeHouse Breakfast",22195789,Thomas,,Elisabethbegijnhof - Papegaai,51.05397,3.71751,Entire home/apt,37,1,159,2020-10-19,5.80,4,354
+25368029,Ground floor loft near city centre + garage,409541,Sylvie,,Dampoort,51.0547,3.74996,Entire home/apt,95,2,85,2020-03-08,2.85,1,209
+25371584,Private new studio in art deco home-great location,4434842,Simon & Robin,,Stationsbuurt Noord,51.04027,3.7069,Entire home/apt,40,2,77,2020-11-15,3.41,2,207
+25375361,Cute house with a private little garden & 2 bikes,156444018,Wim,,Watersportbaan - Ekkergem,51.05007,3.70558,Entire home/apt,61,2,32,2020-09-05,1.09,1,28
+25543588,Private room in modern house near center of Ghent,18970937,Bert,,Dampoort,51.05816,3.7422,Private room,59,2,49,2020-08-02,1.63,1,0
+25708445,Charming renovated house in centre of Ghent,101985946,Kurt,,Binnenstad,51.04488,3.72905,Entire home/apt,90,2,47,2020-07-31,1.61,1,21
+25727374,Modern house with lovely garden near city centre,9882656,Michel,,Stationsbuurt Noord,51.04258,3.69913,Entire home/apt,220,3,5,2019-08-29,0.18,1,88
+25853812,Classy penthouse with terrace in the heart of Gent,169991961,Thierry & Inge,,Binnenstad,51.05098,3.72283,Entire home/apt,98,4,44,2020-11-25,1.52,1,0
+25970539,Cozy apartment in the historic center,77082543,Hans,,Elisabethbegijnhof - Papegaai,51.04979,3.71971,Entire home/apt,68,1,56,2020-08-16,1.92,1,267
+26090907,Stylish Loft in Charming Townhouse in City Center,105326422,Matthias,,Binnenstad,51.0582,3.72091,Entire home/apt,110,1,68,2020-06-30,2.37,3,54
+26094960,Living The Moment - Your Charming House,64426079,Bart,,Binnenstad,51.05309,3.73111,Entire home/apt,230,2,20,2020-03-15,0.73,2,341
+26121271,B&B Petit Prince – Historic Center – Nordic Orange,30925639,Polo,,Elisabethbegijnhof - Papegaai,51.05819,3.71388,Hotel room,107,1,14,2020-08-02,0.48,4,164
+26132957,Charming loft in Ghent,24501376,Orsi,,Macharius - Heirnis,51.04801,3.74408,Entire home/apt,50,2,5,2020-07-28,0.17,1,0
+26159197,Maison Touche (Spacious and central located),196617503,Sofie,,Binnenstad,51.05184,3.72635,Entire home/apt,120,2,105,2020-08-05,3.64,1,0
+26161189,B&B Petit Prince – Historic Center – Arabic Blue,30925639,Polo,,Elisabethbegijnhof - Papegaai,51.05819,3.71388,Hotel room,113,1,21,2020-10-18,0.72,4,254
+26195752,B&B Petit Prince – Historic Center – French Green,30925639,Polo,,Elisabethbegijnhof - Papegaai,51.05819,3.71388,Hotel room,108,1,13,2019-07-12,0.44,4,167
+26216502,Room in cosy Urban Jungle House,111020849,Hannes,,Binnenstad,51.04065,3.72685,Private room,32,1,81,2020-10-15,2.81,1,0
+26299161,"Brand new unique place ""De Zebra"" in city center",13910605,Karen,,Binnenstad,51.05843,3.72842,Hotel room,399,2,2,2019-08-18,0.07,1,0
+26314677,Bij het station van Drongen,119242405,Daniel,,Drongen,51.04597,3.65318,Private room,39,1,10,2019-11-04,0.35,2,358
+26389827,Luxe BNB Nest Jacuzzi Room (new from 12/7/18),17971943,Eva,,Rabot  - Blaisantvest,51.0641,3.70571,Hotel room,135,1,69,2020-11-07,2.39,3,362
+26390559,Luxe BNB Nest Sauna Room (new from 12/7/18),17971943,Eva,,Rabot  - Blaisantvest,51.06415,3.70698,Hotel room,135,1,25,2020-11-08,0.87,3,360
+26566901,Water side stay in duplex apartment,13829824,Francis,,Sluizeken - Tolhuis - Ham,51.06966,3.72887,Entire home/apt,125,2,19,2020-10-31,0.65,3,357
+26586044,"Trendy, Cosy, Historical Center",9526236,Marc,,Elisabethbegijnhof - Papegaai,51.04945,3.71524,Entire home/apt,51,7,20,2020-07-15,0.72,2,158
+26622296,Fran's house 1,75712944,Francine,,Ledeberg,51.03446,3.75427,Private room,35,1,107,2020-09-24,3.67,3,79
+26636917,Charming house with terrace in Ghent,74624756,Quinten,,Brugse Poort - Rooigem,51.06082,3.69932,Entire home/apt,80,1,49,2019-08-26,1.70,1,0
+26677971,Private room in cosy townhouse near Ghent City,26086094,Pieterjan & Annelies,,Muide - Meulestede - Afrikalaan,51.07108,3.72953,Private room,45,2,31,2020-01-26,1.16,1,80
+26700588,Mammy's Corner: appartment on the ground floor.,200755820,Katelyne,,Mariakerke,51.07669,3.69047,Entire home/apt,66,2,61,2020-03-19,2.13,1,0
+26712972,Noëlla's Wheelhouse,11037129,Wendy,,Muide - Meulestede - Afrikalaan,51.06419,3.73602,Private room,65,2,77,2020-07-29,2.67,1,174
+26746083,Welcome in our beautiful home in Ghent,20229410,Joke,,Sint Amandsberg,51.07317,3.76096,Entire home/apt,139,3,6,2019-07-14,0.21,1,152
+26841772,Spacious App in the center of Gent with mini gym,201859498,Tanguy,,Elisabethbegijnhof - Papegaai,51.05539,3.71463,Private room,61,2,44,2020-08-25,2.50,2,234
+26861726,Small room in cosy house in Ghent,5390128,Mieke,,Muide - Meulestede - Afrikalaan,51.07359,3.73195,Private room,58,1,5,2020-01-08,0.27,2,155
+26978319,Spacious duplex apartment in Ghent. Top location!,202961185,Lyne,,Binnenstad,51.05528,3.72216,Entire home/apt,111,3,74,2020-08-17,2.65,1,0
+26984036,BNB Nest:1 room with Bath  and 1 room with Sauna,17971943,Eva,,Elisabethbegijnhof - Papegaai,51.05671,3.71322,Hotel room,260,1,6,2019-08-04,0.22,3,354
+27058440,Cosy and private studio near the heart of Ghent,83820574,Tille,,Sluizeken - Tolhuis - Ham,51.06172,3.73428,Entire home/apt,44,2,113,2020-10-19,4.05,1,0
+27224717,"Spacious house, quiet surroundings & free bikes",74182678,Kristof,,Zwijnaarde,50.99627,3.69081,Private room,44,1,3,2019-04-07,0.12,1,298
+27278673,Trendy and cosy apt in the heart of Ghent + Terrace!,13913487,Marie-Charlotte,,Elisabethbegijnhof - Papegaai,51.04893,3.71786,Entire home/apt,60,2,123,2020-11-10,4.39,1,288
+27367292,Spacious house near city center / free parking,7610729,Thomas,,Sint Amandsberg,51.05703,3.75314,Entire home/apt,203,2,27,2020-07-12,0.97,1,79
+27455106,Private place in heart of the city,109991056,Léonard En Mercutio,,Binnenstad,51.05262,3.73096,Entire home/apt,29,20,233,2020-10-31,8.47,4,363
+27472268,Bright apartment close to old city center,12121733,Nina En Jan,,Rabot  - Blaisantvest,51.05794,3.70863,Entire home/apt,78,2,12,2020-08-15,0.46,1,81
+27647208,Gent Woning,186119285,Koen,,Sluizeken - Tolhuis - Ham,51.05997,3.71549,Private room,35,1,0,,,1,365
+27719749,"Big, conveniently located apartment Ghent",98213585,David,,Dampoort,51.05463,3.74359,Entire home/apt,192,2,33,2020-10-04,1.25,3,334
+27751174,"House of Edward - 5 star room, great location!",209082761,Caroline,,Binnenstad,51.0582,3.72636,Entire home/apt,97,1,1,2018-10-25,0.04,3,347
+27751295,House of Edward - Studio with private patio,209082761,Caroline,,Binnenstad,51.0582,3.72636,Entire home/apt,117,1,4,2019-04-19,0.17,3,0
+27751310,House of Edward - Well designed modern studio,209082761,Caroline,,Binnenstad,51.0582,3.72636,Entire home/apt,107,1,5,2020-07-14,0.18,3,340
+27830149,Spacious private room in a family-friendly home,23057451,Anne-Sophie,,Sint Amandsberg,51.05952,3.74457,Entire home/apt,50,2,88,2020-03-14,3.26,1,54
+27894287,JOSIE LOFT GENT,35788202,Gerlinde,,Elisabethbegijnhof - Papegaai,51.05666,3.71474,Entire home/apt,90,2,7,2020-10-04,0.28,2,0
+27915686,Room with cosy terrace close to city centre,52994548,Stefan,,Dampoort,51.04889,3.75584,Private room,35,1,77,2020-09-27,2.80,3,90
+27919390,Family stay in charming house close to city centre,52994548,Stefan,,Dampoort,51.04865,3.75705,Private room,50,2,32,2020-07-06,1.17,3,90
+27942148,Cozy apartment in a nice neighbourhood.,211071638,Annie,,Dampoort,51.04938,3.74805,Entire home/apt,70,7,62,2020-02-15,2.31,1,65
+27975454,"Charming house, garden next to park + 2 bikes",1107302,Karlos,,Sint Amandsberg,51.07312,3.75147,Entire home/apt,67,2,41,2020-07-25,1.52,1,126
+28019528,Lovely renovated apartment Ghent with terrace,68850016,Klaas,,Macharius - Heirnis,51.04365,3.7389,Entire home/apt,70,30,15,2019-09-08,0.56,1,60
+28217432,Chez Anna,23634443,Anna,,Binnenstad,51.05398,3.73348,Entire home/apt,46,2,178,2020-09-10,6.51,1,15
+28357768,Vintage & lush room with private bathroom,54858845,Esteban & Jeroen,,Wondelgem,51.08065,3.709,Private room,43,2,161,2020-10-18,6.14,1,73
+28365618,Eclats de Gand,35204778,Steven,,Binnenstad,51.0494,3.72938,Entire home/apt,118,2,16,2020-08-01,0.88,2,12
+28399524,Cosy spacious Penthouse near historical downtown!,57750582,Ruben,,Ledeberg,51.03475,3.73807,Entire home/apt,92,4,10,2020-03-08,0.40,3,36
+28405485,Rooms at Ghent,213775694,Joris,,Ledeberg,51.03479,3.74412,Private room,30,1,201,2020-10-14,7.46,1,312
+28420514,Ghent Headquarters,186619146,Gino,,Sluizeken - Tolhuis - Ham,51.0626,3.71869,Entire home/apt,80,6,3,2018-11-18,0.11,1,0
+28425833,Minimalistic room in the old beguinage of Ghent.,4657827,Sofie,,Binnenstad,51.04497,3.73541,Private room,50,1,40,2020-07-05,1.51,1,89
+28490502,Private Room in Penthouse near Historic Centre,57750582,Ruben,,Ledeberg,51.03628,3.73665,Private room,55,2,10,2019-11-17,0.38,3,0
+28600150,Huge place in the city centre,109991056,Léonard En Mercutio,,Binnenstad,51.05321,3.73236,Entire home/apt,54,1,241,2020-11-21,9.18,4,0
+28634936,Feels like home and it’s flexible,216084578,Gideon,,Brugse Poort - Rooigem,51.06106,3.69292,Private room,50,1,0,,,1,364
+28634964,Large private bedroom in our house near Ghent,27989335,Liliana María,,Sint Amandsberg,51.07541,3.78218,Private room,40,1,22,2020-02-23,0.83,1,365
+28909657,★Bright & Modern app with view in historic center★,217913633,Marjolein,,Binnenstad,51.05191,3.72131,Entire home/apt,36,3,66,2020-03-14,2.60,1,121
+29173143,Charming house in a quiet area close to the centre,38483395,Cas,,Bloemekenswijk,51.06741,3.69918,Entire home/apt,80,1,267,2020-11-15,10.90,1,327
+29213463,"Quiet, spacious apartment with kids room in center",77741734,Jarno,,Watersportbaan - Ekkergem,51.05183,3.70816,Entire home/apt,70,1,34,2020-11-15,1.35,1,39
+29330456,Luxurious duplex flat,220954208,Johanna,,Stationsbuurt Noord,51.03918,3.71102,Entire home/apt,80,5,2,2019-09-28,0.14,2,180
+29370078,Master Bedroom in Penthouse near historic centre,57750582,Ruben,,Ledeberg,51.03637,3.73813,Private room,60,2,1,2018-10-22,0.04,3,113
+29606833,La bellétage,1203507,Jurgen & Tom,,Macharius - Heirnis,51.05658,3.73799,Entire home/apt,52,1,218,2020-11-22,10.14,2,221
+29651345,Spacy Artist Studio in Central Gent,4896545,Karolien,,Stationsbuurt Noord,51.0392,3.71373,Entire home/apt,149,2,2,2020-03-11,0.14,3,365
+29684082,"Huis Diane, 3***, Pool, eingezäunter Garten, Natur",223400556,Julia,,Drongen,51.03078,3.67818,Entire home/apt,300,2,24,2020-09-14,0.99,1,30
+29729809,Big room in a house near to the city with  terrace,44363476,Ann,,Macharius - Heirnis,51.04786,3.74516,Private room,48,1,138,2020-09-17,5.53,2,179
+29814431,"Gent, Villa 'le bon chat' - forest room",166600474,Miche,,Sint Amandsberg,51.0674,3.78229,Private room,35,2,6,2020-02-21,0.29,4,331
+29843315,Stylish condo in 19th century town house,14893942,Sarah,,Elisabethbegijnhof - Papegaai,51.05481,3.71311,Entire home/apt,85,2,34,2020-03-08,1.37,1,176
+29871237,Romantic 17th century workers house + free parking,147323902,Rudy,,Elisabethbegijnhof - Papegaai,51.05203,3.71449,Entire home/apt,75,1,96,2020-09-28,3.95,3,352
+29919271,Skyline Flats Gent - The perfect spot to discover Gent,224953054,Viktor,,Muide - Meulestede - Afrikalaan,51.05956,3.73836,Entire home/apt,116,1,6,2020-07-31,0.32,2,355
+29936489,Private parking & next to bus/tram in Centre Ghent,113153295,Charlotte,,Binnenstad,51.04613,3.73389,Private room,69,1,111,2020-10-10,4.46,1,0
+29955604,Tiny attic room in large cozy shared house MIN 1YR,36968049,Luca,,Ledeberg,51.03275,3.74825,Private room,23,30,0,,,1,365
+30033166,Spacious and green architect's house,5889470,Géraldine,,Sint Denijs Westrem,51.01701,3.67303,Entire home/apt,110,5,1,2020-01-02,0.09,1,306
+30055360,Fran's house 2,75712944,Francine,,Ledeberg,51.03431,3.75282,Private room,40,1,93,2020-10-18,4.54,3,0
+30123381,MAAI - coffee & bed Ghent,10856041,Maai,,Sluizeken - Tolhuis - Ham,51.06568,3.72745,Entire home/apt,73,1,64,2020-02-26,2.64,1,0
+30152054,A room with parkview for a solo guest,47388258,F,,Dampoort,51.05071,3.7449,Private room,20,1,173,2020-10-23,7.63,3,163
+30216410,"Privékamer in gastsuite
+ 
+
+
+
+
+
+'ANNEX' Slapen in het begijnhof!",27590237,Mieke,,Elisabethbegijnhof - Papegaai,51.05718,3.71195,Private room,145,1,2,2020-01-01,0.10,3,283
+30217010,"Privékamer in bed & breakfast
+ 
+
+
+
+
+
+B&B DOOR10, suite ' EGO' top under the roof!",27590237,Mieke,,Rabot  - Blaisantvest,51.05783,3.70993,Hotel room,160,1,3,2019-10-20,0.15,3,327
+30217307,"B&B DOOR10. 'ALTER', om je thuis te voelen!",27590237,Mieke,,Elisabethbegijnhof - Papegaai,51.05677,3.71081,Hotel room,145,1,1,2019-12-29,0.09,3,333
+30370768,Studio voorhaven Gent,228019929,Martine,,Wondelgem,51.07686,3.72539,Entire home/apt,90,2,10,2019-11-27,0.44,1,54
+30387663,In the very heart of the Historic Center!,1416398,Aygül,,Binnenstad,51.05464,3.72466,Entire home/apt,160,1,43,2020-09-13,1.85,1,353
+30390976,Spacious house with large garden close to center,49238888,Wouter,,Sint Amandsberg,51.07276,3.75278,Entire home/apt,115,3,7,2020-01-01,0.30,1,121
+30454162,Studio op 10 minuten van centrum Gent.,60093232,Mieke,,Bloemekenswijk,51.06737,3.69846,Private room,45,2,46,2020-01-27,2.04,1,131
+30464035,Sophie's house WITH CATSITTING,15430806,Sophie,,Oud Gentbrugge,51.04047,3.7467,Entire home/apt,65,4,3,2019-05-11,0.13,1,0
+30546378,Bright and modern apartment with canal view,229193277,Matthias,,Bloemekenswijk,51.06758,3.70907,Entire home/apt,118,2,74,2020-09-27,3.12,1,131
+30586785,k0b: Luxury apartment with terrace in city center,149211444,Jan-Pieter,,Binnenstad,51.05656,3.72625,Entire home/apt,66,1,148,2020-10-18,6.18,6,0
+30654297,"'Jungle' Studio, free Coffeehouse Breakfast",22195789,Thomas,,Elisabethbegijnhof - Papegaai,51.05354,3.71652,Private room,43,1,119,2020-11-09,4.99,4,320
+30703224,3 bedroom house with 5 double beds for 10 persons,79973936,Binu,,Binnenstad,51.04601,3.72176,Entire home/apt,39,1,18,2020-08-16,0.75,1,148
+30731985,Industrial Minimalist Apartment with Terrace,147323902,Rudy,,Elisabethbegijnhof - Papegaai,51.05154,3.71696,Entire home/apt,80,1,202,2020-11-15,8.50,3,0
+30812042,Apartment Ghent,123414579,An,,Stationsbuurt Noord,51.03633,3.71682,Entire home/apt,56,1,12,2020-11-15,0.82,2,9
+30930573,Cosy town house near Ghent,91527364,Ankie,,Oud Gentbrugge,51.04333,3.75767,Entire home/apt,45,3,18,2019-11-03,0.79,1,0
+31034072,Room in charming house close to city centre,52994548,Stefan,,Dampoort,51.04818,3.75716,Private room,30,2,14,2020-09-27,0.61,3,0
+31071336,A Flemish Tale - Our Bird's Nest,232120143,Caroline,,Binnenstad,51.05143,3.72319,Entire home/apt,88,1,3,2020-08-13,0.26,1,0
+31081696,"Gent, kamer op 10' van centr. 2de kamer mogelijk.",232212401,Oliver,,Dampoort,51.05445,3.74704,Private room,55,1,49,2020-11-07,2.11,1,0
+31140289,Sfeervolle flat in hartje Gent met gratis parking,46127163,Anneke,,Elisabethbegijnhof - Papegaai,51.05162,3.71783,Entire home/apt,95,2,1,2019-10-28,0.08,4,0
+31200362,Seperate room 15min from the center of Gent,3845880,Wouter,,Gentbrugge,51.03257,3.76508,Private room,35,1,17,2020-09-28,0.80,1,345
+31271368,Authentic city house with a lovely patio,154480666,Bart,,Macharius - Heirnis,51.04656,3.73924,Entire home/apt,143,2,41,2020-09-06,1.87,1,258
+31286883,Stylish Studio 'Suite César' in the heart of Ghent,187300878,Katrijn,,Elisabethbegijnhof - Papegaai,51.05859,3.71826,Entire home/apt,76,2,15,2020-03-01,0.67,1,357
+31302882,Skyline flat deluxe appartment,224953054,Viktor,,Muide - Meulestede - Afrikalaan,51.05905,3.73927,Entire home/apt,129,4,1,2019-08-19,0.06,2,0
+31406655,Casa Mata - City Centre Ghent,142680340,Audrey & Filip,,Macharius - Heirnis,51.05524,3.73754,Entire home/apt,120,2,3,2020-09-28,0.78,1,298
+31455691,Loft with free parking | long & short term,188277383,Lana,,Muide - Meulestede - Afrikalaan,51.07657,3.72773,Entire home/apt,66,3,6,2020-08-14,0.44,1,0
+31509691,Spacious quiet room - close to the city centre,9609237,Yana,,Ledeberg,51.03502,3.74037,Private room,39,1,110,2020-09-19,4.91,1,148
+31527090,Cosy little house near city center,236258668,Natasha,,Sluizeken - Tolhuis - Ham,51.06026,3.7172,Entire home/apt,51,2,64,2020-10-01,3.53,1,182
+31552993,EXCLUSIVE LOFT in city centre GHENT,10317247,(Email hidden by Airbnb),,Binnenstad,51.05448,3.73025,Entire home/apt,120,1,21,2020-10-11,0.95,1,87
+31553434,Trendy apartment in the historical center,236499017,Elke,,Elisabethbegijnhof - Papegaai,51.05513,3.71564,Entire home/apt,76,2,65,2020-11-20,3.07,1,349
+31590318,Romantic Top Floor Apartment with Wide City Views,26855903,Aydin & Aurelie,,Sluizeken - Tolhuis - Ham,51.06594,3.73087,Entire home/apt,105,3,43,2020-08-07,1.92,1,242
+31706246,Cozy family home with a delightful garden,6648264,Lim And Jan,,Sint Amandsberg,51.07061,3.76312,Entire home/apt,140,3,5,2020-01-04,0.31,1,0
+31822775,Cap's House - Deluxe,191864799,Julie,,Binnenstad,51.05323,3.72224,Entire home/apt,228,1,10,2020-07-26,0.52,2,35
+31822777,Cap's House Cosy,191864799,Julie,,Binnenstad,51.05107,3.7215,Private room,195,1,1,2020-02-23,0.11,2,35
+31875170,Full bright apartment in the center of Ghent,9436823,Leonie,,Watersportbaan - Ekkergem,51.05185,3.70838,Entire home/apt,80,2,11,2020-02-23,0.50,1,45
+31897289,Studio in townhouse close to historical center,239101801,Kristin,,Binnenstad,51.0399,3.73439,Private room,45,1,89,2020-10-19,4.46,1,0
+31917332,Cosy and Quiet with Terrace,19906966,Muriel,,Ledeberg,51.03761,3.74434,Entire home/apt,55,2,14,2020-11-08,0.65,1,0
+31966965,Casolare Bonifant,63921891,Steven,,Drongen,51.03318,3.67889,Entire home/apt,150,2,12,2020-11-04,0.60,1,159
+32037950,n het oude centrum van Gent,4739451,Lieve,,Elisabethbegijnhof - Papegaai,51.05391,3.7177,Entire home/apt,100,5,0,,,2,362
+32063662,k1a: Luxury apartment with terrace in Ghent city,149211444,Jan-Pieter,,Binnenstad,51.05589,3.72765,Entire home/apt,69,1,184,2020-11-02,8.41,6,261
+32210819,Appartement 2 chambres 2 Sdb tout en couleurs,55085840,Claire,,Elisabethbegijnhof - Papegaai,51.05475,3.70954,Entire home/apt,80,4,1,2019-04-08,0.05,3,0
+32330005,Bright studio -  private bathroom and river view,3413491,Kristof,,Watersportbaan - Ekkergem,51.04666,3.71646,Private room,62,1,74,2020-06-27,3.37,1,211
+32354302,"Central Classy App 4p, free Coffeehouse Breakfast",22195789,Thomas,,Elisabethbegijnhof - Papegaai,51.05344,3.71639,Entire home/apt,46,1,40,2020-09-19,2.08,4,343
+32397862,Bright and spacious studio near the city centre,32658248,Helene,,Muide - Meulestede - Afrikalaan,51.08164,3.72825,Entire home/apt,60,2,19,2019-10-09,0.92,1,176
+32470689,lightfull apartment with an arty touch,16013336,Inge,,Sint Amandsberg,51.06459,3.74838,Entire home/apt,60,2,6,2020-01-02,0.34,1,0
+32534916,"Penthouse with sunny terrace, ideal for expats!",5883895,Annelore,,Dampoort,51.0494,3.74487,Entire home/apt,77,15,8,2019-09-30,0.51,4,0
+32624364,Cosy room near the centre of Ghent,222854583,Florent,,Sluizeken - Tolhuis - Ham,51.06295,3.72474,Private room,32,2,90,2020-10-01,4.29,1,144
+32665151,privat family home in car-free street,15384096,Charlotte,,Brugse Poort - Rooigem,51.05445,3.69989,Entire home/apt,69,3,2,2020-07-23,0.10,1,128
+32695833,Private room in cosy and colourful home #2,45160327,Justine,,Binnenstad,51.03731,3.73383,Private room,35,2,93,2020-11-15,4.33,3,79
+32712651,Uniek eigenwijs appartement,245937701,Jolien,,Sint Amandsberg,51.07363,3.74715,Entire home/apt,50,2,2,2020-10-18,1.05,1,90
+32808285,Design Loft near the city of Ghent,246803446,Donald,,Oud Gentbrugge,51.04322,3.75178,Entire home/apt,124,2,49,2020-09-19,2.42,2,0
+32890355,b1b: Luxury apartment with terrace in center Ghent,149211444,Jan-Pieter,,Binnenstad,51.05509,3.72598,Entire home/apt,69,1,117,2020-09-29,5.58,6,234
+32983605,Cosy spacious room in historic townhouse,8510488,Romée,,Sluizeken - Tolhuis - Ham,51.05967,3.7188,Private room,60,2,38,2020-03-08,1.85,1,62
+33061263,Nice room in the center of Ghent.,175099707,Mari-Lou,,Binnenstad,51.05298,3.73351,Private room,58,1,53,2020-07-16,3.35,1,144
+33071422,Citycenterhouse at Elisabeth-Begijnenhof!,248889667,Louis,,Elisabethbegijnhof - Papegaai,51.05715,3.71389,Entire home/apt,82,1,4,2020-07-16,0.23,2,90
+33137223,Fully furnished private bedroom,42442313,Metwally,,Stationsbuurt Noord,51.03955,3.70918,Private room,42,2,16,2020-08-15,0.79,2,364
+33161918,spacious room with a balcony and water views,207704418,Ilona,,Ledeberg,51.04119,3.73989,Private room,50,2,61,2020-08-16,2.98,1,90
+33205272,PATERSHOL top location - Spacious accomodation!,250018142,Philip,,Binnenstad,51.05801,3.72464,Entire home/apt,128,2,45,2020-08-06,2.24,1,340
+33213373,"Villa Leona, luxurious short stay near Ghent.",250069983,Herbert,,Sint Denijs Westrem,51.02969,3.66605,Entire home/apt,150,2,11,2020-08-11,0.67,2,180
+33266962,Ruim appartement met terras in Gent centrum,250505171,Jos,,Elisabethbegijnhof - Papegaai,51.04906,3.71742,Entire home/apt,75,2,65,2020-09-13,3.25,1,180
+33383042,Woonboot met 2 slaapkamers en suite,251490409,Jan,,Muide - Meulestede - Afrikalaan,51.065,3.73755,Private room,100,2,27,2020-08-23,1.47,1,6
+33413162,Lovely ground floor apartment with little garden,40892486,Aileen & Kilian,,Sluizeken - Tolhuis - Ham,51.06649,3.73107,Entire home/apt,70,1,35,2020-08-03,1.75,1,46
+33421135,Cosy spacious bright duplex-penthouse CITY CENTER,72083052,Emilie,,Binnenstad,51.0501,3.72708,Entire home/apt,49,1,93,2020-11-25,4.74,1,0
+33506873,Gezellige B&B Gent centrum privebadkamer (max 5p),1823135,Ruth,,Bloemekenswijk,51.06949,3.70165,Private room,100,1,2,2019-07-28,0.10,4,365
+33507433,B&B 1 uit de 100,1823135,Ruth,,Bloemekenswijk,51.06809,3.70205,Private room,100,1,0,,,4,365
+33626760,Quirky home+terrace in the heart of medieval Ghent,3950280,Annelien,,Elisabethbegijnhof - Papegaai,51.05837,3.71794,Entire home/apt,85,1,39,2020-10-18,2.22,1,43
+33629395,Lux Apt in Historic City Centre of Ghent,85785507,Edward,,Binnenstad,51.05669,3.72279,Entire home/apt,95,2,66,2020-10-31,3.55,5,362
+33849542,Private Room & Bathroom with cozy terrace in Ghent,8010592,Anneleen,,Gentbrugge,51.03354,3.76138,Private room,33,2,28,2020-10-25,1.71,1,40
+33983921,Villa Green Ghent: 2 rooms - 1 to 8 guests,256604449,Martine,,Drongen,51.047,3.62351,Private room,45,1,10,2020-07-26,0.51,2,179
+34015953,comfortable accommodation in heart of Ghent city.,151641541,Hamed,,Binnenstad,51.04771,3.73155,Entire home/apt,85,1,13,2020-02-09,1.14,1,61
+34161168,Beautiful villa in quiet area next to Ghent center,257926742,Annelies,,Sint Denijs Westrem,51.01444,3.66804,Entire home/apt,89,9,5,2020-08-06,0.32,1,0
+34203930,City center restplace,15119292,Janos,,Binnenstad,51.05434,3.73257,Private room,150,1,22,2020-01-18,1.18,1,0
+34311781,boho and bright Appa in ghent centre!,11729717,Inge,,Elisabethbegijnhof - Papegaai,51.0515,3.71275,Entire home/apt,100,2,10,2019-06-29,0.52,1,144
+34387482,L' atique,1203507,Jurgen & Tom,,Macharius - Heirnis,51.05642,3.73644,Entire home/apt,49,1,23,2020-11-23,5.75,2,65
+34444280,b2b: Luxury apartment in the heart of Ghent city.,149211444,Jan-Pieter,,Binnenstad,51.05556,3.72755,Entire home/apt,69,1,127,2020-11-12,6.89,6,240
+34458081,Spacious 3-flour house with waterside view,16159743,Eli,,Mariakerke,51.0721,3.68649,Entire home/apt,98,2,7,2020-08-08,0.42,1,0
+34490658,Spacious room in cosy town house,68684526,Karlijn,,Dampoort,51.05161,3.74592,Private room,39,1,18,2020-10-17,0.97,1,65
+34527811,Room with private bathroom in remodeled house :-),69149372,Riet,,Macharius - Heirnis,51.05135,3.74195,Private room,55,1,37,2020-11-08,7.55,1,258
+34669055,stylish 1bedroom apartment 70m2 in town,9278844,Erika,,Sluizeken - Tolhuis - Ham,51.06893,3.73024,Entire home/apt,130,3,0,,,1,11
+34677191,"Magnificent & big mansion apartment, top location!",64506861,Denny,,Binnenstad,51.04383,3.73,Private room,70,1,21,2020-02-24,1.18,2,352
+34743360,Home,15714372,Els,,Sluizeken - Tolhuis - Ham,51.0597,3.71679,Entire home/apt,135,2,1,2019-07-21,0.06,2,360
+34882836,Prachtige penthouse in hartje Gent,133404776,Femke,,Sluizeken - Tolhuis - Ham,51.06841,3.7284,Entire home/apt,185,2,2,2020-02-23,0.12,3,0
+34886231,Gezellige Studio in hartje Gent,133404776,Femke,,Sluizeken - Tolhuis - Ham,51.06895,3.72983,Entire home/apt,80,2,0,,,3,339
+34935126,Exclusive Penthouse in Ghent,246803446,Donald,,Nieuw Gent - UZ,51.02796,3.73178,Entire home/apt,174,2,19,2020-03-18,1.10,2,0
+35076515,Minimalistic House Near Ghent,264225624,Femke,,Mariakerke,51.07711,3.68775,Entire home/apt,109,2,9,2019-12-27,0.53,1,365
+35119421,Bright and large apartment near city center,264523768,Glenn,,Stationsbuurt Noord,51.03743,3.70785,Entire home/apt,75,2,21,2020-07-26,1.14,1,0
+35131913,private room near sint pieters station,264621573,Ahmed,,Nieuw Gent - UZ,51.02011,3.71528,Private room,32,2,16,2020-10-18,0.91,2,179
+35143599,"Maison Etienne, luxurious short stay near Ghent.",250069983,Herbert,,Sint Denijs Westrem,51.0297,3.66659,Entire home/apt,150,2,28,2020-08-19,1.61,2,0
+35179322,Rose House B&B - Standard Single Room,264917270,Galeh,,Sint Denijs Westrem,51.01942,3.68886,Private room,73,1,1,2019-08-08,0.06,5,365
+35263007,Rose House B&B - Studio,264917270,Galeh,,Sint Denijs Westrem,51.01925,3.69081,Private room,146,1,0,,,5,365
+35264383,Rose House B&B - Standard Double Room,264917270,Galeh,,Sint Denijs Westrem,51.02063,3.68985,Private room,126,1,0,,,5,365
+35264564,Rose House B&B - Budget Room,264917270,Galeh,,Sint Denijs Westrem,51.01904,3.69068,Private room,107,1,1,2020-07-12,0.22,5,362
+35279903,"Box in a Box (Beam)  -  A rural gift, open it!",242219560,Christoph,,Drongen,51.03928,3.67761,Entire home/apt,190,3,5,2020-07-31,0.28,2,151
+35297611,"Box in a Box (Cube) - a rural gift, open it!",242219560,Christoph,,Drongen,51.04004,3.67781,Entire home/apt,90,3,5,2020-07-31,0.32,2,175
+35392774,Room near to the city with terrace,44363476,Ann,,Macharius - Heirnis,51.04705,3.74456,Private room,35,1,68,2020-11-25,3.93,2,365
+35410696,Prachtig ruim appartement in Gent,75272848,Sabrina,,Rabot  - Blaisantvest,51.06518,3.71124,Entire home/apt,200,2,2,2020-08-09,0.18,1,356
+35546962,Private room with parkview near Gravensteen,20694031,Dimitri,,Elisabethbegijnhof - Papegaai,51.05629,3.71455,Private room,49,1,42,2020-08-16,2.40,4,0
+35562009,Cosy room in ECO  VILLA fietsafstand Gent city,6976593,Hilde,,Mariakerke,51.07327,3.69169,Private room,49,2,3,2020-02-24,0.18,2,319
+35597321,Entire cosy house in the cosy town of Ghent.,267809519,Caroline,,Moscou - Vogelhoek,51.02619,3.7657,Entire home/apt,45,5,1,2019-12-09,0.08,1,329
+35633932,Spacious house full of light,82259606,Griet,,Muide - Meulestede - Afrikalaan,51.07414,3.73018,Entire home/apt,120,3,6,2019-10-27,0.36,1,4
+35645026,"Spacious, quality bedroom in city centre Ghent!",268154207,Sander,,Binnenstad,51.04744,3.72392,Private room,49,2,48,2020-09-05,2.88,1,90
+35710223,Private room with parkview in city center,20694031,Dimitri,,Elisabethbegijnhof - Papegaai,51.05661,3.71472,Private room,49,1,44,2020-03-19,2.53,4,180
+35780860,"Renovated, Perfectly Located 1 Bedroom Apartment",161430995,Miel,,Binnenstad,51.04515,3.72274,Entire home/apt,90,4,18,2020-08-11,1.34,1,0
+35800034,50/60's vintage BelEtage near city Centre of Ghent,88314026,Samir,,Rabot  - Blaisantvest,51.06173,3.70701,Entire home/apt,150,1,4,2019-09-23,0.25,1,178
+35887480,cosy room in city centre,269939486,Leonard,,Binnenstad,51.05133,3.73241,Hotel room,46,1,43,2020-07-26,2.50,1,365
+35907336,NEW 2 Bedroom Apartment with Private Parking!,38086078,Jonas,,Binnenstad,51.05582,3.73102,Private room,24,30,10,2020-03-08,0.58,4,0
+35940441,Ruime suite in herenhuis met zonnig privé terras,270331939,Christophe,,Elisabethbegijnhof - Papegaai,51.05472,3.71738,Entire home/apt,145,1,1,2020-01-04,0.09,1,360
+36060793,"Spacious house near Ghent, near park/walking paths",11816747,Nele,,Oud Gentbrugge,51.04555,3.75747,Entire home/apt,120,2,21,2020-08-12,1.24,1,197
+36062226,Gezellige kamer in gerenoveerd huisje.,57152098,Lieselotte,,Sint Amandsberg,51.07275,3.75545,Private room,25,2,14,2020-11-05,0.81,1,365
+36126903,Your own 18th century attic in the center of Ghent,53135103,Akira & Aris,,Sluizeken - Tolhuis - Ham,51.0595,3.72082,Entire home/apt,65,1,156,2020-10-11,9.14,3,82
+36173740,nice and calm room,264621573,Ahmed,,Nieuw Gent - UZ,51.02119,3.71435,Private room,31,2,9,2020-01-20,0.52,2,364
+36225818,Separate and private Bed- & Bathroom in city house,25748959,Joachim & Sarah,,Binnenstad,51.03669,3.73246,Private room,42,2,25,2020-09-06,1.50,1,87
+36229418,Cosy house in the center of Gent,272490259,Stefaan,,Sluizeken - Tolhuis - Ham,51.06081,3.71614,Entire home/apt,75,2,53,2020-11-22,3.07,1,83
+36261647,Spacious house with wonderful garden,38642676,Mieke,,Mariakerke,51.07516,3.68823,Entire home/apt,125,5,0,,,1,87
+36285608,Ghent - the place to be...! The Blue Room,272913310,Ayesha,,Brugse Poort - Rooigem,51.0625,3.69933,Private room,21,2,14,2020-02-24,0.83,5,319
+36291731,"studio medieval city center at river ""de Leie""",272946154,Guido,,Binnenstad,51.05245,3.72109,Entire home/apt,85,1,67,2020-09-23,4.09,1,356
+36332088,"Magnificent mansion studio & terrace,top location!",64506861,Denny,,Binnenstad,51.0417,3.729,Private room,55,2,9,2019-08-15,0.54,2,343
+36369393,Chambre 2 pers. dans maison / Bedroom 2 persons,273485872,Vincent,,Sint Amandsberg,51.07495,3.78161,Private room,24,5,6,2020-09-30,0.43,1,177
+36410036,Edville Studio Appartement (9p),414263,Edward En Daphné,,Binnenstad,51.03787,3.73042,Entire home/apt,215,2,3,2020-01-19,0.20,10,78
+36410307,Edville Studio Duplex A303 (2p-4p),414263,Edward En Daphné,,Elisabethbegijnhof - Papegaai,51.05434,3.71742,Entire home/apt,92,2,4,2020-02-23,0.33,10,0
+36437683,Ghent - the place to be! The Cactus Room,272913310,Ayesha,,Brugse Poort - Rooigem,51.06417,3.69895,Private room,23,1,6,2020-11-14,1.82,5,364
+36481298,Rustig gelegen in het bruisende centrum van Gent!,208428872,An,,Elisabethbegijnhof - Papegaai,51.05028,3.71569,Entire home/apt,98,1,11,2020-08-07,0.67,1,54
+36503556,Visiting Gent! save money! many options to enjoy!,274438998,Moutasem,,Stationsbuurt Noord,51.03468,3.72691,Shared room,25,1,13,2020-07-21,0.92,1,0
+36516126,ROOF TOP STUDIO MET ZICHT OP DE DRIE TORENS,1864346,Rebecca,,Sluizeken - Tolhuis - Ham,51.06449,3.72655,Entire home/apt,89,6,7,2020-02-21,0.47,1,365
+36585025,Newly Renovated Cosy Apartment in City Center,105326422,Matthias,,Binnenstad,51.05812,3.7206,Entire home/apt,99,2,25,2020-10-17,1.52,3,0
+36592536,Deluxe Double/Twin Room in the city centre,275037604,Iman,,Elisabethbegijnhof - Papegaai,51.05434,3.71742,Hotel room,62,1,11,2020-08-25,0.78,1,14
+36655362,Private room in the garden of our townhouse.,39351681,Nathalie,,Sluizeken - Tolhuis - Ham,51.06446,3.73423,Private room,55,1,38,2020-08-16,2.27,1,0
+36679101,sunny townhouse in Gent,10165213,Tom,,Watersportbaan - Ekkergem,51.04998,3.70803,Private room,72,2,20,2020-03-15,1.25,1,5
+36690478,gerenoveerd appartement centrum Gent,122532371,Ines,,Binnenstad,51.04565,3.73088,Entire home/apt,95,2,16,2020-07-19,1.00,1,364
+36716346,Casa Gante 9000 with garden and covered terrace!,9479589,Frederik,,Binnenstad,51.03792,3.73216,Entire home/apt,89,2,24,2020-03-08,1.43,1,174
+36762511,Deluxe Suite,36157906,Dirk,,Stationsbuurt Noord,51.03716,3.72777,Private room,154,2,3,2019-11-17,0.19,2,364
+36792180,House in historical center of Ghent,248889667,Louis,,Elisabethbegijnhof - Papegaai,51.05588,3.71309,Private room,120,1,0,,,2,90
+36830912,"Big & artistic, cool garden, close 2 center Ghent",20799688,Sarah,,Sluizeken - Tolhuis - Ham,51.06818,3.72965,Entire home/apt,59,1,6,2020-08-28,0.54,1,3
+36837738,"cosy, bright & spacious room for 1 or 2",274550012,Inge,,Moscou - Vogelhoek,51.02474,3.75562,Private room,39,2,15,2020-08-25,0.92,1,213
+36873204,"Luxurious sunny apartment, ideal for expats!",5883895,Annelore,,Macharius - Heirnis,51.04934,3.74413,Entire home/apt,79,14,0,,,4,364
+36900492,Modern and comfortable apartment,75715085,Lien,,Ledeberg,51.02777,3.74732,Entire home/apt,100,2,3,2019-08-31,0.19,1,283
+36902220,Modern apartment close to Flanders Expo,218641024,Roger,,Sint Denijs Westrem,51.02963,3.69137,Entire home/apt,60,2,11,2020-11-10,0.75,1,357
+36957013,Small private room on second floor,20694031,Dimitri,,Elisabethbegijnhof - Papegaai,51.05769,3.71334,Private room,43,1,12,2020-10-25,0.75,4,89
+36958475,Large private room on ground level in city center,20694031,Dimitri,,Elisabethbegijnhof - Papegaai,51.05591,3.71253,Private room,49,1,14,2020-01-04,0.85,4,89
+36967902,Comfortable near city centre,274983184,Tahir,,Elisabethbegijnhof - Papegaai,51.0513,3.71661,Private room,27,30,1,2019-12-31,0.09,1,34
+36992778,"Appartement, centrum, uitzicht op Belfort+parking!",278123871,Trees,,Binnenstad,51.05602,3.72788,Entire home/apt,160,2,9,2020-02-17,0.65,1,150
+36998317,Big and beautiful house at Citadelpark,277634214,Angela,,Stationsbuurt Noord,51.04095,3.71903,Entire home/apt,169,2,19,2020-07-14,1.25,1,179
+37172815,"studio met dubbel bed, kitchenette, privé badkamer",277207975,Viki,,Dampoort,51.04796,3.74933,Entire home/apt,62,1,31,2020-08-23,1.95,1,347
+37243655,Classy Apartment in City Center with Large Balcony,280394189,Jan,,Binnenstad,51.0483,3.73296,Entire home/apt,110,2,25,2020-10-04,1.66,1,0
+37363780,Bright house in the heart of town!,21201341,Wim,,Binnenstad,51.05786,3.72841,Entire home/apt,113,1,37,2020-10-01,2.30,1,0
+37415198,Modern Studio with Whirlpool at Ghent Centrum,2518072,Dwight,,Elisabethbegijnhof - Papegaai,51.05564,3.71106,Private room,85,2,26,2020-10-26,1.67,1,361
+37435966,"Large clean room, quiet area, 4 km to city centre",274154183,Ilse,,Sint Amandsberg,51.07291,3.75601,Private room,27,2,44,2020-10-30,2.78,1,0
+37513843,"B&B Halewijn, zwembad, fietsenverhuur, boottocht.",98312323,B&B Halewijn,,Drongen,51.05261,3.6186,Hotel room,481,1,1,2019-08-15,0.06,1,166
+37517566,Gezellig appartement in rustige omgeving Gent,161538579,Stephen,,Nieuw Gent - UZ,51.01812,3.72523,Entire home/apt,80,1,41,2020-03-14,2.62,1,1
+37619980,Apartment in between Old Centre & Marina of Ghent,284220349,Ellen,,Binnenstad,51.05373,3.73126,Entire home/apt,85,2,47,2020-11-02,3.08,1,326
+37658944,A charming house in Ghent!,245251490,Melissa,,Muide - Meulestede - Afrikalaan,51.08082,3.72916,Entire home/apt,61,2,28,2020-07-28,1.76,1,263
+37846290,Junior Suite Apartment 4P Lord of Ghent,46082978,Vic,,Binnenstad,51.05289,3.72486,Entire home/apt,206,1,1,2019-10-07,0.07,2,355
+37885207,Cosy private Room in residential City Centre house,44367636,Louiza,,Binnenstad,51.05521,3.72776,Private room,112,3,4,2020-03-29,0.27,3,180
+37886518,Luxurious room + terras in residential city centre,44367636,Louiza,,Binnenstad,51.05645,3.72757,Private room,145,2,0,,,3,173
+37887308,Luxe house in the middle of Ghentian City Centre,44367636,Louiza,,Binnenstad,51.05627,3.72598,Entire home/apt,300,1,0,,,3,0
+37896338,Cico's House,265191691,Cihangir,,Sluizeken - Tolhuis - Ham,51.06783,3.72909,Private room,75,2,2,2020-01-02,0.16,1,365
+37984398,Fran's house 3,75712944,Francine,,Oud Gentbrugge,51.03648,3.75353,Private room,60,1,11,2020-01-12,0.75,3,78
+38251780,LucMoon BnB Ledeberg,193703180,Luc,,Ledeberg,51.03621,3.74437,Private room,100,1,17,2020-02-03,1.13,4,365
+38257246,New Penthouse in the Center of Ghent (1),112723296,Roxanne,,Stationsbuurt Noord,51.03654,3.72618,Private room,55,1,10,2020-09-19,0.67,3,157
+38258643,Stylish Rooftop Apartment with Fireplace,176739172,Simon,,Elisabethbegijnhof - Papegaai,51.05693,3.71367,Entire home/apt,39,1,99,2020-12-02,6.69,1,46
+38261340,New Penthouse in the Center of Ghent (2),112723296,Roxanne,,Stationsbuurt Noord,51.0369,3.72658,Private room,65,1,5,2020-03-07,0.33,3,180
+38261373,Namaste Gent - Boho Studio,229595842,Ankush,,Oud Gentbrugge,51.04105,3.74394,Private room,71,1,0,,,1,90
+38261926,New Penthouse in the Center of Ghent,112723296,Roxanne,,Stationsbuurt Noord,51.03652,3.7262,Private room,100,2,23,2020-08-23,1.57,3,179
+38273871,Minimalistic Dream in Ghent (100m2),142524443,Eva,,Macharius - Heirnis,51.04364,3.74025,Entire home/apt,130,2,5,2020-01-13,0.34,1,90
+38289776,LucMoon BnB Ledeberg 4,193703180,Luc,,Ledeberg,51.03556,3.74317,Private room,100,1,1,2019-11-03,0.08,4,365
+38319358,LucMoon BnB Ledeberg 1,193703180,Luc,,Ledeberg,51.03543,3.74406,Private room,100,1,1,2019-11-03,0.08,4,365
+38320217,LucMoon BnB Ledeberg 3,193703180,Luc,,Ledeberg,51.03537,3.7444,Private room,60,1,1,2019-11-24,0.08,4,365
+38340611,New top location in the heart of Ghent!,26793438,Anouk,,Sluizeken - Tolhuis - Ham,51.06319,3.72481,Entire home/apt,110,2,1,2019-10-06,0.07,2,180
+38344954,Master Bedroom in Ghent (8 min. from center),184247171,Nadine,,Sluizeken - Tolhuis - Ham,51.06986,3.7299,Private room,40,2,23,2020-09-20,1.86,2,179
+38345272,Cozy Bedroom in Ghent (8 min. from center),184247171,Nadine,,Sluizeken - Tolhuis - Ham,51.06849,3.72923,Private room,35,2,31,2020-11-04,2.57,2,180
+38364922,"Apartment, garage, breakfast 2km from Ghent center",239936326,Ben,,Bloemekenswijk,51.07278,3.71194,Entire home/apt,35,1,38,2020-11-21,2.65,1,74
+38370579,Foulka huisje met tuin en gratis fietsen,44027581,Christoffel,,Mariakerke,51.07684,3.68325,Entire home/apt,70,2,7,2020-07-29,0.54,1,179
+38442541,Uniek prachtig gelegen verblijf te Gent-centrum,285200829,Judith M.J.,,Rabot  - Blaisantvest,51.06079,3.71231,Entire home/apt,53,1,22,2020-10-18,1.50,2,0
+38506115,Ghent - the place to be The Cactus Room 2pax,272913310,Ayesha,,Brugse Poort - Rooigem,51.06351,3.69898,Private room,50,1,3,2020-02-17,0.23,5,0
+38516966,"Spacious room in Art-deco House, Top Location",32505070,Agnör,,Binnenstad,51.05627,3.72933,Private room,75,2,41,2020-09-23,2.84,2,346
+38539182,b3b: Big luxury apartment in the City Center,149211444,Jan-Pieter,,Sluizeken - Tolhuis - Ham,51.06713,3.72812,Entire home/apt,61,1,89,2020-11-23,6.07,6,248
+38580016,"Bright top floor in Art-deco house, Top location!",32505070,Agnör,,Binnenstad,51.05664,3.72785,Entire home/apt,190,2,0,,,2,364
+38611254,Artist Loft,83766425,Erik,,Elisabethbegijnhof - Papegaai,51.04787,3.71877,Entire home/apt,120,2,0,,,2,365
+38658437,"The Hamptons Boutique B&B, the hidden gem in Ghent.",292144823,Karl,,Elisabethbegijnhof - Papegaai,51.05354,3.71642,Hotel room,124,1,1,2020-09-05,0.36,3,353
+38658998,"23 m2 room with fancy bath tub/shower, king size bed and street view",292144823,Karl,,Elisabethbegijnhof - Papegaai,51.05495,3.71716,Hotel room,133,1,5,2020-08-15,0.45,3,0
+38659038,Room 25 m2 with King Size bed and garden view.,292144823,Karl,,Elisabethbegijnhof - Papegaai,51.05372,3.7182,Hotel room,124,1,1,2020-08-03,0.26,3,0
+38774894,Charming City Studio in the Heart of Ghent,35997275,Angelo & Lexi,,Elisabethbegijnhof - Papegaai,51.05705,3.71838,Entire home/apt,33,1,114,2020-11-15,7.81,1,44
+38779697,The Future House 2.0 Apartment 101,3438311,Andre,,Wondelgem,51.09374,3.7173,Entire home/apt,75,4,5,2020-08-28,0.45,3,172
+38813297,"M/S Carpe-Diem ""Cargo Hold"" - Loft on a Barge",49858029,Filip,,Muide - Meulestede - Afrikalaan,51.06295,3.73793,Entire home/apt,100,4,10,2020-08-30,0.86,2,363
+38835844,"Cosy, private room at the Portus Ganda",111773065,Stijn,,Macharius - Heirnis,51.05307,3.73619,Private room,45,1,17,2020-07-21,1.52,1,176
+38859052,Stay aboard our 1914 Dutch Klipperaak,217169759,Nats,,Elisabethbegijnhof - Papegaai,51.04907,3.71919,Private room,95,2,13,2020-03-14,0.93,1,17
+38870436,Perfect place to stay,244691548,Angelina,,Binnenstad,51.04282,3.73823,Private room,35,1,40,2020-02-27,2.86,1,46
+38928268,Cosy family house with garden near Ghent,94384255,Nele,,Wondelgem,51.09351,3.70873,Entire home/apt,125,3,6,2020-08-10,0.45,1,40
+38942469,Spacious App in the center of Gent with mini gym,201859498,Tanguy,,Elisabethbegijnhof - Papegaai,51.05699,3.71609,Entire home/apt,127,3,8,2020-08-23,0.68,2,0
+39009837,Cozy room with bikes,48163857,Anouchka,,Watersportbaan - Ekkergem,51.04977,3.70692,Private room,36,2,23,2020-09-16,1.99,1,0
+39019516,Mooie hippe B&B in Gent,1823135,Ruth,,Watersportbaan - Ekkergem,51.04703,3.71209,Private room,90,1,0,,,4,0
+39055847,The Green Room,299333776,Antoaneta,,Dampoort,51.05559,3.74514,Private room,38,2,13,2020-10-01,0.94,5,180
+39056583,The Yellow Room,299333776,Antoaneta,,Dampoort,51.05521,3.74397,Private room,38,2,7,2020-03-09,0.50,5,180
+39057016,The Flower room,299333776,Antoaneta,,Dampoort,51.05392,3.74473,Private room,30,2,8,2020-09-05,0.56,5,179
+39095679,New bright appartment in the heart of Ghent!,26793438,Anouk,,Sluizeken - Tolhuis - Ham,51.06132,3.72462,Entire home/apt,140,2,8,2020-03-09,0.58,2,112
+39125548,Duplex Apt in City Centre with Terrace,85785507,Edward,,Binnenstad,51.05605,3.72288,Entire home/apt,102,2,23,2020-08-28,1.77,5,270
+39171497,A bright private bedroom in the city centre,300515443,Greg And Mink,,Elisabethbegijnhof - Papegaai,51.04893,3.71738,Private room,51,1,81,2020-10-11,5.91,1,158
+39187321,"Modern, gerenoveerd, top ligging",300687723,Antonina,,Stationsbuurt Noord,51.03729,3.70613,Private room,53,1,5,2020-09-17,1.09,1,36
+39246781,Karaktervol huisje bij Sint-Baafs.,301273084,Sabine,,Binnenstad,51.05323,3.72817,Private room,75,2,10,2020-03-15,0.77,1,0
+39286787,Cosy Clockhouse Studio Ideal to Visit Gent,85785507,Edward,,Binnenstad,51.05648,3.72284,Entire home/apt,65,2,18,2020-09-20,1.36,5,179
+39299235,Deluxe double room,36157906,Dirk,,Stationsbuurt Noord,51.03791,3.72907,Private room,112,5,5,2020-01-02,0.39,2,365
+39305216,Shelter 7 - your hideout for Oikofilia,86368262,Vincent,,Binnenstad,51.05181,3.72441,Entire home/apt,107,1,28,2020-11-06,2.08,2,339
+39349156,room 5 minutes far from train station and centrum,302250589,Ahmad,,Dampoort,51.05394,3.74447,Private room,44,1,0,,,1,179
+39408106,Mooi appartement te Gent,154673849,Samia,,Ledeberg,51.03625,3.73544,Entire home/apt,175,6,0,,,2,88
+39430324,Beautiful & Spacious Private room in City Center I,126654940,Marieke,,Elisabethbegijnhof - Papegaai,51.04957,3.71876,Private room,60,2,6,2020-08-23,0.63,2,180
+39434643,Charming & Spacious Private room in City Center II,126654940,Marieke,,Elisabethbegijnhof - Papegaai,51.04796,3.71875,Private room,60,2,0,,,2,180
+39454159,Penthouse Studio Apartment,54437009,Katrīna,,Binnenstad,51.04538,3.72315,Entire home/apt,80,2,12,2020-08-27,0.92,1,364
+39494752,A warm home in Gent Ledeberg,28088896,Olga,,Ledeberg,51.03146,3.74847,Entire home/apt,78,2,0,,,1,0
+39495089,Studio Black Cat — Ghent downtown,60649412,Pieter,,Binnenstad,51.04242,3.73772,Entire home/apt,65,2,34,2020-09-19,2.54,1,152
+39499535,Private room in city house (with 2 bikes),30206560,Ewout,,Brugse Poort - Rooigem,51.06571,3.69855,Private room,26,2,32,2020-10-08,2.41,3,87
+39502878,Modern suite in my flat 10 min city Tram 4,55085840,Claire,,Watersportbaan - Ekkergem,51.05383,3.70869,Private room,50,1,10,2020-10-12,0.87,3,36
+39503145,New cozy studio near Bourgoyen Park,9590591,Andries,,Mariakerke,51.06875,3.69041,Private room,39,2,17,2020-09-16,1.36,1,0
+39550902,The Future House 2.0 Apartment 201,3438311,Andre,,Wondelgem,51.09187,3.71578,Entire home/apt,75,4,1,2020-08-15,0.27,3,179
+39581213,Private modern room/double-bed/Ghent city center,77653976,Laurens,,Brugse Poort - Rooigem,51.05593,3.69804,Private room,50,1,50,2020-10-18,4.30,2,172
+39600259,Hermes Appartment,294529394,Hermes,,Elisabethbegijnhof - Papegaai,51.05411,3.71627,Entire home/apt,145,1,2,2019-12-31,0.16,1,178
+39600517,House in landscaped park and 10th century  canal,3438311,Andre,,Wondelgem,51.09292,3.71548,Entire home/apt,85,4,0,,,3,0
+39624011,The Big Room,299333776,Antoaneta,,Dampoort,51.05472,3.74339,Private room,38,2,4,2020-03-16,0.31,5,179
+39624584,The Grey/Rose Room,299333776,Antoaneta,,Dampoort,51.05398,3.74502,Private room,37,2,3,2020-02-22,0.25,5,180
+39708742,Enjoy the Versace room in the heart of the city,303596967,Leonard,,Binnenstad,51.05505,3.73233,Entire home/apt,56,1,14,2020-10-09,1.09,1,363
+39712815,Cozy room with terrace close to the center,26291239,Gwendolien,,Binnenstad,51.04294,3.73601,Private room,57,2,4,2019-12-01,0.31,1,90
+39719175,"XLSR, lightfull garden apartment, perfect location",305266899,Alexander,,Binnenstad,51.05652,3.73176,Entire home/apt,111,2,25,2020-09-20,1.92,1,0
+39768485,Student room in the city center of Ghent,179012588,Yilka,,Elisabethbegijnhof - Papegaai,51.05158,3.714,Private room,25,2,9,2020-10-18,0.72,1,29
+39787793,Private room in a house near Sint-Pieters station,28867619,Sos,,Stationsbuurt Noord,51.0421,3.70944,Private room,50,1,5,2020-09-30,0.40,1,0
+39879912,Art-deco townhouse in Gent,4434842,Simon & Robin,,Stationsbuurt Noord,51.03932,3.70661,Entire home/apt,230,3,0,,,2,0
+39909772,Spacious house with garden,7852111,Abe,,Sint Amandsberg,51.07476,3.7602,Entire home/apt,185,4,3,2020-08-08,0.27,1,0
+40025072,Rustige kamer tussen een natuurreservaat en Gent.,31096176,Mieke,,Brugse Poort - Rooigem,51.06517,3.69257,Private room,29,1,18,2020-10-24,1.68,1,16
+40096777,Uniek prachtig gelegen verblijf te Gent-centrum,285200829,Judith M.J.,,Rabot  - Blaisantvest,51.05994,3.71309,Entire home/apt,59,1,5,2020-07-26,0.51,2,0
+40373016,Nest in Gent,312061244,Tanja,,Macharius - Heirnis,51.05035,3.74042,Entire home/apt,120,4,1,2020-01-02,0.09,1,89
+40399085,"Sweet room, Chic area, Free park, 7m 2 city center",12489130,Inbar,,Mariakerke,51.07171,3.68241,Private room,34,1,50,2020-11-14,4.13,1,135
+40463672,Quartier Leonard II - Michelangelo Suite,109991056,Léonard En Mercutio,,Binnenstad,51.05652,3.73188,Private room,57,1,5,2020-08-21,0.42,4,363
+40466415,Cosy room and private bathroom,17449255,Sebastien,,Sint Amandsberg,51.06697,3.75025,Private room,52,1,12,2020-09-27,1.40,1,134
+40531077,Urban Loft | A unique spot to start your discovery,26460794,Anissa,,Dampoort,51.05632,3.73992,Entire home/apt,58,2,3,2020-09-20,0.87,2,180
+40586271,b3a: Luxury apartment with terrace in city center,149211444,Jan-Pieter,,Binnenstad,51.05489,3.72725,Entire home/apt,69,1,71,2020-11-22,6.12,6,258
+40606336,Cosy duplex  apartment up to 6 guests,58332666,Gaby,,Sluizeken - Tolhuis - Ham,51.06553,3.72232,Entire home/apt,135,1,29,2020-08-18,2.40,1,62
+40628156,Studio Gent,123414579,An,,Stationsbuurt Noord,51.03577,3.71543,Entire home/apt,55,2,2,2020-11-22,0.18,2,95
+40663747,Spacious first floor house with homely feeling,87717504,Jo,,Gentbrugge,51.03018,3.77079,Entire home/apt,95,3,3,2020-01-18,0.27,1,85
+40666799,Kamer met terras in ruim en lichtrijk appartement,3582929,Maggy,,Watersportbaan - Ekkergem,51.05474,3.70689,Private room,104,1,1,2019-12-24,0.09,1,0
+40721207,"Welcome to the JV40, designed by F. Van Severen",316088384,Els,,Elisabethbegijnhof - Papegaai,51.05845,3.71142,Entire home/apt,80,2,14,2020-11-22,1.24,1,333
+40745409,Design appartment + Garage,316383794,Thomas,,Binnenstad,51.04035,3.73812,Entire home/apt,95,2,4,2020-02-07,0.36,1,144
+40779336,Condo 'Cocoon deluxe' at old centre of Ghent,38071391,Matthias,,Elisabethbegijnhof - Papegaai,51.05259,3.71693,Entire home/apt,50,2,55,2020-11-08,4.84,2,348
+40781443,Duplex APP. 'Cocoon deluxe' at old centre of Ghent,38071391,Matthias,,Elisabethbegijnhof - Papegaai,51.05161,3.71736,Entire home/apt,70,2,26,2020-10-17,2.23,2,65
+40837797,Cosy room with queensize bed in the heart of Ghent,30903498,David,,Elisabethbegijnhof - Papegaai,51.05078,3.71432,Private room,20,3,1,2020-02-10,0.10,1,332
+40865827,Bright studio close to the city center,49952367,Ine,,Dampoort,51.05552,3.74186,Entire home/apt,52,2,15,2020-09-24,1.34,1,6
+40895693,Private stylish room/double-bed/Ghent City Center,77653976,Laurens,,Brugse Poort - Rooigem,51.05564,3.6989,Private room,32,1,29,2020-07-31,2.54,2,0
+40963340,Eco-guesthouse in historisch centrum Gent (C),318935925,Yves,,Binnenstad,51.05261,3.72104,Private room,45,1,1,2020-02-21,0.11,1,272
+41058992,Cozy and private family house in the city,36152908,Nele,,Brugse Poort - Rooigem,51.05972,3.70218,Entire home/apt,147,2,1,2020-02-17,0.10,4,169
+41117678,"NEW: Clean, Modern & Warm Apartment in Gent!",82351640,Riemert,,Watersportbaan - Ekkergem,51.04639,3.70933,Entire home/apt,65,2,0,,,1,168
+41154136,Ground floor apartment with terrace,322361252,Joseph,,Binnenstad,51.05551,3.72955,Entire home/apt,86,3,4,2020-11-01,0.42,1,0
+41172243,Spacious bedroom in the green region of Ghent,66616222,Louise,,Drongen,51.04743,3.62808,Private room,53,1,4,2020-03-16,0.38,1,58
+41206964,Cosy room in the green neighbourhood of Gent,167814774,Priyanka,,Mariakerke,51.082,3.68511,Private room,30,1,4,2020-09-27,0.38,1,90
+41210475,Evelyn's Corner,323376249,Nicole,,Binnenstad,51.05434,3.72286,Entire home/apt,220,1,0,,,1,67
+41358154,"Green, spacious and bright appt in centre of Ghent",325143059,Brecht,,Brugse Poort - Rooigem,51.05862,3.70521,Entire home/apt,99,2,4,2020-09-21,0.47,1,361
+41358375,Sporthostel KRCG Gent,23299904,Simon,,Watersportbaan - Ekkergem,51.04689,3.70369,Shared room,20,2,3,2020-03-01,0.29,1,0
+41429865,Leuke stijlvolle kamer met privé badkamer,325923934,Koen,,Stationsbuurt Noord,51.03835,3.71231,Private room,69,2,10,2020-09-18,1.53,1,365
+41533435,Kleine studio 15min te voet naar stad,139715560,Erick,,Gentbrugge,51.03996,3.76818,Entire home/apt,35,1,3,2020-03-07,0.32,2,316
+41579709,MaisonN is een luxe accommodatie op een TOPlocatie,327673846,Nathalie,,Binnenstad,51.05112,3.7211,Entire home/apt,131,2,7,2020-10-05,0.79,1,252
+41626595,small rhapsody,63264923,Hilde,,Oud Gentbrugge,51.04244,3.7536,Entire home/apt,60,2,7,2020-11-11,0.72,2,0
+41636379,Panoramic apartment next to park,13497008,Brecht,,Watersportbaan - Ekkergem,51.05326,3.70192,Entire home/apt,48,12,0,,,2,109
+41661269,Quiet room in city house (with 2 bikes),30206560,Ewout,,Brugse Poort - Rooigem,51.06577,3.69739,Private room,39,2,1,2020-03-05,0.11,3,75
+41662058,2 cosy rooms in city house (with 4 bikes),30206560,Ewout,,Brugse Poort - Rooigem,51.06437,3.69906,Private room,69,2,1,2020-03-08,0.11,3,87
+41762765,Ghent - the place to be...! The Blue Room,272913310,Ayesha,,Brugse Poort - Rooigem,51.06211,3.69978,Private room,24,1,2,2020-10-04,0.90,5,298
+41783017,The Cover hostel - 3 Rooms 15 beds,152817797,Maxim,,Sluizeken - Tolhuis - Ham,51.06723,3.73029,Private room,375,1,3,2020-03-07,0.31,2,365
+41851198,Ruime kamer (40m2),58086147,Kurt,,Sluizeken - Tolhuis - Ham,51.06252,3.72403,Entire home/apt,60,2,9,2020-08-31,0.90,1,3
+41859450,New hotspot in Gent centre!!!,123920724,Bernard,,Binnenstad,51.05766,3.73094,Entire home/apt,110,2,5,2020-10-02,0.51,1,178
+41893950,Modern home on a boat w/ free parking & wifi,331279977,Quinten,,Wondelgem,51.07009,3.72617,Entire home/apt,65,2,46,2020-11-22,4.73,1,149
+41900526,Gezellig woonhuis in Gent,331332549,Claire,,Sint Denijs Westrem,51.01804,3.66296,Entire home/apt,80,2,0,,,1,0
+41921149,JunoBoat floating  accommodation on the water,193583328,Elien,,Binnenstad,51.03807,3.7309,Entire home/apt,300,2,3,2020-08-23,0.73,1,169
+41927500,Imagine! Sleeping in the centre of Medieval Ghent,8334528,Evelien,,Elisabethbegijnhof - Papegaai,51.05646,3.71866,Entire home/apt,111,2,34,2020-11-25,3.67,1,128
+41931884,TIJDELIJKE HUISVESTING expats,325545507,Jody,,Sint Denijs Westrem,51.02231,3.66507,Entire home/apt,41,6,0,,,2,363
+42013763,Be our next Guest i!n Ghent,332890513,Dieter,,Wondelgem,51.08709,3.68964,Private room,60,1,0,,,1,90
+42108027,Smartflats Ghent Central 201 - 2 Bed Duplex Terr,2792958,Alex,,Binnenstad,51.05246,3.72147,Entire home/apt,174,1,2,2020-08-02,0.38,1,302
+42137632,Grote Slaapzaal,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05409,3.71842,Private room,254,1,4,2020-09-03,0.43,12,269
+42137651,Treck Hostel - Mixed dorm small,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.0554,3.71822,Private room,127,1,4,2020-06-21,0.43,12,0
+42137793,Mini caravan,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05373,3.71634,Private room,59,1,3,2020-06-27,0.35,12,0
+42137828,Up caravan,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05363,3.71781,Private room,82,1,3,2020-08-07,0.73,12,274
+42137858,Biky caravan,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05476,3.71843,Private room,93,1,0,,,12,278
+42137884,Hawaii caravan,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05395,3.71693,Private room,60,1,0,,,12,267
+42137927,Retro caravan,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05336,3.71658,Private room,60,1,1,2020-07-13,0.22,12,270
+42138387,Birdsnest,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05356,3.71666,Private room,60,1,0,,,12,272
+42138457,Zen caravan,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05377,3.71813,Private room,93,1,0,,,12,273
+42138495,Beach caravan,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05473,3.71633,Private room,93,1,0,,,12,269
+42138512,Betty caravan,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05518,3.71679,Private room,93,1,0,,,12,277
+42138545,Jungle room,302575819,Treck,,Elisabethbegijnhof - Papegaai,51.05342,3.71831,Private room,122,1,1,2020-07-14,0.22,12,274
+42151009,Nieuwe garden house met zicht op het bos.,334471431,Frederik,,Drongen,51.06761,3.63401,Entire home/apt,60,1,15,2020-10-25,1.58,1,67
+42166580,Welcome in Ghent: private newly renovated house,36152908,Nele,,Brugse Poort - Rooigem,51.0589,3.70243,Entire home/apt,90,2,0,,,4,167
+42166739,Comfortable private modern house in the city,36152908,Nele,,Brugse Poort - Rooigem,51.06077,3.70105,Entire home/apt,120,2,0,,,4,168
+42224404,Double room in historic center of Ghent,996824,Annabell,,Sluizeken - Tolhuis - Ham,51.06049,3.72542,Private room,60,2,1,2020-02-25,0.11,2,365
+42333093,Trendy Apartment as Base to Discover Belgium,85785507,Edward,,Zwijnaarde,50.99966,3.70997,Entire home/apt,80,2,9,2020-09-14,1.07,5,362
+42353100,Cozy and private familyhouse in the city,36152908,Nele,,Brugse Poort - Rooigem,51.0605,3.70146,Entire home/apt,120,2,0,,,4,167
+42444815,Charmante directeurswoning met tuin vlak bij Gent,63999860,Ellen,,Oud Gentbrugge,51.03975,3.75459,Entire home/apt,150,3,3,2020-08-08,0.69,1,0
+42487001,Your home away from home - Gent,7798727,Anelda,,Rabot  - Blaisantvest,51.06555,3.709,Entire home/apt,85,1,1,2020-07-19,0.23,2,13
+42489297,Two private rooms in cosy and colourful home,45160327,Justine,,Binnenstad,51.03797,3.73149,Private room,80,2,6,2020-08-02,0.69,3,79
+42531682,"Heaven@11, a jewel among other historic buildings.",7258638,Ina Karina & Patrick,,Binnenstad,51.05764,3.72266,Entire home/apt,150,3,1,2020-07-13,0.22,3,0
+42549070,Gent centrum: Stadsnest bij Vrijdagmarkt.,72907064,Inge,,Binnenstad,51.05819,3.72531,Entire home/apt,46,7,11,2020-09-24,1.24,1,36
+42617756,Penthouse voor 2 met zicht op skyline van Gent,339496537,Michelle,,Binnenstad,51.0496,3.73167,Entire home/apt,90,2,0,,,1,90
+42644345,"Unieke, centraal gelegen loft",196093700,Diana,,Binnenstad,51.0484,3.72636,Private room,58,2,2,2020-08-09,0.23,1,177
+42650113,Welcome in a cosy place right in the city centre,325914283,Mercutio,,Binnenstad,51.05304,3.73104,Private room,52,1,0,,,1,329
+42661263,Spacious room in shared house #1,56605769,Elke,,Brugse Poort - Rooigem,51.05715,3.69356,Private room,20,2,7,2020-10-16,0.77,2,119
+42662457,Spacious room in shared house #2,56605769,Elke,,Brugse Poort - Rooigem,51.05734,3.692,Private room,31,2,12,2020-10-11,1.36,2,0
+42784518,Penthouse with a view....,9800018,Bernard,,Binnenstad,51.05047,3.72665,Entire home/apt,140,3,0,,,1,180
+42791569,2: Gezellige kamer voor twee personen.,15448712,Floris & Annelies,,Binnenstad,51.03812,3.73263,Private room,65,2,0,,,2,0
+42791670,3: Gezellige studio voor twee personen.,15448712,Floris & Annelies,,Binnenstad,51.03959,3.73411,Private room,75,2,0,,,2,89
+42823236,★ Brand new stylish penthouse  w A/C near centre ★,341071889,Kit Teng,,Macharius - Heirnis,51.05159,3.73868,Entire home/apt,79,2,9,2020-11-04,2.06,3,242
+42824809,Cozy stay in the Historic centre of Ghent,28517059,Astrid & Gilles,,Binnenstad,51.05643,3.72302,Entire home/apt,87,1,14,2020-11-18,5.12,3,363
+42825215,Beautiful 2-bedroom apartment i.t. centre of Ghent,28517059,Astrid & Gilles,,Binnenstad,51.05638,3.72307,Entire home/apt,119,1,9,2020-11-23,3.29,3,359
+42826387,Studio Lupo - sleep on the water,5104497,Vicky,,Muide - Meulestede - Afrikalaan,51.06475,3.73626,Entire home/apt,80,2,23,2020-10-11,4.11,1,176
+42834673,"Huis met privé kamer, gedeelde badkamer & keuken",5864796,Nelson,,Sint Amandsberg,51.05873,3.74646,Private room,60,2,0,,,1,0
+42861972,Gezellig appartement met uitzicht op het water,77901667,Simon,,Macharius - Heirnis,51.05613,3.73382,Entire home/apt,125,2,0,,,1,270
+42890858,Spacious renovated bungalow near Ghent,341524082,Joséphine,,Drongen,51.04822,3.64484,Entire home/apt,60,1,1,2020-07-26,0.24,1,77
+42971454,A beautiful & Cosy apartment - feels like home,268809485,Annick,,Elisabethbegijnhof - Papegaai,51.05014,3.7146,Entire home/apt,70,3,4,2020-09-28,0.94,1,150
+43044239,Stay in the Historic Centre of Ghent,342634917,Hans Joseph,,Elisabethbegijnhof - Papegaai,51.04982,3.71777,Entire home/apt,72,1,45,2020-11-15,9.31,1,357
+43184479,★Architectural & Design app w terrace/city center★,343854593,Thomas,,Binnenstad,51.05115,3.7274,Entire home/apt,175,2,0,,,1,0
+43235666,"Room n°3
+A characteristic suite with wooden floors and high ceilings.",9627775,Maison MIELOU,,Elisabethbegijnhof - Papegaai,51.05468,3.71702,Private room,140,1,0,,,4,359
+43253275,Whole Apartment 3 mins. from Central Train Station,344424312,Ana,,Stationsbuurt Noord,51.03771,3.71499,Entire home/apt,120,1,2,2020-08-30,0.36,3,55
+43282259,[NEW] Bedroom 3 mins. from Central Train Station,344424312,Ana,,Stationsbuurt Noord,51.03817,3.71314,Private room,35,1,22,2020-11-16,3.46,3,56
+43324990,Sleeping on a boat - Ecohostel,345026150,Liselot,,Rabot  - Blaisantvest,51.0608,3.70532,Entire home/apt,360,2,3,2020-08-23,0.62,1,88
+43354862,"Studio on the water, close to city center",11299639,Marika,,Muide - Meulestede - Afrikalaan,51.06423,3.7362,Entire home/apt,94,2,13,2020-09-19,2.58,1,365
+43381105,newly renovated fully equip. apartment  in center,31598040,Davy,,Elisabethbegijnhof - Papegaai,51.05334,3.71587,Entire home/apt,65,2,6,2020-10-05,1.24,1,123
+43423300,Studio 22m2 -close to nature-10min bike citycenter,62427525,Anna,,Gentbrugge,51.04852,3.7655,Entire home/apt,35,100,0,,,1,306
+43458159,quiet loft in the outskirts of City of Ghent,268842235,Thijs,,Bloemekenswijk,51.07634,3.7068,Entire home/apt,65,1,15,2020-10-25,3.33,1,355
+43471652,★ Exclusive & Charming app with garden & terrace ★,346623716,Bernard,,Stationsbuurt Zuid,51.03101,3.71868,Entire home/apt,170,2,4,2020-11-25,0.78,2,356
+43513895,SO MUCH MORE THAN A PIANOSTORE,47613045,Benedikte,,Elisabethbegijnhof - Papegaai,51.05484,3.71712,Private room,88,1,0,,,1,0
+43521263,Camping with your own tent in a private wood,256604449,Martine,,Drongen,51.04724,3.62162,Private room,40,1,0,,,2,0
+43523485,Spacious Studio in the center!,347263320,Ece,,Binnenstad,51.05121,3.7303,Entire home/apt,44,3,2,2020-10-18,0.40,2,127
+43523807,The Green Attic Ghent + 2 bikes!.,36635563,Maël,,Bloemekenswijk,51.07576,3.70995,Entire home/apt,70,1,94,2020-11-16,16.21,1,0
+43525279,Modern en licht appartement aan Gentse stadsrand,4993073,Klaar,,Oud Gentbrugge,51.04195,3.74149,Entire home/apt,109,2,5,2020-08-21,1.13,1,14
+43535570,Unique experience - spacious boathouse near center,12546310,Lies,,Muide - Meulestede - Afrikalaan,51.0599,3.73784,Entire home/apt,95,2,22,2020-11-16,4.78,1,109
+43551507,★ Exclusive Loft-style app with garden & terrace ★,346623716,Bernard,,Stationsbuurt Zuid,51.02976,3.71957,Entire home/apt,95,2,0,,,2,365
+43617882,Luxurious apartment in the city center of Ghent,38086078,Jonas,,Elisabethbegijnhof - Papegaai,51.05478,3.71467,Entire home/apt,93,2,6,2020-07-21,1.04,4,90
+43665301,Contemporary family home with garden & 2 bikes,12757794,Sofie,,Nieuw Gent - UZ,51.02688,3.73229,Entire home/apt,80,2,6,2020-08-23,1.54,1,0
+43667813,it's  more  chil places for 2p gent  city,238217125,Uthayakiri,,Binnenstad,51.05984,3.7288,Private room,85,1,0,,,2,365
+43686477,Namaste (welcome),348908585,Pankaj,,Stationsbuurt Noord,51.03558,3.71542,Private room,15,1,0,,,1,360
+43690678,De mooiste zolder van Gent,348887597,Ludo,,Binnenstad,51.05037,3.73181,Private room,61,2,13,2020-09-11,2.65,1,147
+43692146,Piccolo studio nuovo completo di tutto,290968119,Davide,,Dampoort,51.05459,3.74938,Entire home/apt,35,5,8,2020-08-12,1.44,1,178
+43705379,Studio appartment with terras in centre of Ghent!!,349127632,Marcel,,Elisabethbegijnhof - Papegaai,51.05516,3.71415,Entire home/apt,64,1,73,2020-12-03,12.59,1,24
+43753829,Charmant huis met grote tuin,331964383,Sofie,,Gentbrugge,51.04178,3.76311,Entire home/apt,80,2,4,2020-11-03,0.90,1,0
+43781673,Design waterfront appartment in central Ghent,22956043,Sybil,,Macharius - Heirnis,51.04355,3.74008,Entire home/apt,70,2,0,,,1,178
+43784261,"Zonnig en ruim appartement in hartje Gent, 4slk",71741518,Nathalie,,Binnenstad,51.04694,3.73321,Entire home/apt,189,2,4,2020-08-14,0.87,1,7
+43845854,Cozy private double room in Ghent,65010824,Candy,,Brugse Poort - Rooigem,51.05672,3.69472,Private room,50,1,2,2020-08-06,0.43,1,13
+43852398,★Brand new bright apartment(4p) w A/C near centre★,341071889,Kit Teng,,Macharius - Heirnis,51.0524,3.73802,Entire home/apt,103,2,6,2020-08-24,1.29,3,328
+43865396,"Heaven@11, your holiday house in Gent city center.",7258638,Ina Karina & Patrick,,Binnenstad,51.05764,3.72266,Entire home/apt,315,2,0,,,3,363
+43897200,rooftop apartment with a stunning view,351386532,Dieter,,Binnenstad,51.05294,3.73192,Entire home/apt,120,2,8,2020-08-26,1.52,1,62
+43964703,Gezellig appartementje in hart van Gent,16229885,Saskia,,Binnenstad,51.04628,3.72337,Entire home/apt,60,2,1,2020-07-19,0.23,1,152
+43966766,Quiet room close to UZ Ghent and Zwijnaarde,23663817,Veerle,,Nieuw Gent - UZ,51.01663,3.72023,Private room,40,1,6,2020-10-03,1.94,1,179
+44002199,Cosy room,139998494,Wilson,,Ledeberg,51.0365,3.7474,Private room,30,1,3,2020-07-29,0.62,1,365
+44023053,Luxueus appartement nabij St Pietersstation,220954208,Johanna,,Stationsbuurt Noord,51.03951,3.71134,Entire home/apt,90,4,0,,,2,0
+44026547,ZIE-me's Place centre Ghent,102620459,Martine,,Elisabethbegijnhof - Papegaai,51.05138,3.72002,Entire home/apt,95,1,12,2020-10-27,2.45,1,337
+44035334,Beautiful Villa close to the center of Gent,232746364,Taskin,,Stationsbuurt Zuid,51.02467,3.70381,Entire home/apt,150,4,7,2020-08-22,1.37,1,242
+44080279,Charming apartment with nice private courtyard,39954351,Carl,,Binnenstad,51.05736,3.72123,Entire home/apt,85,2,6,2020-08-23,1.41,1,0
+44107846,Studio 3 persons in historic centre Gent,120203973,Hans,,Elisabethbegijnhof - Papegaai,51.04961,3.71691,Entire home/apt,68,1,41,2020-11-02,8.66,2,358
+44149879,Cosy appartement for 5 people.,118466093,Melanie,,Rabot  - Blaisantvest,51.06357,3.70481,Private room,90,2,0,,,1,178
+44158082,Boatie's * bed bad boot!,31377738,Lore,,Muide - Meulestede - Afrikalaan,51.06381,3.73711,Private room,68,2,2,2020-09-27,0.49,1,0
+44174475,"Uniek en modern appartement, dichtbij Gent",68264199,Jo,,Zwijnaarde,50.9993,3.71523,Entire home/apt,60,1,2,2020-09-30,0.58,1,152
+44180302,★Brand new gorgeous duplex  w A/C near centre★,341071889,Kit Teng,,Macharius - Heirnis,51.0517,3.73714,Entire home/apt,177,2,0,,,3,225
+44208761,Mini loft with maxi view,45505357,Saartje,,Elisabethbegijnhof - Papegaai,51.0561,3.70987,Entire home/apt,75,2,5,2020-11-08,1.43,1,340
+44219396,"Quiet modern appartment, close to Ghent",128731970,Sarah,,Oostakker,51.09389,3.75798,Entire home/apt,75,3,1,2020-10-25,0.91,1,53
+44303507,"Ruime woning met dakterras, nabij Centrum",80419232,Ine,,Sluizeken - Tolhuis - Ham,51.05713,3.73506,Entire home/apt,130,1,12,2020-11-01,2.90,1,0
+44312461,Apartment for rent in Ghent,154673849,Samia,,Ledeberg,51.03667,3.73796,Entire home/apt,190,2,0,,,2,364
+44397602,Spacious quiet sunny room,8049849,Céline,,Muide - Meulestede - Afrikalaan,51.07926,3.72958,Private room,20,1,1,2020-09-25,0.48,1,0
+44401437,Cosy room in apartment near centre of Ghent,112840710,Halinka,,Dampoort,51.05671,3.74151,Private room,35,2,2,2020-10-16,0.67,1,180
+44402538,moderne woning niet ver van het centrum,125572769,Marleen,,Ledeberg,51.03591,3.74598,Private room,30,1,5,2020-08-31,1.23,2,86
+44404552,Cosy bedroom close to train station & city centre,4911357,Vjen,,Binnenstad,51.04203,3.71865,Private room,32,2,0,,,1,155
+44426709,"Business or travel studio,  central quiet location",8604293,Maaike,,Elisabethbegijnhof - Papegaai,51.04949,3.71885,Entire home/apt,65,5,0,,,2,27
+44440059,Oude jeneverbrouwerij van 1740,337719699,Stefanie,,Elisabethbegijnhof - Papegaai,51.05602,3.71414,Entire home/apt,285,2,1,2020-08-24,0.32,1,163
+44442191,Ruim gelijkvloersapp. met tuin en 3 slaapkamers,358997088,Elke,,Wondelgem,51.08117,3.71077,Entire home/apt,66,2,3,2020-11-06,0.95,1,0
+44454928,Spacious studio @UZ Ghent/Studio spacieux @UZ Gand,80232268,Sarah,,Nieuw Gent - UZ,51.02742,3.73179,Private room,39,5,11,2020-10-22,2.82,1,114
+44485868,Stay in the Historic Centre / Beautiful studio,120203973,Hans,,Elisabethbegijnhof - Papegaai,51.05095,3.71641,Entire home/apt,62,1,30,2020-11-22,8.04,2,363
+44555298,Rose House B&B - Suite,264917270,Galeh,,Sint Denijs Westrem,51.02005,3.69006,Private room,194,1,0,,,5,362
+44571764,Gent Home Near Station,181100904,Zeynab,,Stationsbuurt Noord,51.03781,3.7135,Entire home/apt,89,1,0,,,1,0
+44575274,Green oasis in Ghent,5981363,Wendy,,Bloemekenswijk,51.06786,3.70661,Private room,50,1,2,2020-10-14,0.62,1,89
+44611561,King Bed Private Room Near Gravestien,142421114,Hasan,,Elisabethbegijnhof - Papegaai,51.0587,3.71326,Private room,38,1,0,,,1,17
+44642969,Big room near vibrant Ghent.,53028694,Leyla,,Dampoort,51.04833,3.75402,Private room,25,1,4,2020-11-07,1.60,1,206
+44692314,(its chill place for 2p) gent city,238217125,Uthayakiri,,Binnenstad,51.05986,3.72983,Private room,75,1,0,,,2,0
+44787982,Save money and enjoy Ghent,361582889,Besho,,Nieuw Gent - UZ,51.02147,3.71276,Entire home/apt,25,1,3,2020-09-27,1.18,1,177
+44788824,Small room in studio apartment - Central Location,347263320,Ece,,Binnenstad,51.05134,3.73042,Private room,35,70,1,2020-10-04,0.48,2,365
+44989475,Upscale residence with private pool,363069688,Daniel,,Drongen,51.03265,3.59135,Entire home/apt,137,2,6,2020-11-14,2.65,1,354
+45072726,Historical loft city center,38086078,Jonas,,Sluizeken - Tolhuis - Ham,51.06016,3.72416,Private room,50,1,0,,,4,365
+45072737,Historical loft city center,38086078,Jonas,,Sluizeken - Tolhuis - Ham,51.05997,3.72566,Entire home/apt,80,1,0,,,4,0
+45075291,"Quiet, luxury apartment near Gravensteen Castle",54994195,Sara,,Binnenstad,51.05773,3.72268,Entire home/apt,125,2,1,2020-10-05,0.57,1,0
+45093498,Ruime kamer in een gerenoveerd oud klooster,5456443,Ruth,,Watersportbaan - Ekkergem,51.05056,3.7038,Private room,70,3,0,,,2,0
+45108222,Family 2 bedrooms and St Peters Station,344424312,Ana,,Stationsbuurt Noord,51.0364,3.71094,Private room,48,1,0,,,3,0
+45111725,Room with terrace and outside warm shower - unique,170037596,Julie,,Stationsbuurt Zuid,51.03152,3.7031,Private room,50,2,0,,,1,0
+45130133,★ Spacious & Central appt / ground floor / 4 pax ★,364455800,Lien,,Binnenstad,51.05433,3.72502,Entire home/apt,109,2,0,,,3,365
+45144672,@303 room2,183575014,Bernard,,Nieuw Gent - UZ,51.03074,3.73133,Private room,27,1,7,2020-11-06,2.76,2,364
+45172916,Private room in a shared apartment in Ghent,336046785,Amna,,Macharius - Heirnis,51.04378,3.74093,Private room,45,1,0,,,1,4
+45174127,Bussiness appartement te huur,325545507,Jody,,Sint Denijs Westrem,51.02257,3.66348,Entire home/apt,59,6,0,,,2,0
+45201283,APPARTEMENT NEUF CENTRE DE GAND,18826911,Nicolas,,Binnenstad,51.04321,3.72593,Entire home/apt,41,2,0,,,1,113
+45215563,Comfortable room in centrum of Ghent,365247925,Kevin,,Rabot  - Blaisantvest,51.06373,3.70653,Private room,35,1,5,2020-10-18,2.14,3,0
+45237545,Peaceful countryside studio close to Ghent,152299817,Kristof,,Drongen,51.06161,3.62195,Private room,60,2,1,2020-09-20,0.44,1,180
+45240701,Comfortable room in centrum of Ghent,365247925,Kevin,,Rabot  - Blaisantvest,51.06313,3.70737,Private room,25,1,4,2020-10-06,1.46,3,0
+45250457,Urban Loft | A unique spot in Ghent,26460794,Anissa,,Macharius - Heirnis,51.05511,3.73948,Entire home/apt,58,1,5,2020-09-27,1.70,2,179
+45307802,Home Trietje 2 in Gent,19054548,Ly,,Bloemekenswijk,51.06794,3.69824,Entire home/apt,120,7,0,,,2,0
+45307933,Room in historical B&B at railway station in Ghent,20827445,Fran,,Stationsbuurt Noord,51.03659,3.7144,Private room,110,1,0,,,2,176
+45308116,Room in historical B&B at railway station in Ghent,20827445,Fran,,Stationsbuurt Noord,51.03677,3.71499,Private room,100,1,0,,,2,0
+45326884,Newly renovated appartment in city centre for 6,71056582,Judith,,Macharius - Heirnis,51.05687,3.73739,Entire home/apt,61,2,3,2020-10-22,1.32,1,146
+45348222,2 mooie kamers vlakbij hartje Gent,46960168,Matthias,,Sint Amandsberg,51.0657,3.75333,Private room,55,1,0,,,1,90
+45381970,Comfortable room in centrum of Ghent,365247925,Kevin,,Rabot  - Blaisantvest,51.06386,3.70607,Private room,35,1,3,2020-10-08,1.30,3,360
+45416541,GLORIA LOFT GENT,35788202,Gerlinde,,Elisabethbegijnhof - Papegaai,51.05579,3.71508,Entire home/apt,90,2,4,2020-11-05,2.55,2,238
+45425157,Stunning waterview @this Homeawayfromhome,54402975,Inka,,Muide - Meulestede - Afrikalaan,51.06418,3.73884,Entire home/apt,100,2,0,,,1,364
+45439096,Cosy house close to city centre of Ghent,147209997,Stefanie,,Nieuw Gent - UZ,51.02668,3.73304,Private room,40,1,0,,,1,177
+45482725,Studio Center GENT,344892936,Miguel,,Binnenstad,51.04857,3.72211,Entire home/apt,50,2,1,2020-09-20,0.44,1,365
+45522415,★Nicely located duplex 4pax in centre of Ghent★,364455800,Lien,,Binnenstad,51.05598,3.72436,Entire home/apt,98,2,0,,,3,365
+45522653,★Beautiful & Spacious duplex 5pax centre of Ghent★,364455800,Lien,,Binnenstad,51.0548,3.72647,Entire home/apt,101,2,1,2020-09-27,0.49,3,0
+45537662,Cosy apartment in the middel of the city center,247000577,Henri,,Binnenstad,51.05475,3.72724,Private room,40,1,0,,,1,0
+45585648,Romantic room at the opera,110630447,Kristof,,Binnenstad,51.04938,3.72194,Private room,70,1,3,2020-10-18,1.45,1,0
+45588312,"Gent - The place to be...!
+The Pink Elephant Room",272913310,Ayesha,,Brugse Poort - Rooigem,51.06186,3.70066,Private room,25,1,2,2020-10-10,1.05,5,318
+45629609,huge place in the city centre,369645246,Leonard,,Binnenstad,51.05316,3.73097,Entire home/apt,51,1,5,2020-11-22,2.73,1,354
+45643299,Verne Dreams : Shanghai room,86368262,Vincent,,Binnenstad,51.05428,3.72972,Private room,85,1,1,2020-10-02,0.54,2,362
+45707008,High ceilinged & spacious apartment central Ghent,14853087,Matthias,,Watersportbaan - Ekkergem,51.04425,3.72008,Private room,69,1,0,,,1,90
+45727970,My place is a cozy studio & not far from center.,175236623,Majlinda,,Stationsbuurt Zuid,51.02558,3.72035,Entire home/apt,50,15,0,,,1,260
+45735123,Brandnew guesthouse near the citycentre of Ghent 3,370744291,Maud,,Rabot  - Blaisantvest,51.05853,3.70947,Private room,110,1,0,,,2,341
+45743054,"HAM 205, Your home in Ghent",28536287,Valeria,,Sluizeken - Tolhuis - Ham,51.0618,3.73483,Entire home/apt,85,1,2,2020-10-21,1.25,1,205
+45743629,Spacious private room near Gent Sint Peter.,357038172,Waheed,,Stationsbuurt Zuid,51.03439,3.7104,Private room,31,1,3,2020-10-29,2.09,1,10
+45748440,Charm Room,291751672,Gilles,,Binnenstad,51.04418,3.73384,Private room,125,1,0,,,1,0
+45763899,studio near Gent in green environment with balcony,5496119,Kaat,,Zwijnaarde,51.00565,3.70401,Entire home/apt,35,2,3,2020-12-01,1.80,1,98
+45788977,Cozy Bright Room with bath in Gent,371214347,Polly,,Binnenstad,51.04334,3.72177,Private room,30,14,0,,,1,269
+45852158,Old Unique House in City Center Mamés Turquoise,4896545,Karolien,,Binnenstad,51.05877,3.72516,Entire home/apt,149,2,0,,,3,148
+45873844,De Kluis,26338675,Bea En Kristien,,Elisabethbegijnhof - Papegaai,51.05755,3.71624,Private room,99,1,0,,,6,307
+45874295,Single room,26338675,Bea En Kristien,,Elisabethbegijnhof - Papegaai,51.05549,3.7164,Private room,69,1,0,,,6,280
+45875170,Twin kamer,26338675,Bea En Kristien,,Elisabethbegijnhof - Papegaai,51.05737,3.71595,Private room,98,1,0,,,6,275
+45875206,Driepersoonskamer,26338675,Bea En Kristien,,Elisabethbegijnhof - Papegaai,51.05763,3.71617,Private room,140,1,0,,,6,0
+45935514,Gloednieuw Appartement in Historisch Centrum Gent,24188020,Paul,,Binnenstad,51.05488,3.73017,Entire home/apt,68,2,0,,,1,0
+45938880,Room 'Emile' - B&B Graaf.,43889699,Kenzo,,Elisabethbegijnhof - Papegaai,51.05324,3.71845,Private room,70,1,0,,,3,182
+45938885,Room 'Margriet' - B&B Graaf.,43889699,Kenzo,,Binnenstad,51.05906,3.722,Private room,50,1,0,,,3,182
+45947218,Gezellig nieuwbouw appartement aan het water,230980296,Lieselotte,,Oud Gentbrugge,51.04517,3.75508,Entire home/apt,42,3,0,,,1,0
+45980253,Room with a Coca-Cola touch,1433901,Devogelaere,,Brugse Poort - Rooigem,51.06362,3.69021,Private room,35,1,0,,,1,180
+45988729,Moderne loft in historisch pand,196535693,Wim,,Sint Denijs Westrem,51.01687,3.65847,Entire home/apt,80,3,0,,,1,364
+46033759,Trendy B&B vlakbij  stadcentrum &  Bourgoyen,1823135,Ruth,,Bloemekenswijk,51.06874,3.69967,Private room,80,1,0,,,4,365
+46047880,Luxury apartment to enjoy your stay to the max!,4656004,Louis & Elyn,,Binnenstad,51.03969,3.73442,Entire home/apt,65,1,3,2020-11-08,3,4,157
+46048316,All you need to enjoy your stay to the fullest!,4656004,Louis & Elyn,,Binnenstad,51.04135,3.734,Entire home/apt,50,1,2,2020-11-16,2,4,157
+46049306,Apartments in  historical  center of Patershol 2,110445323,Angelina,,Binnenstad,51.05788,3.72482,Entire home/apt,55,7,0,,,4,185
+46049607,Apartment in historical center of Patershol 1,110445323,Angelina,,Sluizeken - Tolhuis - Ham,51.06002,3.72383,Entire home/apt,25,7,0,,,4,117
+46070489,Apartments in the city center. Patershol,110445323,Angelina,,Binnenstad,51.05771,3.72379,Entire home/apt,40,7,0,,,4,272
+46098648,Tweepersoonskamer,26338675,Bea En Kristien,,Elisabethbegijnhof - Papegaai,51.05618,3.71612,Private room,98,1,0,,,6,278
+46098941,Nazareth,26338675,Bea En Kristien,,Elisabethbegijnhof - Papegaai,51.05749,3.71481,Private room,500,1,0,,,6,333
+46100001,Brandnew spacious room near citycentre of Ghent 2,370744291,Maud,,Rabot  - Blaisantvest,51.05794,3.70982,Private room,88,1,1,2020-11-08,1,2,365
+46101196,Wonderful B&B Room Monet,350488900,R,,Macharius - Heirnis,51.05311,3.73527,Private room,31,1,1,2020-11-08,1,1,174
+46119402,guest room with private parking in center of Ghent,373764800,Marieke,,Elisabethbegijnhof - Papegaai,51.04983,3.71813,Private room,40,1,1,2020-11-09,1,1,0
+46154732,Charming and cosy studio in Ghent,4656004,Louis & Elyn,,Binnenstad,51.0399,3.73264,Entire home/apt,45,1,3,2020-11-21,3,4,180
+46186505,"Not special, but good for a short stay",374141929,Mohammed,,Sluizeken - Tolhuis - Ham,51.06319,3.72703,Entire home/apt,33,2,0,,,1,24
+46193898,Paterschol apart,110445323,Angelina,,Binnenstad,51.05851,3.72533,Entire home/apt,50,7,0,,,4,95
+46229261,Sunny room with gardenvieuw and free bikes.,9627775,Maison MIELOU,,Sint Amandsberg,51.059,3.74892,Entire home/apt,27,30,0,,,4,343
+46250489,Ruime woning aan Gentse stadsrand - Lange verhuur,24471831,Céline,,Oud Gentbrugge,51.04366,3.74807,Entire home/apt,99,7,0,,,1,13
+46305052,Lovely apartment with terrace,4656004,Louis & Elyn,,Binnenstad,51.03961,3.73294,Entire home/apt,57,1,0,,,4,180
+46328645,Sleeping in the historic city center of Ghent,329530213,Alexia,,Elisabethbegijnhof - Papegaai,51.05556,3.71124,Entire home/apt,52,14,0,,,1,90
+46462742,Cosy and spacious apartment in Ghent,4552657,Maroesjka,,Macharius - Heirnis,51.04779,3.74483,Entire home/apt,41,1,0,,,1,0
+46481223,Gent Logeerplek dichtbij gezellige stadscentrum,98008985,Hannelore,,Sluizeken - Tolhuis - Ham,51.06168,3.72431,Private room,40,1,0,,,1,65
+46521324,Appartement in centrum met privé tuin,42220262,Hans,,Sluizeken - Tolhuis - Ham,51.0632,3.72761,Entire home/apt,45,30,0,,,1,218
+46562904,Charming guest house in the back of a garden.,47206680,Joris,,Dampoort,51.05308,3.74516,Entire home/apt,160,5,0,,,1,163

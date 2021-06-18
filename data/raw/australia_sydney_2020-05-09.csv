@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: australia/nsw/sydney/2020-05-09/visualisations/listings.csv</li>
+<li>RequestId: NQY3N9XZKJSPYG4E</li>
+<li>HostId: zi6jvm7KvkwWq4jxKlHjBSN11L3E9PcnCiNnAiFXa+Vvu+/8hbuCzKqbagNk1paw89zpnTaJQtc=</li>
+</ul>
+<hr/>
+</body>
+</html>

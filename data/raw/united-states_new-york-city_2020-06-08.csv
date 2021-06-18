@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: united-states/ny/new-york-city/2020-06-08/visualisations/listings.csv</li>
+<li>RequestId: QBVP3904XATYSFRD</li>
+<li>HostId: TTgettxZCfCaB1QQd4SLF7+gdt+eXV+U57sD97GJvZUJuor853qp18kOD3kqy7/3avZmiE5OvqM=</li>
+</ul>
+<hr/>
+</body>
+</html>
