@@ -1,0 +1,55 @@
+{% extends 'index.html' %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<h2>Find the Right Price to Rent Your Airbnb</h2>
+<form
+action="http://127.0.0.1:5000/"
+method="POST">
+    <p>
+        <input type="text"
+        name="latitude"
+        aria-label="Latitude (-90 to 90 degrees)" />
+    </p>
+
+    <p>
+        <input type="text"
+        name="longitude"
+        aria-label="Longitude (-180 to 180 degrees)" />
+    </p>
+
+    <p>
+        <input type="text"
+        name="room_type"
+        aria-label="Room Type" />
+    </p>
+
+    <p>
+        <input type="text"
+        name="min_nights"
+        aria-label="Minimum Nights" />
+    </p>
+
+    <p>
+        <input
+        type="text"
+        name="number_of_reviews"
+        aria-label="Number of Reviews" />
+    </p>
+
+    <p>
+        <input
+        type="text"
+        name="host_listing_count"
+        aria-label="Host Listing Count" />
+    </p>
+
+    <p>
+        <input
+        type="text"
+        name="availability_365"
+        aria-label="Availability (out of 365 days)"/>
+    </p>
+
+    <p><input type="submit" value="GO!" /></p>
+</form>
+{% endblock %}
