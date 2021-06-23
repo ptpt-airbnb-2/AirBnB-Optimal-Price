@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8649dc0da3d50b1885c319ecef26acac44016c1cafc80857321cb78d23a137b7"
+            "sha256": "d76cdd40cb2e47c60fa63229378508e395f989cff40aa58a9d8c913983e04c6b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -441,10 +441,6 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==1.1.5"
-        },
-        "src": {
-            "editable": true,
-            "file": "file:///Users/rob/G_Drive_sing.parvi/Colab_Notebooks/DS-Unit-4-BW/ptpt-airbnb-2"
         },
         "urllib3": {
             "hashes": [
