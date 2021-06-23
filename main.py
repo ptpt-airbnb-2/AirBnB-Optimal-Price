@@ -11,13 +11,7 @@ import uvicorn
 
 BASE_DIR = Path(__file__).parent.parent
 
-print(BASE_DIR)
 
-import os
-
-path = os.getcwd()
-
-print(path)
 
 
 app = Flask(__name__)
