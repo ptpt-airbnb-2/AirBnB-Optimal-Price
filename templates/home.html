@@ -7,7 +7,7 @@
 action="{{ url_for('predict')}}"method="POST">
     <input type="text"
         name="latitude"
-        placeholder="Latitude (-180 to 180 degrees)"
+        placeholder="Latitude (-90 to 90 degrees)"
         required="required"
     />
 
@@ -16,7 +16,6 @@ action="{{ url_for('predict')}}"method="POST">
         placeholder="Longitude (-180 to 180 degrees)"
         required="required"
     />
-    </p>
 
     <input type="text"
         name="neighbourhood"
@@ -44,22 +43,18 @@ action="{{ url_for('predict')}}"method="POST">
         required="required"
     />
 
-    <input
-        type="text"
+    <input type="text"
         name="host_listing_count"
         placeholder="What is your Host Listing Count?"
         required="required"
     />
 
-    <input
-        type="text"
+    <input type="text"
         name="availability_365"
         placeholder="Availability (out of 365 days)"
         required="required"
     />
-    </p>
 
     <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
-<!--    <p><input type="submit" value="GO!" /></p>-->
 </form>
 {% endblock %}
