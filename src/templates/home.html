@@ -1,55 +1,65 @@
 {% extends 'index.html' %}
 {% block title %}Home{% endblock %}
 {% block content %}
-<h2>Find the Right Price to Rent Your Airbnb</h2>
+<h4>Find the Right Price to Rent Your Airbnb</h4>
+<!--The following code makes a form to enter new data for predictions-->
 <form
-action="http://127.0.0.1:5000/"
-method="POST">
-    <p>
-        <input type="text"
+action="{{ url_for('predict')}}"method="POST">
+    <input type="text"
         name="latitude"
-        aria-label="Latitude (-90 to 90 degrees)" />
-    </p>
+        placeholder="Latitude (-180 to 180 degrees)"
+        required="required"
+    />
 
-    <p>
-        <input type="text"
+    <input type="text"
         name="longitude"
-        aria-label="Longitude (-180 to 180 degrees)" />
+        placeholder="Longitude (-180 to 180 degrees)"
+        required="required"
+    />
     </p>
 
-    <p>
-        <input type="text"
+    <input type="text"
+        name="neighbourhood"
+        placeholder="Neighbourhood Number. See link below for complete list."
+        required="required"
+    />
+
+    <input type="text"
         name="room_type"
-        aria-label="Room Type" />
-    </p>
+        placeholder="Room Type: 0 for __, 1 for Private, 2 for Shared, 3 for Hotel"
+        required="required"
+    />
 
-    <p>
-        <input type="text"
+
+    <input type="text"
         name="min_nights"
-        aria-label="Minimum Nights" />
-    </p>
+        placeholder="Minimum Nights"
+        required="required"
+    />
 
-    <p>
-        <input
+    <input
         type="text"
         name="number_of_reviews"
-        aria-label="Number of Reviews" />
-    </p>
+        placeholder="Number of Reviews for your property?"
+        required="required"
+    />
 
-    <p>
-        <input
+    <input
         type="text"
         name="host_listing_count"
-        aria-label="Host Listing Count" />
-    </p>
+        placeholder="What is your Host Listing Count?"
+        required="required"
+    />
 
-    <p>
-        <input
+    <input
         type="text"
         name="availability_365"
-        aria-label="Availability (out of 365 days)"/>
+        placeholder="Availability (out of 365 days)"
+        required="required"
+    />
     </p>
 
-    <p><input type="submit" value="GO!" /></p>
+    <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+<!--    <p><input type="submit" value="GO!" /></p>-->
 </form>
 {% endblock %}

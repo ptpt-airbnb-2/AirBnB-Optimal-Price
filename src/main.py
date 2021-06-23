@@ -1,35 +1,47 @@
 """Instantiates the Airbnb application."""
+import pandas as pd
+import numpy as np
 from flask import Flask, render_template, redirect, request
 from flask.helpers import url_for
+from tensorflow.keras.models import load_model
 
 app = Flask(__name__)
+# Import model
+model = load_model('../models/airbnbpredict_all_data.h5')
+# Define the column names for importing the user data
+cols = ['latitude', 'longitude', 'neighbourhood', 'room_type',
+        'minimum_nights', 'number_of_reviews',
+        'calculated_host_listings_count', 'availability_365']
 
 
-@app.route('/', methods=['POST', 'GET'])
+@app.route('/')
 async def index():
     """Homepage view."""
-
-    if request.method == 'POST':
-        latitude = request.form['latitude'],
-        longitude = request.form['longitude'],
-        room_type = request.form['room_type'],
-        min_nights = request.form['min_nights'],
-        number_of_reviews = request.form['number_of_reviews'],
-        host_listing_count = request.form['host_listing_count'],
-        availability_365 = request.form['availability_365']
-
-        return redirect(
-            url_for('predict')
-        )
-
-    else:
-        return render_template('home.html')
+    return render_template('home.html')
 
 
-@app.route('/predict')
+@app.route('/predict', methods=['POST'])
 def predict():
-    """Runs the user values through the price optimization model."""
-    return render_template('predict.html')
+    """Get the information from the home.html and returns the predicted value."""
+    # Collect the user data and change to array and then to DataFrame
+    user_data = [float(x) for x in request.form.values()]
+    user_data_np = np.array(user_data)
+    user_data_df = pd.DataFrame([user_data_np], columns=[cols])
+    # Use model to make prediction
+    prediction = model.predict(user_data_df)
+
+    if prediction < 0:
+        return render_template('home.html',
+                               pred='Your set parameters are out of range something trained model has not seen!')
+
+    elif prediction > 2000000:
+        return render_template('home.html',
+                               pred='Your set parameters are out of range something! Please revisit them.')
+    else:
+        return render_template('home.html',
+                               pred='Your property should be listed at {} in the '
+                                    'local currency of the geo '
+                                    'location.'.format(int(prediction[0][0])))
 
 
 if __name__ == '__main__':
