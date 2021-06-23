@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-src = {editable = true, file = "file:///Users/rob/G_Drive_sing.parvi/Colab_Notebooks/DS-Unit-4-BW/ptpt-airbnb-2"}
 click = "*"
 coverage = "*"
 awscli = "*"

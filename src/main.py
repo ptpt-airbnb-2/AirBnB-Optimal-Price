@@ -1,13 +1,20 @@
 """Instantiates the Airbnb application."""
 import pandas as pd
 import numpy as np
+import os
 from flask import Flask, render_template, redirect, request
-from flask.helpers import url_for
 from tensorflow.keras.models import load_model
+from pathlib import Path
+import uvicorn
+
 
 app = Flask(__name__)
 # Import model
-model = load_model('../models/airbnbpredict_all_data.h5')
+print()
+dirname = os.path.dirname
+print(dirname(__file__))
+print()
+model = load_model("../models/airbnbpredict_all_data.h5")
 # Define the column names for importing the user data
 cols = ['latitude', 'longitude', 'neighbourhood', 'room_type',
         'minimum_nights', 'number_of_reviews',
