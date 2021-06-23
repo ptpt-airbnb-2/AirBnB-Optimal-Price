@@ -5,7 +5,6 @@ import os
 from flask import Flask, render_template, redirect, request
 from tensorflow.keras.models import load_model
 from pathlib import Path
-import uvicorn
 
 
 
