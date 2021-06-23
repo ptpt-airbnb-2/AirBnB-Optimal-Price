@@ -1,0 +1,65 @@
+{% extends 'index.html' %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<h4>Find the Right Price to Rent Your Airbnb</h4>
+<!--The following code makes a form to enter new data for predictions-->
+<form
+action="{{ url_for('predict')}}"method="POST">
+    <input type="text"
+        name="latitude"
+        placeholder="Latitude (-180 to 180 degrees)"
+        required="required"
+    />
+
+    <input type="text"
+        name="longitude"
+        placeholder="Longitude (-180 to 180 degrees)"
+        required="required"
+    />
+    </p>
+
+    <input type="text"
+        name="neighbourhood"
+        placeholder="Neighbourhood Number. See link below for complete list."
+        required="required"
+    />
+
+    <input type="text"
+        name="room_type"
+        placeholder="Room Type: 0 for __, 1 for Private, 2 for Shared, 3 for Hotel"
+        required="required"
+    />
+
+
+    <input type="text"
+        name="min_nights"
+        placeholder="Minimum Nights"
+        required="required"
+    />
+
+    <input
+        type="text"
+        name="number_of_reviews"
+        placeholder="Number of Reviews for your property?"
+        required="required"
+    />
+
+    <input
+        type="text"
+        name="host_listing_count"
+        placeholder="What is your Host Listing Count?"
+        required="required"
+    />
+
+    <input
+        type="text"
+        name="availability_365"
+        placeholder="Availability (out of 365 days)"
+        required="required"
+    />
+    </p>
+
+    <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+<!--    <p><input type="submit" value="GO!" /></p>-->
+</form>
+{% endblock %}
