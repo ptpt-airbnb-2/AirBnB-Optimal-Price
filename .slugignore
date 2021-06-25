@@ -2,3 +2,4 @@
 
 /app/
 /app/data/
+*.csv
