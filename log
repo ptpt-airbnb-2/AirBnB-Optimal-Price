@@ -1,0 +1,131 @@
+commit eb7287db053d8cc3dd7e97e49d5baf2a11953af4
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Wed Jun 23 02:28:19 2021 -0400
+
+    Changed to tensorflow-cpu
+
+commit 6e460204998ebcafb44edb0b320a018e1e4de7a5
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Wed Jun 23 02:08:38 2021 -0400
+
+    Changed virtual env from pipenv to venv
+
+commit 03b0b99db02c10521367a92451df463a5bad2e27
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Wed Jun 23 01:32:57 2021 -0400
+
+    Changed virtual env from pipenv to venv
+
+commit 1c96a673443f63228eb20ed979014166444b4b00
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Wed Jun 23 00:55:57 2021 -0400
+
+    Updated Procfile for Heroku Deployment
+
+commit 8792ab25d96ff3e39b7e1d5e99a706f7603b3704
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Wed Jun 23 00:50:13 2021 -0400
+
+    Relocated main.py to home, updated Procfile to use gunicorn and updated requirements.txt
+
+commit 3950ef8690b71ccc6762a9b73587e30865553731
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Wed Jun 23 00:02:01 2021 -0400
+
+    Updated pipfile.lock
+
+commit fdd3e65af11ef1439280e99d44ac700366f4b23e
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Tue Jun 22 23:58:03 2021 -0400
+
+    Updated pipfile
+
+commit b352aa134cedd9653902ba77e86d4f1809265162
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Tue Jun 22 21:14:29 2021 -0400
+
+    Updated requirements. Added Pipfile and Procfile
+
+commit 8a241a8f8ff041cc69364a62a9af25bee8aea40b
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Tue Jun 22 21:05:32 2021 -0400
+
+    Working web UI. Updated src
+
+commit 5d105840d3678c49181fda55d449dae2ecc1d524
+Author: Jacob Torres <jacob@jacobtorres.net>
+Date:   Tue Jun 22 11:22:24 2021 -0600
+
+    Flask app successfully serves form to get user values.
+
+commit 3b039b916620162982b5964192250efdf2b7b7c3
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Tue Jun 22 00:32:37 2021 -0400
+
+    Model completed on the complete csv data and models saved
+
+commit 419135b06f1f7e2b9babed9cba7adfc58ad18f82
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Thu Jun 17 23:42:55 2021 -0400
+
+    Model exported, model prediction tested and updated requirements.txt
+
+commit a300acae8c7caccba086559c31822d6b524e7937
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Thu Jun 17 23:15:21 2021 -0400
+
+    Commiting After Basic Model Export
+
+commit 21a816aaacf6f981ad6fc25eac1ad1e155ab379e
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Thu Jun 17 22:39:32 2021 -0400
+
+    Commiting notebooks for review
+
+commit 281047dcb5aad343d5d3c9d7dd07fad7e5982aaf
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Thu Jun 17 22:22:53 2021 -0400
+
+    Commiting collected CSV files 4th batch
+
+commit e130c861c64cf7e573ec199c74f5b4bc9993cf84
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Thu Jun 17 22:22:02 2021 -0400
+
+    Commiting collected CSV files 3rd batch
+
+commit 18f49e0ed61b5ca8433c1b5f5c6494cd4442120d
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Thu Jun 17 22:19:40 2021 -0400
+
+    Commiting collected CSV files
+
+commit a3c77b32a321c1f883e23825acdff059b0a372c7
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Thu Jun 17 22:18:33 2021 -0400
+
+    Commiting collected CSV files
+
+commit 231ab47869d31f41ab6a992c6fa76b63f90d9de2
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Thu Jun 17 22:17:46 2021 -0400
+
+    Committing Latest Notebooks
+
+commit 15dd5c1ff812fce5af4adfb992457877f008e12f
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Thu Jun 17 01:11:11 2021 -0400
+
+    Commit After Completing Data Collection Notebook
+
+commit 0329f448692245422ab3b962f947ee1df6ad1bee
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Thu Jun 17 01:08:01 2021 -0400
+
+    Commit After Completing Data Collection Notebook
+
+commit 242787c7a90db3fd71af923b9c6458ca7b843b62
+Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
+Date:   Wed Jun 16 19:00:30 2021 -0400
+
+    Initial Commit
