@@ -7,7 +7,7 @@
 action="{{ url_for('predict')}}"method="POST">
     <input type="text"
         name="latitude"
-        placeholder="Latitude (-180 to 180 degrees)"
+        placeholder="Latitude (-90 to 90 degrees)"
         required="required"
     />
 
@@ -60,10 +60,11 @@ action="{{ url_for('predict')}}"method="POST">
     </p>
 
     <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    <a href="https://github.com/ptpt-airbnb-2/AirBnB-Optimal-Price/blob/AirBnb_Working_UI/data/processed/Neighbourhood_Ordinal_Encoding_Number.csv">Get Neighbourhood Number from here</a>
 
     <p></p>
     <p>The baseline Mean Absolute Error on the data used was 1368.</p>
-    <p>The Model's Mean Absolute Error calculated initially was 545.</p>
+    <p>The Model's Mean Absolute Error calculated was 545.</p>
     <p>The improvement demonstrated by model using Mean Absolute Error as metrics is 60%.</p>
 <!--    <p><input type="submit" value="GO!" /></p>-->
 </form>

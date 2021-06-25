@@ -16,6 +16,7 @@ action="{{ url_for('predict')}}"method="POST">
         placeholder="Longitude (-180 to 180 degrees)"
         required="required"
     />
+    </p>
 
     <input type="text"
         name="neighbourhood"
@@ -25,7 +26,7 @@ action="{{ url_for('predict')}}"method="POST">
 
     <input type="text"
         name="room_type"
-        placeholder="Room Type: 0 for __, 1 for Private, 2 for Shared, 3 for Hotel"
+        placeholder="Room Type: 1 is Private room, 2 is Entire home/apt, 3 is Hotel room, 4 is Shared room"
         required="required"
     />
 
@@ -43,18 +44,28 @@ action="{{ url_for('predict')}}"method="POST">
         required="required"
     />
 
-    <input type="text"
+    <input
+        type="text"
         name="host_listing_count"
         placeholder="What is your Host Listing Count?"
         required="required"
     />
 
-    <input type="text"
+    <input
+        type="text"
         name="availability_365"
         placeholder="Availability (out of 365 days)"
         required="required"
     />
+    </p>
 
     <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    <a href="https://github.com/ptpt-airbnb-2/AirBnB-Optimal-Price/blob/AirBnb_Working_UI/data/processed/Neighbourhood_Ordinal_Encoding_Number.csv">Get Neighbourhood Number from here</a>
+
+    <p></p>
+    <p>The baseline Mean Absolute Error on the data used was 1368.</p>
+    <p>The Model's Mean Absolute Error calculated was 545.</p>
+    <p>The improvement demonstrated by model using Mean Absolute Error as metrics is 60%.</p>
+<!--    <p><input type="submit" value="GO!" /></p>-->
 </form>
 {% endblock %}
