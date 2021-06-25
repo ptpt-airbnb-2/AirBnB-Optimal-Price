@@ -1,29 +1,13 @@
 """Instantiates the Airbnb application."""
 import pandas as pd
 import numpy as np
-import os
 from flask import Flask, render_template, redirect, request
 from tensorflow.keras.models import load_model
 from pathlib import Path
-import uvicorn
-
-
-
-BASE_DIR = Path(__file__).parent.parent
-
-print(BASE_DIR)
-
-import os
-
-path = os.getcwd()
-
-print(path)
-
 
 app = Flask(__name__)
-# Import model
 
-
+# Import Neural Network model
 model = load_model(filepath="../models/airbnbpredict_all_data.h5")
 # Define the column names for importing the user data
 cols = ['latitude', 'longitude', 'neighbourhood', 'room_type',
@@ -58,8 +42,8 @@ def predict():
         return render_template('home.html',
                                pred='Your property should be listed at {} in the '
                                     'local currency of the geo '
-                                    'location.'.format(int(prediction[0][0])))
-
+                                    "location. "
+                                    .format(int(prediction[0][0])))
 
 if __name__ == '__main__':
     app.run(debug=True)

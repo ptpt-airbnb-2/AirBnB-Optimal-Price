@@ -26,7 +26,7 @@ action="{{ url_for('predict')}}"method="POST">
 
     <input type="text"
         name="room_type"
-        placeholder="Room Type: 0 for __, 1 for Private, 2 for Shared, 3 for Hotel"
+        placeholder="Room Type: 1 is Private room, 2 is Entire home/apt, 3 is Hotel room, 4 is Shared room"
         required="required"
     />
 
@@ -60,6 +60,11 @@ action="{{ url_for('predict')}}"method="POST">
     </p>
 
     <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+
+    <p></p>
+    <p>The baseline Mean Absolute Error on the data used was 1368.</p>
+    <p>The Model's Mean Absolute Error calculated initially was 545.</p>
+    <p>The improvement demonstrated by model using Mean Absolute Error as metrics is 60%.</p>
 <!--    <p><input type="submit" value="GO!" /></p>-->
 </form>
 {% endblock %}
