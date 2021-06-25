@@ -1,0 +1,4 @@
+# Folders for Heroku slug to ignore while building
+
+/app
+/app/data
