@@ -129,3 +129,6 @@ Author: Parvi Singh <72481455+singparvi@users.noreply.github.com>
 Date:   Wed Jun 16 19:00:30 2021 -0400
 
     Initial Commit
+
+
+# If using gitpod use export PIP_USER=false before pip install
