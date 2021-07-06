@@ -45,4 +45,4 @@ Project Organization
 
 # Contributors
 
-[<img alt="singparvi" src="https://avatars.githubusercontent.com/u/72481455?v=4" width="142">](https://github.com/singparvi) | [<img alt="singparvi" src="https://avatars.githubusercontent.com/u/72481455?v=4" width="142">](https://github.com/singparvi)
+[<img alt="singparvi" src="https://avatars.githubusercontent.com/u/72481455?v=4" width="142">](https://github.com/singparvi) | [<img alt="jacob-torres" src="https://avatars.githubusercontent.com/u/25984287?v=4" width="142">](https://github.com/jacob-torres) | [<img alt="yestrella14" src="https://avatars.githubusercontent.com/u/67125251?v=4" width="142">](https://github.com/yestrella14) | [<img alt="Neiswender" src="https://avatars.githubusercontent.com/u/10005149?v=4" width="142">](https://github.com/Neiswender) | [<img alt="jraval2" src="https://avatars.githubusercontent.com/u/83370984?v=4" width="142">](https://github.com/jraval2)
