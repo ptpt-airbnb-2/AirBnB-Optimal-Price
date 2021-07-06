@@ -1,7 +1,10 @@
 ptpt-airbnb-2
 ==============================
 
-This repository includes data and code for the AirBnb Optimal Price available through Heroku.
+This repository includes data and code for the AirBnb Optimal Price available through Heroku. ![https://ptptairbnb2.herokuapp.com/](https://ptptairbnb2.herokuapp.com/)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 Project Organization
 ------------
@@ -40,4 +43,6 @@ Project Organization
 
 --------
 
+# Contributors
 
+[<img alt="singparvi" src="https://avatars.githubusercontent.com/u/72481455?v=4" width="142">](https://github.com/singparvi) | [<img alt="singparvi" src="https://avatars.githubusercontent.com/u/72481455?v=4" width="142">](https://github.com/singparvi)
