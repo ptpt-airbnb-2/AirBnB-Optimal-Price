@@ -1,57 +1,48 @@
 ptpt-airbnb-2
 ==============================
 
-This repository includes data and code for the AirBnb Optimal Price available through Heroku.
+This repository includes data and code for the AirBnb Optimal Price available through Heroku. ![https://ptptairbnb2.herokuapp.com/](https://ptptairbnb2.herokuapp.com/)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 Project Organization
 ------------
 
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   ├── processed      <- The final, Ordinal Encoded File for modeling.
+    │   └── raw            <- The original data sourced from http://insideairbnb.com/get-the-data.html 
+    │                         using notebooks/AirBnB_Historical_Data_Collection.ipynb
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+    ├── models             <- Trained models, model predictions, or model summaries
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    ├── notebooks          <- Jupyter notebooks. Notebooks include Collection, Model on smaller data,
+    │                         and a Model notebook file with all data available.
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+    ├── requirements.txt   <- The requirements file for reproducing the analysis environment.
     │                         generated with `pip freeze > requirements.txt`
     │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
+    ├── main.py            <- main.py file for Heroku deployment
     │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+    ├── static             <- static folder for flask CSS dependencies for Heroku deployment
+    │
+    ├── templates          <- templates folder for flask for landing html pages for Heroku deployment
+    │
+    ├── src                <- Source code for use in this project.
+    │   │
+    │   ├── main.py        <- main.py file to run the web application.
+    │   │
+    │   ├── static         <- static folder for flask CSS dependencies 
+    │   │
+    │   └── templates      <- templates folder for flask for landing html pages
+    │
+    └── Procfile           <- Procfile for Heroku deployment
 
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+# Contributors
+
+[<img alt="singparvi" src="https://avatars.githubusercontent.com/u/72481455?v=4" width="142">](https://github.com/singparvi) | [<img alt="jacob-torres" src="https://avatars.githubusercontent.com/u/25984287?v=4" width="142">](https://github.com/jacob-torres) | [<img alt="yestrella14" src="https://avatars.githubusercontent.com/u/67125251?v=4" width="142">](https://github.com/yestrella14) | [<img alt="Neiswender" src="https://avatars.githubusercontent.com/u/10005149?v=4" width="142">](https://github.com/Neiswender) | [<img alt="jraval2" src="https://avatars.githubusercontent.com/u/83370984?v=4" width="142">](https://github.com/jraval2)

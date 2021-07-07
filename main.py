@@ -8,7 +8,7 @@ from pathlib import Path
 app = Flask(__name__)
 
 # Import Neural Network model
-model = load_model(filepath="../models/airbnbpredict_all_data.h5")
+model = load_model(filepath="./models/airbnbpredict_all_data.h5")
 # Define the column names for importing the user data
 cols = ['latitude', 'longitude', 'neighbourhood', 'room_type',
         'minimum_nights', 'number_of_reviews',
